@@ -1,0 +1,1 @@
+Subspezies der [[Zwerge]]. Beten den [[König in Gelb|gelben König]] an. Sind völlig von Gier zerfressen und betreiben Sklaverei. Opfer von durch den [[Abgrund]] verursachtem Wahnsinn.

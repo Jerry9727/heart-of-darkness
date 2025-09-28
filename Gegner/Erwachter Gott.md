@@ -1,0 +1,1 @@
+Erwachte Götter wurden aus den Tiefen des [[Abgrund|Abgrunds]], wo sie nur als kollektive Emotion bestehen in die Wache Welt gerissen. Die plötzliche Körperlichkeit zusammen mit der Unnatürlichkeit dieses Zustands lässt sie wahnsinnig werden. Sie Verhalten sich wie kollosale Neugeborene. Sie handeln nicht bewusst, denn das wahren sie nie.

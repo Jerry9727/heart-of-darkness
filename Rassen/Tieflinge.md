@@ -1,0 +1,1 @@
+Wurden vor Ewigkeiten aus der ersten Ebene des [[Abgrund|Abgrund]] verbannt. Einst mächtige Dämonen, doch die Zeit und die Generationen haben das Blut dünn werden lassen. Die meisten haben keine Spur ihrer früheren Macht mehr in sich. Heute unterscheidet sie lediglich ihr Aussehen von den [[Menschen]], und zwar nicht zu ihrem Vorteil.

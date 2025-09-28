@@ -3,7 +3,7 @@
 
 Der König überträgt ihnen die Aufgabe seine Tochter, die Prinzessin der Mutter (Lilith) zu opfern.
 
-Tellan begleitet die Spieler. Rika als Nonne/Priesterin von Aurelius übernimmt ebenfalls die Aufsicht.
+Tellan begleitet die Spieler. Rika als Nonne/Priesterin von [[Charaktere/Götter/Aurelius|Aurelius]] übernimmt ebenfalls die Aufsicht.
 
 Unterwegs treten sie durch einen magischen Schein im Wald und finden sich bei den Waldelfen wieder. Diese wirken freundlich und laden die Spieler in ihr Dorf ein. Dabei wiederholen sie immer wieder wie schön die Prinzessin ist.
 
@@ -25,9 +25,9 @@ Wenn nein: Die Mutter gebirt eine unbesiegbare Monsterarmee. Die Waldelfen komme
 
 Entweder die Waldelfen werden dabei getötet, oder sie lassen die Spieler am Leben, weil sie von der Mutter verdorben sind und nicht mehr zu retten sind.
 
-Die spieler bringen die Prinzessin zurück zum König, oder die Prinzessin begleitet die spieler. Das Opfer für die mutter kommt zu spät, jedoch wird Tellan gefressen und das triggert das Erwachen?? Noch überarbeiten. Oder Tellan wird von den Aposteln getötet.
+Die spieler bringen die Prinzessin zurück zum König, oder die Prinzessin begleitet die spieler. Das Opfer für die mutter kommt zu spät, jedoch wird Tellan gefressen und das triggert [[das Erwachen]]?? Noch überarbeiten. Oder Tellan wird von den Aposteln getötet.
 
-Treffen mit Aurelius? Vision von Aurelius? Das wäre vermutlich zu offensichtlich
+Treffen mit [[Charaktere/Götter/Aurelius|Aurelius]]? Vision von [[Charaktere/Götter/Aurelius|Aurelius]]? Das wäre vermutlich zu offensichtlich
 
 
 
@@ -44,7 +44,7 @@ Ein dunkle Silhouette erhebt sich. So alt wie die Zeit selbst, fremd und doch sc
 
 
 ## Nach Session 1
-Den Kult der Mutter aufhalten. Priester von Aurelius sind jedoch auch nicht mehr unbedingt freundlich, da die Helden bereits beginnen Korrumpiert zu werden.
+Den Kult der Mutter aufhalten. Priester von [[Charaktere/Götter/Aurelius|Aurelius]] sind jedoch auch nicht mehr unbedingt freundlich, da die Helden bereits beginnen Korrumpiert zu werden.
 
 
 

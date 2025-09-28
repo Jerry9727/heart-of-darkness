@@ -1,1 +1,0 @@
-Durch den Fluch [[Die Mutter|der Mutter]] verwandelte Wesen. Zu lange verwandelt kann die Metamorphose nicht mehr umgekehrt werden. Äußerst feindselig. Treten in vielerlei grotesken Gestalten auf. Behalten unterschiedliche Niveaus an Intelligenz und freiem Willen, dienen aber i.d.R. der Mutter.
