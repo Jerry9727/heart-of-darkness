@@ -1,0 +1,1 @@
+[[Gott]] von Allem was schön ist. Herr der [[Waldelfen]].

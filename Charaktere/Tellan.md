@@ -1,0 +1,1 @@
+Tellan ist der Hauptmann der Wache im Gefängnis von [[Regalia]].
