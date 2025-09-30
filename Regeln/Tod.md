@@ -1,0 +1,3 @@
+Sinken die Lebenspunkte eines Spielers auf 0 wird er bewusstlos. Jeder weitere Treffer ist tödlich. Die anderen Spieler müssen bewusstlose Spieler im Kampf beschützen. Sie müssen nach dem Kampf geheilt werden, sonst sterben sie. Können die Spieler das nicht, sinkt die [[Stat Menschlichkeit|Menschlichkeit]] bis der Spieler erwacht.
+
+Wenn ein Spieler endgültig stirbt wandert seine Seele in den Abgrund. Je nachdem was der Spieler will, haftet seine Seele noch zu sehr an der wachen Welt und kehrt als [[Geister|Spirit]] zurück

@@ -1,0 +1,2 @@
+## Beschreibung
+Ein eingefrorener Gegner kann sich nicht wehren. Das Eis selbst verursacht keinen Bonusschaden. Die Dauer wird vom Effekt bestimmt, der den Gegner einfriert, oder der Gegner befreit sich selbst.

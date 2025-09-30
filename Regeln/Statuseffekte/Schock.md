@@ -1,0 +1,2 @@
+## Beschreibung
+Ein Gegner der unter Schock steht, kann sich nicht wehren UND bekommt jeden Runde Schaden. Dauer ist kürzer als bei einem gefrorenen Gegner (ich würde fast sagen nur eine Runde). Der Schaden sollte etwa mittelschwer sein.

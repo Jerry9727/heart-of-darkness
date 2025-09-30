@@ -2,7 +2,7 @@
 ## Namensgebung
 Übertrieben schöne Namen (Tragedeighs)
 
-Subspezies der [[Elfen]].
+Verwandt mit den [[Hochelfen]].
 Leben im [[Wald der Waldelfen]].
 Beten Schönheit über alles an.
-Sind unter anderem mit dem [[Gott der Schönheit]] verbunden.
+Sind besonders mit dem [[Gott der Schönheit]] und dem [[Gott der Natur]] verbunden.

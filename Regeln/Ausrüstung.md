@@ -1,0 +1,1 @@
+Jeder Spieler sollte mit Ausrüstung starten, die zusammen seinen Grundrüstungswert ergibt. Ausrüstungsslots einfach nach Gefühl machen. Nein man kann nicht 2 Hosen übereinander tragen Alina.

@@ -1,0 +1,2 @@
+## Beschreibung
+Anstatt Rüstungsklasse, mache ich Rüstung. Anstatt den Schaden unter einem bestimmten Wert zu negieren, wird der Rüstwert vom Schaden abgezogen. Es gibt normale Rüstung und magische Rüstung. Bestimmte [[Schadensarten]] wie nekrotischer Schaden können als Bonuseffekt auf Rüstungsteilen sein, nicht als eigene Stats.

@@ -1,0 +1,2 @@
+## Beschreibung
+Ein Gegner der an Gefrierbrand leidet, bekommt jede Runde Schaden. Außerdem hat der Gegner einen Nachteil bei Angriffen. Der Schaden ist geringer als von vergleichbar starken Verbrennungen oder Vergiftungen.

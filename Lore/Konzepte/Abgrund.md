@@ -5,4 +5,4 @@ Von hier kommt die [[Magie]]. Er besteht aus endlos vielen [[Ebene|Ebenen]] oder
 
 (Jeder Charakter hat Flaws. Bei einem kritischen Fail verliert der Charakter Kurzzeitig die Kontrolle und der Abgrund kann sich durch ihn manifestieren.)
 
-Den Abgrund zu durchqueren ist eine zunehmende Folter an alles Sinnen, da er das Chaos ist. Ein normaler Verstand kann nur einige wenige Ebenen überstehen. Gehe Tiefe, und alles was du findest ist purer Wahnsinn. Die Natur der Träume macht diese Visionen oft wirr und unverständlich bis verstörend.
+Den Abgrund zu durchqueren ist eine zunehmende Folter aller Sinne, da er pures Chaos ist. Ein normaler Verstand kann nur einige wenige Ebenen überstehen. Gehe Tiefe, und alles was du findest ist purer Wahnsinn. Die Natur der Träume macht diese Visionen oft wirr und unverständlich bis verstörend.

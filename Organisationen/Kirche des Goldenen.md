@@ -1,2 +1,0 @@
-(Name WIP)
-Kirche die [[Charaktere/Götter/Aurelius|Aurelius]] den goldenen anbetet. Es gibt sowohl normale Pastoren und Pfarrer, aber auch bewaffnete Fantaiker die gegen [[Die Mutter]] in den Kampf ziehen.
