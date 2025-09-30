@@ -1,0 +1,2 @@
+Prinzessin des Königreichs der Menschen. Soll geopfert werden.
+Sieht aus wie eine Standardprinzessin, ist aber eine coole Socke. Sie behauptet bereit zu sein sich zu opfern, aber eigentlich will sie die Mutter bekämpfen. (Auch wenn es keine Chance auf Erfolg gibt)

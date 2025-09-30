@@ -2,6 +2,9 @@
 Spieler\*in:
 Niklas
 
+Arcana
+The Hermit
+
 Größe:
 
 Aussehen:

@@ -1,6 +1,9 @@
 Spieler\*in:
 Alina
 
+Arcana
+Death
+
 Größe:
 50cm
 
@@ -8,7 +11,7 @@ Rasse
 Verfluchte Fae
 
 Herkunft:
-Faewild/Fae-Ebene
+[[Faewild]]/Fae-Ebene
 
 Fähigkeiten
 Fliegen

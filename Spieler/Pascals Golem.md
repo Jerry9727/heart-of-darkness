@@ -2,6 +2,9 @@
 Spieler\*in:
 Pascal
 
+Arcana:
+Strength
+
 Größe:
 3,5m
 

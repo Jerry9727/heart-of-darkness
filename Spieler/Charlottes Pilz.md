@@ -2,6 +2,9 @@
 Spieler\*in:
 Charlotte
 
+Arkana:
+The Fool
+
 Größe:
 1,25L Flasche Cola
 

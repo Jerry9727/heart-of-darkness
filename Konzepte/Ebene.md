@@ -1,2 +1,3 @@
 Ebene des Abgrunds. Jede Ebene, auch Tiefe genannt, beherbergt andere Schrecken.
 [[Traumwandler|Traumwandler]] können sie durchschreiten, jedoch nur einige wenige der weniger tiefsten.
+Andere Dimensionen sind in aller Regel Ebenen. Nicht alle Ebenen sind schlecht. Alle Emotionen der denkenden Wesen spiegeln sich hier wieder, auch die Guten, leider sind jedoch in diesem dunkeln Zeitalter die dunklen in der absoluten Überzahl.

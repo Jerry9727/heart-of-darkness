@@ -1,0 +1,2 @@
+## Beschreibung
+[[Schwarzer Magier]], der mithilfe eines Phylakteriums künstliche Unsterblichkeit erlangt hat. Sind fast immer Untote, es gibt allerdings Ausnahmen in denen Liches lebende oder sogar noch ihren angestammten Körper bewohnen.
