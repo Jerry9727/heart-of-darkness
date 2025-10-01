@@ -6,6 +6,10 @@ The Hanged Man
 
 Hintergrund:
 
+Verbrechen
+Wurde mit Loch in der Brust auf einem Schlachtfeld gesehen. Als die schweigenden Schwestern des [[Charon]] dies sahen gerieten sie in Panik. Der Soldat drehte sich um, und absorbierte die Lebenskraft der Frauen und seine Wunde schloss sich.
+-> Verbrechen: Mord an 3 schweigenden Schwestern. Sollte bereits hingerichtet werden, dies wurde jedoch aufgrund "organisatorischer Schwierigkeiten" wiederholt verschoben. (Die Versuche sind 3 mal fehlgeschlagen, das will ich Oliver nicht vorwegnehmen)
+
 Rasse:
 Reborn (Untoter Mensch) verflucht
 

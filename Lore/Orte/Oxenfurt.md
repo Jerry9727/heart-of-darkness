@@ -1,0 +1,3 @@
+## Beschreibung
+Stadt der Menschen weiter im Westen. Die Universität gilt als beste des Königreichs der Menschen, reiche Familien schicken ihre Kinder hier hin zum Studieren. Der einzige Ort an dem es erlaubt ist magische Theorie zu unterrichten. Praxis erlernen nur die Auserwählten vom [[Orden der Magier]] oder die, die es sich selbst beibringen [[Schwarzer Magier|schwarze Magier]].
+Hier gibt es auch die größte Bibliothek des Menschenkönigreichs.
