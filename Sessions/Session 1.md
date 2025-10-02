@@ -75,8 +75,12 @@ Den Kult der Mutter aufhalten. Priester von [[Aurelius|Aurelius]] sind jedoch au
 # Session
 
 ## Die Gefangenen
-Es war ein verregneter Tag im Königreich [[Carcadia]](Name sollte entweder englisch oder deutsch sein). Der Himmel war ungewöhnlich dunkel. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Sie konnten es sich nicht leisten krank zu werden, das bedeutete zwar hungern, aber war immer noch besser als sich. (Hier Bettler aus Tellans Vergangenheit treffen und schreiben wie Tellan ihn anblafft?)
-Er hasste es, jeden Tag durch die engen, schmutzigen Gassen des [[Bettlerviertel]] gehen zu müssen.
+Es war ein verregneter Tag im Königreich [[Carcadia]]. Der Himmel über der Hauptstadt war ungewöhnlich dunkel. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Sie konnten es sich nicht leisten krank zu werden. Drinnen zu bleiben bedeutete zwar zu hungern, aber das war immer noch besser als sich auf der Straße den Tod zu holen.
+
+(Hier Bettler aus Tellans Vergangenheit treffen und schreiben wie Tellan ihn anblafft?)
+
+Er hasste es, durch die engen, schmutzigen Gassen des [[Bettlerviertel|Bettlerviertels]] gehen zu müssen.
 Er hasste die verwinkelten Gänge  voller Schlamm und Scheiße.
-Er hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur um täglich daran erinnert zu werden wo er herkam. Tellan zog seinen triefenden Mantel enger um den Hals und ging weiter.
+Der Hauptmann hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur um wieder daran erinnert zu werden. Tellan zog seinen triefenden Mantel enger um den Hals und ging weiter.
 ...
+Am Ende des Bettlerviertels, möglichst nah an die Burgmauern geschmiegt lag eine unscheinbare Holztür. Tellan kramte einen klirrend einen Schlüsselbund aus seiner Manteltasche und schloss die Tür auf. Er sah sich kurz um ob ihm jemand folgte und schloss dann die Tür von innen wieder mit einem leisen klicken ab. Er nahm eine brennende Fackel von der Wand stieg eine lange, gemauerte Wendeltreppe aus groben Stein hinab, bis er zu einer Reihe in den Wänden eingelassenen Steintreppen kam. Vorsichtig schloss Tellan die erste Tür auf und lugte hinein:
