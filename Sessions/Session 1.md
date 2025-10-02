@@ -1,3 +1,5 @@
+# Skript
+
 ### Chapter 1
 [[Tellan]] die Gefängiswache holt die Spieler aus dem Hochsicherheitsverlies.
 
@@ -32,6 +34,8 @@ Die Spieler kämpfen gegen die ätherischen Waldelfen.
 
 Dann schaffen es die Spieler wieder aus dem Dorf und werden von Tellan empfangen. Scheinbar waren sie nicht ein paar tage, sondern deutlich länger verschwunden (Woche)?
 
+
+## Chapter 2
 Vor der Mutter müssen die Spieler gegen Apostel kämpfen.
 
 Schließlich erreichen sie die Mutter.
@@ -67,3 +71,12 @@ Den Kult der Mutter aufhalten. Priester von [[Aurelius|Aurelius]] sind jedoch au
 
 
 
+
+# Session
+
+## Die Gefangenen
+Es war ein verregneter Tag im Königreich [[Carcadia]](Name sollte entweder englisch oder deutsch sein). Der Himmel war ungewöhnlich dunkel. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Sie konnten es sich nicht leisten krank zu werden, das bedeutete zwar hungern, aber war immer noch besser als sich. (Hier Bettler aus Tellans Vergangenheit treffen und schreiben wie Tellan ihn anblafft?)
+Er hasste es, jeden Tag durch die engen, schmutzigen Gassen des [[Bettlerviertel]] gehen zu müssen.
+Er hasste die verwinkelten Gänge  voller Schlamm und Scheiße.
+Er hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur um täglich daran erinnert zu werden wo er herkam. Tellan zog seinen triefenden Mantel enger um den Hals und ging weiter.
+...
