@@ -72,13 +72,25 @@ Den Kult der Mutter aufhalten. Priester von [[Aurelius|Aurelius]] sind jedoch au
 
 
 
+### Tellan
+Tellan begegnet Straßenkindern die ihn als Hauptmann der Wache erkennen
+Er weigert sich ihnen Geld zu geben
+Er hat einen Geheimauftrag vom König die Prinzessin zu beschützen
+Er ist generell gehässig zur Gruppe und berrachtet sie als weniger Wert
+Am Ende opfert er sich für die Prinzessin und wird zum ersten Erwachten
+
+### Der Fanatiker
+Anführer der bewaffneten Kirche ist Halbgott und Sohn von Aurelius (Paladin)
+Er ist der wahre Machthaber von Regalia
+Zwingt den König seine Tochter zu opfern im Namen der Kirche weil die Tochter gesündigt hat (Sex vor der Ehe?)
+
 # Session
 
 ## Die Gefangenen
 Es war ein verregneter Tag im Königreich [[Carcadia]]. Der Himmel über der Hauptstadt war ungewöhnlich dunkel. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Scheinbar hatte er sich getäuscht.
 
 "Ein paar Münzen bitte" sagten ein paar magere Kinder in dreckigen Lumpen zu ihm.
-"Verzieht euch. Hier draußen holt ihr euch nur den Tod."
+"Verzieht euch. Seht ihr nicht wer ich bin?! Hier draußen holt ihr euch nur den Tod."
 
 Er hasste es, durch die engen, schmutzigen Gassen des [[Bettlerviertel|Bettlerviertels]] gehen zu müssen.
 Er hasste die verwinkelten Gänge  voller Schlamm und Scheiße.
@@ -100,9 +112,3 @@ Im Schutz der Nacht verlassen die Gefangenen die Stadt. Eine verhüllte Gestalt 
 ### Das Dorf der Waldelfen
 -
 
-### Tellan
-Tellan begegnet Straßenkindern die ihn als Hauptmann der Wache erkennen
-Er weigert sich ihnen Geld zu geben
-Er hat einen Geheimauftrag vom König die Prinzessin zu beschützen
-Er ist generell gehässig zur Gruppe und berrachtet sie als weniger Wert
-Am Ende opfert er sich für die Prinzessin und wird zum ersten Erwachten
