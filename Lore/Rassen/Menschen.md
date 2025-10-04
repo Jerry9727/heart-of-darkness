@@ -1,5 +1,35 @@
 ## Namensgebung
-germanisch, slavisch, britisch, schottisch
+- Mittelländisch: Fantasy-Namen
+- Nordisch: Nordische Namen
+- Nordische Königreiche: Mix aus Fantasy und Nordischen Namen
+- Gothisch/Steamunker: Altdeutsche Namen (Johann, Wilhelm z.B.)
+- Wüste: Wüstennamen
+- Die östlichen Völker: Asiatische Namen
+
+## Völker
+### Mittelländisch
+Haben einen König, aber ein verlorener Krieg, die Pest und die folgende Hungersnot haben die Menschen immer mehr zum Glauben getrieben. Die Kirche hier hat in den letzten Jahrzehnten rapide an Macht gewonnen.
+
+### Nordisch
+Beten die nordischen Götter an. Klassische Wikinger, kriegerisch und Plündern, vor allem Häfen.
+(Askeladd Moment einbauen wo Wikinger ein ganzes Dorf abschlachten?)
+
+### Nördliche Königreiche
+Bund kleinerer Königreiche und Stadtstaaten. Die nordischen gehören zwar offiziell zu ihnen, beteiligen sich jedoch nicht an politischen Angelegenheiten und das Verhältnis ist eher angespannt.
+
+### Gothisch
+Teil des mittelländischen Königreichs, aber praktisch quasi selbstregiert. Der Bürgermeister der seltsamen Stadt ist vergleichbar mit einem König.
+Technologisch fortschrittlicher als die anderen Völker, den wahren Fortschritt erreichen sie aber mit ihrer grausamen Magie, bei der Lebewesen und oft auch Menschen Teil der Rituale sind. Glauben an fremdartige Götter und lehnen Traditionen strikt ab im Namen des Fortschritts.
+Ihre schrecklichen Experimente mit alter Magie und seltsame Lebensweise wird nur Aufgrund des technologischen Fortschritts (und der Angst vor einer Eskalation) geduldet.
+
+### Wüste
+Leben in der großen Wüste im Süden.
+Sklaverei und Tradition.
+
+### Die östlichen Völker
+Leben im Einklang mit ihrem Geist im wilden Osten. Sehr Traditionell. Die anderen Tiervölker lassen sie in Ruhe, aber der Frieden ist Ergebnis einer langen, blutigen Reihe von Kriegen.
+
+
 
 ## Menschen sind Scheiße. Aber warum?
 Nicht nur Menschen, jede Rasse hat ihre Schwächen.

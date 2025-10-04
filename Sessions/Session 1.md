@@ -9,8 +9,8 @@ Unter den Gefangenen sind:
 [[Olivers Unsterblicher Soldat]]
 [[Pilgrim]]
 [[Psaro]]
-[[Riesis Vampir]]
-[[Tims Lizard]]
+[[Veyra]]
+[[Eisenkralle]]
 
 Jeder Gefangene wird einzeln aus dem Gefängnis geholt und an die anderen gekettet. Hier kurz die Spieler beschreiben. Auf dem Weg nach oben sehen sie vielen schmutzigen Verliese voller verhungernder, toter und gefolterten Menschen. Die meisten sind Opfer des Glaubens für Sakrileg.
 
@@ -75,12 +75,34 @@ Den Kult der Mutter aufhalten. Priester von [[Aurelius|Aurelius]] sind jedoch au
 # Session
 
 ## Die Gefangenen
-Es war ein verregneter Tag im Königreich [[Carcadia]]. Der Himmel über der Hauptstadt war ungewöhnlich dunkel. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Sie konnten es sich nicht leisten krank zu werden. Drinnen zu bleiben bedeutete zwar zu hungern, aber das war immer noch besser als sich auf der Straße den Tod zu holen.
+Es war ein verregneter Tag im Königreich [[Carcadia]]. Der Himmel über der Hauptstadt war ungewöhnlich dunkel. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Scheinbar hatte er sich getäuscht.
 
-(Hier Bettler aus Tellans Vergangenheit treffen und schreiben wie Tellan ihn anblafft?)
+"Ein paar Münzen bitte" sagten ein paar magere Kinder in dreckigen Lumpen zu ihm.
+"Verzieht euch. Hier draußen holt ihr euch nur den Tod."
 
 Er hasste es, durch die engen, schmutzigen Gassen des [[Bettlerviertel|Bettlerviertels]] gehen zu müssen.
 Er hasste die verwinkelten Gänge  voller Schlamm und Scheiße.
 Der Hauptmann hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur um wieder daran erinnert zu werden. Tellan zog seinen triefenden Mantel enger um den Hals und ging weiter.
 ...
 Am Ende des Bettlerviertels, möglichst nah an die Burgmauern geschmiegt lag eine unscheinbare Holztür. Tellan kramte einen klirrend einen Schlüsselbund aus seiner Manteltasche und schloss die Tür auf. Er sah sich kurz um ob ihm jemand folgte und schloss dann die Tür von innen wieder mit einem leisen klicken ab. Er nahm eine brennende Fackel von der Wand stieg eine lange, gemauerte Wendeltreppe aus groben Stein hinab, bis er zu einer Reihe in den Wänden eingelassenen Steintreppen kam. Vorsichtig schloss Tellan die erste Tür auf und lugte hinein:
+Hier die bissigen Insassen beschreiben
+
+### In der Waffenkammer
+-
+
+### Abschied aus der Stadt
+- Eine Gestalt im Umhang beobachtet die Häftlinge aus der Distanz:
+Im Schutz der Nacht verlassen die Gefangenen die Stadt. Eine verhüllte Gestalt betrachtet euch vom Tor der Stadtmauer aus.
+
+- Banditenangriff
+- Alter Wachturm am Waldrand: umgucken + Lott
+
+### Das Dorf der Waldelfen
+-
+
+### Tellan
+Tellan begegnet Straßenkindern die ihn als Hauptmann der Wache erkennen
+Er weigert sich ihnen Geld zu geben
+Er hat einen Geheimauftrag vom König die Prinzessin zu beschützen
+Er ist generell gehässig zur Gruppe und berrachtet sie als weniger Wert
+Am Ende opfert er sich für die Prinzessin und wird zum ersten Erwachten

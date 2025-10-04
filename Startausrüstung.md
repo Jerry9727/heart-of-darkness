@@ -1,2 +1,0 @@
-Die Ausrüstung mit der jeder Spieler startet. Es gibt nicht viel, weil sie ohnehin nur Gefangene sind. Darunter sind Seile, sowie Ausrüstung zum Feuer machen und Proviant (für die die welchen brauchen).
-Heiltränke gibts nicht, die sind zu teuer und außerdem für Gefangene zu gut. Gold hat nur Rika als Nonne der Kirche.
