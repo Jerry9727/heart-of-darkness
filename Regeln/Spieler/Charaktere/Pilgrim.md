@@ -29,13 +29,16 @@ Schildschlag
 Axtschlag
 Sachen (oder Leute) werfen
 Rundumschlag (Schild auf den Rücken und BEYBLADE), kann dafür nicht mehr blocken
+Waffe wechseln (Kostet eine ganze Runde)
 
 Spielstil:
 Krieger
 mittelschwere Rüstung
 
+
 Waffen:
 Schild und Axt
+Zwei Äxte
 Knüppel (nur zum Betäuben)
 
 Proficiency:
