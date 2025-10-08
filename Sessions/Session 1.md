@@ -99,16 +99,34 @@ Der Hauptmann hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur
 Am Ende des Bettlerviertels, möglichst nah an die Burgmauern geschmiegt lag eine unscheinbare Holztür. Tellan kramte einen klirrend einen Schlüsselbund aus seiner Manteltasche und schloss die Tür auf. Er sah sich kurz um ob ihm jemand folgte und schloss dann die Tür von innen wieder mit einem leisen klicken ab. Er nahm eine brennende Fackel von der Wand stieg eine lange, gemauerte Wendeltreppe aus groben Stein hinab, bis er zu einer Reihe in den Wänden eingelassenen Steintreppen kam. Vorsichtig schloss Tellan die erste Tür auf und lugte hinein:
 Hier die bissigen Insassen beschreiben
 
+## Vor dem König
+- Den Fanatiker als streng, aber gerecht darstellen. Lawful Evil getarnt als Lawful Neutral.
+
 ### In der Waffenkammer
 -
 
 ### Abschied aus der Stadt
 - Eine Gestalt im Umhang beobachtet die Häftlinge aus der Distanz:
 Im Schutz der Nacht verlassen die Gefangenen die Stadt. Eine verhüllte Gestalt betrachtet euch vom Tor der Stadtmauer aus.
-
-- Banditenangriff
-- Alter Wachturm am Waldrand: umgucken + Lott
+- Vielleicht wird die Stadt bereits belagert von Monstern?
+  -> Draußen vor den Toren werden immer wieder Monster gesichtet. Als die Verbannten die Stadt im Schutz der Nacht verlassen wollen, laufen sie einem Monster über den Weg. (Hinkepanks die sie als Lichter im Nebel vom Weg abkommen lassen? Ein riesiger Apostel? Korrumpiertes Lebewesen? Ein korrumpierter Waldelf?)
+  -> Empfehlung: Schwachen, verletzten Erwachten als Gegner nehmen.
+- Banditenangriff auf Kutsche
+- Banditen stellen sich als die befreiten Sklaven des fehlgeschlagenen Opfertransports heraus
+- Hinweis auf Waldelfen. Vielleicht wachsen einem der Banditen Blätter auf dem Kopf? Oder seine Augen wurden durch Rubine ersetzt? Oder
+- Nach Kampf: Humanity check. Tellan wirkt ebenfalls sichtlich geschockt, reagiert aber verteidigend und abweisend auf nachfragen.
+- Alter Wachturm am Waldrand: umgucken + Loot
+  -> Banditen haben hier gelagert. Vorräte + ein wenig Gold + erste Rast?
 
 ### Das Dorf der Waldelfen
 -
 
+## Der Konflikt mit der Mutter
+
+
+## Das Erwachen
+Das Erwachen hier stattfinden lassen, oder viel später? Konflikt mit Mutter ist eigentlich dramatisch genug. Das Erwachen könnte der Auftakt zu teil 2 der Kampagne sein, wenn die Mutter besiegt ist und Aurelius sich als wahrer Feind der Freiheit offenbart.
+
+## Nach der Begegnung mit der Mutter
+Der Rebell zeigt sich erklärt ihnen, was sie tun können um die Mutter zu besiegen. Er rät Ihnen außerdem vorsichtig mit dem Fanatiker zu sein.
+Idee: Er schickt sie los um seinen Bruder, den Einsiedler zu finden. Dieser hat etwas von Aurelius Plan aufgeschnappt und weiß wie man die Mutter aufhalten kann.
