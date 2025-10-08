@@ -16,14 +16,10 @@ Die Kirche von Aurelius kämpft mit aller Macht gegen den Zirkel der Mutter, doc
 
 ## Aurelius und Liliths Kinder
 Die Monster sind in Wahrheit die Kinder von Aurelius und Lilith. Bevor sie korrumpiert wurde, hatten sie 3 Kinder die Halbgötter sind.
-### [[Der Rebell]]
-Ein Rebell der versucht gegen seinen Vater zu plotten, für das was er Lilith angetan hat.
 
-### [[Der Fanatiker]]
-Fanatischer Anhänger oder ein ausnutzbarer naiver Gott der Aurelius dient. Anführer der bewaffneten Fraktion der [[Kirche des Goldenen]]. Könnte als Boss dienen der seine Anhänger mit Heiligenscheinen oder Ketten aus Gold befehligt.
-
-### [[Der Außenseiter]]
-Der dritte ist ein halb Wahnsinniger Eigenbrötler dem seine Kräfte geraubt wurde und der Party als Berater dient (siehe Yoda). Taucht in der ersten Session als NPC auf als Foreshadowing. Wird dann später immens wichtig und der Schlüssel zum Sieg gegen Aurelius.
+- ### [[Der Rebell]]
+- ###  [[Der Fanatiker]]
+- ### [[Der Außenseiter]]
 
 ## Aurelius Ziel
 Durch schaffen eines gemeinsamen Feindes will er die Völker unter sich einen, unter dem Vorwand der Harmonie und Nächstenliebe. Er kontrolliert direkt oder indirekt eine ganze Reihe an Göttern und damit auch deren Ebenen.

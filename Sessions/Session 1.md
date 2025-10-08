@@ -79,28 +79,69 @@ Er hat einen Geheimauftrag vom König die Prinzessin zu beschützen
 Er ist generell gehässig zur Gruppe und berrachtet sie als weniger Wert
 Am Ende opfert er sich für die Prinzessin und wird zum ersten Erwachten
 
-### Der Fanatiker
-Anführer der bewaffneten Kirche ist Halbgott und Sohn von Aurelius (Paladin)
-Er ist der wahre Machthaber von Regalia
-Zwingt den König seine Tochter zu opfern im Namen der Kirche weil die Tochter gesündigt hat (Sex vor der Ehe?)
 
 # Session
+
+## Intro
+-
+
+Und damit herzlich Willkommen zur ersten Session von Heart of Darkness!
+\*music plays
 
 ## Die Gefangenen
 Es war ein verregneter Tag im Königreich [[Carcadia]]. Der Himmel über der Hauptstadt war ungewöhnlich dunkel. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Scheinbar hatte er sich getäuscht.
 
-"Ein paar Münzen bitte" sagten ein paar magere Kinder in dreckigen Lumpen zu ihm.
-"Verzieht euch. Seht ihr nicht wer ich bin?! Hier draußen holt ihr euch nur den Tod."
+"Herr, ein paar Münzen bitte!", erklang es von der Seite.
+3 Kinder in Lumpen kamen durch den Regen auf ihn zugerannt und krallten sich in seinen Mantel. Tellan verzog das Gesicht.
+"Bitte Herr, ich habe seit Tagen nichts gegessen!", sagte eines.
+"Herr, bitte, meine Mutter ist krank und ich kann keine Medizin kaufen!", flehte ein besonders großgewachsenes Kind mit spitzen Ohren. Vermutlich elfische Wurzeln.
+"Verzieht euch.", sagte er und zog seinen Mantel weg. 
+"Seht ihr nicht wer ich bin?" Er deutete auf die silber-blaue Rüstung die unter seinem Mantel herauslugte.
+Sie schauten ihn aus großen Augen an, machten aber keine Anstalten zurückzuweichen.
+"Tzz", schnalzte Tellan verächtlich.
+"Hier draußen holt ihr euch nur den Tod. Verzieht euch wieder in das Loch aus dem ihr gekrochen seid."
 
 Er hasste es, durch die engen, schmutzigen Gassen des [[Bettlerviertel|Bettlerviertels]] gehen zu müssen.
-Er hasste die verwinkelten Gänge  voller Schlamm und Scheiße.
-Der Hauptmann hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur um wieder daran erinnert zu werden. Tellan zog seinen triefenden Mantel enger um den Hals und ging weiter.
+Er hasste die verwinkelten Gänge voller Schlamm und Scheiße.
+Vor allem aber hasste er es erinnert zu werden. Seine Mutter war in diesem Drecksloch gestorben. Elendig verhungert, wie ein Tier. Und sein Vater war von vornherein nicht da gewesen. Vermutlich wusste seine Mutter nicht einmal wer er war.
+Er hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur um wieder daran erinnert zu werden. Tellan zog seinen triefenden Mantel enger um den Hals und ging weiter.
 ...
-Am Ende des Bettlerviertels, möglichst nah an die Burgmauern geschmiegt lag eine unscheinbare Holztür. Tellan kramte einen klirrend einen Schlüsselbund aus seiner Manteltasche und schloss die Tür auf. Er sah sich kurz um ob ihm jemand folgte und schloss dann die Tür von innen wieder mit einem leisen klicken ab. Er nahm eine brennende Fackel von der Wand stieg eine lange, gemauerte Wendeltreppe aus groben Stein hinab, bis er zu einer Reihe in den Wänden eingelassenen Steintreppen kam. Vorsichtig schloss Tellan die erste Tür auf und lugte hinein:
-Hier die bissigen Insassen beschreiben
+Am Ende des Bettlerviertels, möglichst nah an die Burgmauern geschmiegt lag eine unscheinbare Holztür. Tellan kramte einen klirrend einen Schlüsselbund aus seiner Manteltasche und schloss die Tür auf. Er sah sich kurz um ob ihm jemand folgte und schloss dann die Tür von innen wieder mit einem leisen klicken ab. Er nahm eine brennende Fackel von der Wand stieg eine lange, gemauerte Wendeltreppe aus groben Stein hinab. Breite Wurzeln hatten sich bereits ihren Weg durch die rissigen Mauern gebahnt und es hingen dicke Spinnweben unter der Decke. Es roch modrig und die Luft war schwer. Er stieg die schiefe Treppe weiter hinab bis er an einer Reihe in den Wänden eingelassenen Eichentüren kam. Die Türen hatten kleine, eingelassene Gitter und waren mit Moos überzogen.
+
+(Rika wartet hier)
+
+Eine vollkommen in schwarz gekleidete Gestalt lehnte mit verschränkten Armen an der Wand. Dünne Goldfäden durchzogen ihr Gewand.
+"Hast du dich verlaufen? Was macht eine Nonne der goldenen Kirche im Verlies?", fragte Tellan die sichtlich ungeduldige Frau.
+
+(Vorstellung Rika, Rika vorher kurz briefen, dass sie da ist um die Gefangenen zu begleiten, direkter Befehl des [[Der Fanatiker|Fanatikers]]) 
+
+Tellan nickte knapp und zog klappernd seinen Schlüsselbund hervor. Er ging zur ersten Tür zu seiner rechten und lugte durch das rostige Gitter.
+
+(Hier die Insassen beschreiben und wie sie angekettet werden)
+(Idee: einen Gefangenen schreiben, der zu schwach ist der nicht mitgenommen wird. Kann dann später in der Kampagne wieder auftauchen.)
+
+...
+
+"So, dass reicht. Das sollten mehr als genug sein.", sagte Tellan.
+"Ladys first.", und wies (Rika) mit einem aufgesetzten Grinsen voran zu gehen.
+So angekettet stiegen Wärter und Gefangene klirrend weiter in die Tiefe hinab. Schatten tanzten an den Wänden.
+Sie kamen noch an vielen Türen vorbei. Ab und an gab es auch einen engen Tunnel, doch keine Fackel brannte und der Tunnel verlor sich in der Dunkelheit .
+"Halt. Hier." sagte Tellan und hob die Hand. Er führte die Gefangenen durch einen weiteren Tunnel, dieser schien jedoch etwas breiter und war mit hellem Stein gemauert. Nach einer Weile stieg der Tunnel plötzlich steil an. Still gingen sie noch eine ganze Weile weiter, bin sie schließlich an einer großen, verstärkten Doppeltür ankamen. Tellan griff einen der großen, Schnabelförmigen (Wappentier von Regalia: Greif) Türklopfer und klopfte 3 mal an. Der dumpfe Hall klang noch einen Moment im Tunnel nach.
+
+"Wer ist da?", ertönte eine helle Stimme hinter der Tür.
+"Tellan, ich bringe die Gefangenen für den König."
+Ein metallisches Schaben erklang, als 3 Riegel schnell zurückgezogen worden.
+"Das hat ganz schön lang gedauert, der König wartet schon.", sagte die Palastwache, eine kleine Frau in voller Rüstung.
+"Sorry, Fräulein hier wollte die Gefangenen einzeln begutachten."
+Die Tür führte in einen kleinen, prunkvollen Gang. Boden und Wände
+(Hier weiter beschreiben. Ist das Schloss von Regalia prunkvoll oder eher Schlicht wie in Game of Thrones?)
+...
+Die Tür führte in einen Thronsaal.
 
 ## Vor dem König
-- Den Fanatiker als streng, aber gerecht darstellen. Lawful Evil getarnt als Lawful Neutral.
+(Den Fanatiker als streng, aber gerecht darstellen. Lawful Evil getarnt als Lawful Neutral.)
+(Gedanken zum König machen. Wie ist er? Wie präsentiert er sich?)
+(Ich denke verzweifeltes hängen an ehemaligem Prunk wäre passend. Überall hängen Bilder von vergangegnen Königen, Helden und Gewonnenen Schlachten, aber der Luxus verblasst. Das Schloss wirkt zu groß für die wenigen Leute. Die Lage (Hungersnot, konstante Kämpfe gegen Monster und Krieg hat das Volkg ausgezerrt und die Burgbesatzung ausgedünnt(gegen wen? anderes Menschenkönigreich?)))
 
 ### In der Waffenkammer
 -
