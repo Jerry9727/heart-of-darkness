@@ -89,7 +89,7 @@ Und damit herzlich Willkommen zur ersten Session von Heart of Darkness!
 \*music plays
 
 ## Die Gefangenen
-Es war ein verregneter Tag im Königreich [[Carcadia]]. Der Himmel über der Hauptstadt war ungewöhnlich dunkel. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Scheinbar hatte er sich getäuscht.
+Es war ein eisiger erster Wintertag in der Hauptstadt. Der Himmel über der Stadt [[Regalia]] war bewölkt und ungewöhnlich dunkel. Die Fenster und Dächer waren von Frost bedeckt und vereinzelte Schneeflocken tanzten durch die Luft. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Doch scheinbar hatte er sich getäuscht.
 
 "Herr, ein paar Münzen bitte!", erklang es von der Seite.
 3 Kinder in Lumpen kamen durch den Regen auf ihn zugerannt und krallten sich in seinen Mantel. Tellan verzog das Gesicht.
@@ -100,13 +100,14 @@ Es war ein verregneter Tag im Königreich [[Carcadia]]. Der Himmel über der Hau
 Sie schauten ihn aus großen Augen an, machten aber keine Anstalten zurückzuweichen.
 "Tzz", schnalzte Tellan verächtlich.
 "Hier draußen holt ihr euch nur den Tod. Verzieht euch wieder in das Loch aus dem ihr gekrochen seid."
+Leise klirrend verlagerte er den schweren Sack den er trug auf die andere Schulter.
 
-Er hasste es, durch die engen, schmutzigen Gassen des [[Bettlerviertel|Bettlerviertels]] gehen zu müssen.
-Er hasste die verwinkelten Gänge voller Schlamm und Scheiße.
+Er hasste es durch die verwinkelten Gassen des [[Bettlerviertel|Bettlerviertels]] voller Matsch und Scheiße gehen zu müssen.
+Er hasste den Geruch, aber nicht wegen der Scheiße, die gab es woanders auch. Nein, hier roch es nach Tod. Hier rollte der Leichenkarren täglich durch die Gassen. Manchmal sogar mehrmals.
 Vor allem aber hasste er es erinnert zu werden. Seine Mutter war in diesem Drecksloch gestorben. Elendig verhungert, wie ein Tier. Und sein Vater war von vornherein nicht da gewesen. Vermutlich wusste seine Mutter nicht einmal wer er war.
-Er hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur um wieder daran erinnert zu werden. Tellan zog seinen triefenden Mantel enger um den Hals und ging weiter.
+Er hatte sich schließlich nicht aus diesem Drecksloch gekämpft, nur um wieder daran erinnert zu werden. Tellan zog seinen Mantel enger um den Hals und ging weiter. Sein Atem bildete kleine Wölkchen vor seinem Mund.
 ...
-Am Ende des Bettlerviertels, möglichst nah an die Burgmauern geschmiegt lag eine unscheinbare Holztür. Tellan kramte einen klirrend einen Schlüsselbund aus seiner Manteltasche und schloss die Tür auf. Er sah sich kurz um ob ihm jemand folgte und schloss dann die Tür von innen wieder mit einem leisen klicken ab. Er nahm eine brennende Fackel von der Wand stieg eine lange, gemauerte Wendeltreppe aus groben Stein hinab. Breite Wurzeln hatten sich bereits ihren Weg durch die rissigen Mauern gebahnt und es hingen dicke Spinnweben unter der Decke. Es roch modrig und die Luft war schwer. Er stieg die schiefe Treppe weiter hinab bis er an einer Reihe in den Wänden eingelassenen Eichentüren kam. Die Türen hatten kleine, eingelassene Gitter und waren mit Moos überzogen.
+Am Ende des Bettlerviertels, möglichst nah an die Burgmauern geschmiegt lag eine unscheinbare Holztür. Tellan kramte einen klirrend einen Schlüsselbund aus seiner Manteltasche und schloss die Tür auf. Er trat durch durch die Tür und sofort wurde es wärmer. Er sah sich kurz um und schloss dann die Tür von innen wieder mit einem leisen klicken ab. Er nahm eine brennende Fackel von der Wand stieg eine lange, gemauerte Wendeltreppe aus groben Stein hinab. Breite Wurzeln hatten sich bereits ihren Weg durch die rissigen Mauern gebahnt und es hingen dicke Spinnweben unter der Decke. Es roch modrig und die Luft war schwer. Er stieg die schiefe Treppe weiter hinab bis er an einer Reihe in den Wänden eingelassenen Eichentüren kam. Die Türen hatten kleine, eingelassene Gitter und waren mit Moos überzogen.
 
 (Rika wartet hier)
 
@@ -117,9 +118,19 @@ Eine vollkommen in schwarz gekleidete Gestalt lehnte mit verschränkten Armen an
 
 Tellan nickte knapp und zog klappernd seinen Schlüsselbund hervor. Er ging zur ersten Tür zu seiner rechten und lugte durch das rostige Gitter.
 
+Die Gestalt die er sah, sah wie folgt aus...
 (Hier die Insassen beschreiben und wie sie angekettet werden)
 (Idee: einen Gefangenen schreiben, der zu schwach ist der nicht mitgenommen wird. Kann dann später in der Kampagne wieder auftauchen.)
+"Sieht aus als wär er zu gebrauchen.", blaffte Tellan. Klirrend zog er eine dicke Eisenkette und eine Handschelle aus seinem Beutel. Sie waren leicht rostig.
+"Wenn du hier je wieder rauswillst, solltest du jetzt mitkommen. Ein solches Angebot bekommst du ganz sicher kein Zweites mal. Und jetzt Hände ausstrecken."
 
+(Hier kann de Spieler reagieren. Streit vorprogrammiert. Wenn es zum Kampf kommt, haben die ausgehungerten Spieler einen starken Malus. Außerdem sind sie unbewaffnet.)
+
+Mit einem schnellen klicken öffnete sich die Tür. Dröhnend schabte das alte Holz über den Zellenboden. Mit geübtem Griff schloss er die Handschellen um die Handgelenke des Gefangenen und brachte sie an der Kette an.
+"Keine Tricks. Das könnte deine letzte Chance sein." Tellan wickelte sich die Kette um die Hand und hob sie zum Zeichen mitzukommen.
+
+Er späte in die nächste Zelle, doch was er sah schien ihn nicht zufrieden zu stellen. Schnaubend ging er weiter. 
+(Schreiben woher der Beutel kommt)
 ...
 
 "So, dass reicht. Das sollten mehr als genug sein.", sagte Tellan.
@@ -133,15 +144,20 @@ Sie kamen noch an vielen Türen vorbei. Ab und an gab es auch einen engen Tunnel
 Ein metallisches Schaben erklang, als 3 Riegel schnell zurückgezogen worden.
 "Das hat ganz schön lang gedauert, der König wartet schon.", sagte die Palastwache, eine kleine Frau in voller Rüstung.
 "Sorry, Fräulein hier wollte die Gefangenen einzeln begutachten."
-Die Tür führte in einen kleinen, prunkvollen Gang. Boden und Wände
-(Hier weiter beschreiben. Ist das Schloss von Regalia prunkvoll oder eher Schlicht wie in Game of Thrones?)
+Die Tür führte in einen kleinen, unspektakulären Gang. Brennende Fackeln hingen an den Wänden und über einem kleinen Schrank hing ein Gemälde irgendeines Adligen. Ein ausgeblichener roter Teppich lag zerfranst auf dem Boden.
+
+Tellan führte die Gruppe der Gefangenen durch den Gang und dann weiter um eine Ecke und durch eine weitere Tür, diesmal unverschlossen. Vor einer großen Tür die ebenfalls einen Schnabelförmigen Türklopfer hatte blieb er stehen und drehte sich um.
+"Ihr sprecht nur wenn ihr angesprochen werdet."
+Und damit öffnete er die Tür und trat in den Thronsaal von Regalia.
 ...
-Die Tür führte in einen Thronsaal.
+Der Saal sah heruntergekommen aus.
+Er führte die Gefangenen ohne Umwege bis vor den Thron.
+Auf dem Thron saß...
 
 ## Vor dem König
 (Den Fanatiker als streng, aber gerecht darstellen. Lawful Evil getarnt als Lawful Neutral.)
 (Gedanken zum König machen. Wie ist er? Wie präsentiert er sich?)
-(Ich denke verzweifeltes hängen an ehemaligem Prunk wäre passend. Überall hängen Bilder von vergangegnen Königen, Helden und Gewonnenen Schlachten, aber der Luxus verblasst. Das Schloss wirkt zu groß für die wenigen Leute. Die Lage (Hungersnot, konstante Kämpfe gegen Monster und Krieg hat das Volkg ausgezerrt und die Burgbesatzung ausgedünnt(gegen wen? anderes Menschenkönigreich?)))
+(Ich denke verzweifeltes hängen an ehemaligem Prunk wäre passend. Überall hängen Bilder von vergangegnen Königen, Helden und Gewonnenen Schlachten, aber der Luxus verblasst. Das Schloss wirkt zu groß für die wenigen Leute. Die Lage (Hungersnot, konstante Kämpfe gegen Monster und Krieg hat das Volk ausgezerrt und die Burgbevölkerung ausgedünnt(gegen wen? anderes Menschenkönigreich?)))
 
 ### In der Waffenkammer
 -
