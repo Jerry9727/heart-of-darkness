@@ -149,12 +149,13 @@ Die Tür führte in einen kleinen, unspektakulären Gang. Brennende Fackeln hing
 Tellan führte die Gruppe der Gefangenen durch den Gang und dann weiter um eine Ecke und durch eine weitere Tür, diesmal unverschlossen. Vor einer großen Tür die ebenfalls einen Schnabelförmigen Türklopfer hatte blieb er stehen und drehte sich um.
 "Ihr sprecht nur wenn ihr angesprochen werdet."
 Und damit öffnete er die Tür und trat in den Thronsaal von Regalia.
+
+## Vor dem König
 ...
 Der Saal sah heruntergekommen aus.
 Er führte die Gefangenen ohne Umwege bis vor den Thron.
 Auf dem Thron saß...
 
-## Vor dem König
 (Den Fanatiker als streng, aber gerecht darstellen. Lawful Evil getarnt als Lawful Neutral.)
 (Gedanken zum König machen. Wie ist er? Wie präsentiert er sich?)
 (Ich denke verzweifeltes hängen an ehemaligem Prunk wäre passend. Überall hängen Bilder von vergangegnen Königen, Helden und Gewonnenen Schlachten, aber der Luxus verblasst. Das Schloss wirkt zu groß für die wenigen Leute. Die Lage (Hungersnot, konstante Kämpfe gegen Monster und Krieg hat das Volk ausgezerrt und die Burgbevölkerung ausgedünnt(gegen wen? anderes Menschenkönigreich?)))

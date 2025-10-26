@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"db955731a3e7389e","type":"file","file":"Zauberer_und_Buch.jpeg","x":-460,"y":-100,"width":340,"height":510},
+		{"id":"253adf0dac5ed7b4","type":"text","text":"# Mage und Tome","x":-80,"y":-100,"width":520,"height":60},
+		{"id":"68cb84f1797cbef9","type":"file","file":"Regeln/Spieler/Charaktere/Juns Zauberer und Buch.md","x":-460,"y":440,"width":340,"height":400},
+		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
+		{"id":"7be95558cfaebeb1","type":"text","text":"#### Passive: Lebendes Buch\nDas Buch lebt und hat einen eigenen Willen. Es kann eigene Wahrnehmungchecks durchführen. Ob es seine Erkenntnisse teilen will ist ihm selbst überlassen...","x":-80,"y":60,"width":520,"height":160},
+		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":260,"width":520,"height":60},
+		{"id":"91c629ac585f5415","type":"text","text":"","x":-80,"y":320,"width":520,"height":60},
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":410,"width":520,"height":60},
+		{"id":"d7b373203e10a33c","type":"text","text":"#### Aktive: Verbotenes Wissen\nEin mal pro langer Rast kann du das Buch nutzen um einen Zauber jenseits deiner Charakterstufe zu wirken. Du kannst einen Zauber wirken, der bis zu 3 Stufen über deiner aktuellen liegt. Das Buch nutzt seine tiefe Einsicht in die Magie um den Zauber zu wirken, jedoch zehrt ein solcher Zauber auch an der Lebenskraft des Wirkenden. Der Zauber kostet dich 1/3 deiner Leben anstatt Mana.","x":-80,"y":470,"width":520,"height":220},
+		{"id":"830ae681f6cf309e","x":-460,"y":900,"width":340,"height":400,"type":"file","file":"Regeln/Spieler/Charakterbögen/Basiszauber.md"}
+	],
+	"edges":[]
+}
