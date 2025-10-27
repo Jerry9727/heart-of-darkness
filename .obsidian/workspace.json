@@ -13,32 +13,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Regeln/Spieler/Charakterbögen/Mage und Tome Charakterbogen.canvas",
+                "file": "Regeln/Spieler/Charakterbögen/Undeadman.canvas",
                 "viewState": {
-                  "x": -1.2216507090592565,
-                  "y": 349.15142043401613,
-                  "zoom": -0.10712987470641616
+                  "x": 180.45717862169246,
+                  "y": 474.57440641909113,
+                  "zoom": -0.09075453963263938
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Mage und Tome Charakterbogen"
+              "title": "Undeadman"
             }
           },
           {
-            "id": "3903455b154e37a6",
+            "id": "6bb5ef9a7224fdc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Regeln/Spieler/Charakterbögen/Basiszauber.md",
-                "mode": "source",
-                "source": false
+                "file": "Regeln/Spieler/Charakterbögen/Undeadman.canvas",
+                "viewState": {
+                  "x": 130.68705539151262,
+                  "y": 449.4847084563656,
+                  "zoom": -0.5859640245662292
+                }
               },
-              "icon": "lucide-file",
-              "title": "Basiszauber"
+              "icon": "lucide-layout-dashboard",
+              "title": "Undeadman"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regeln/Spieler/Charakterbögen/Mage und Tome Charakterbogen.canvas",
+                "file": "Regeln/Spieler/Charakterbögen/Undeadman.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mage und Tome Charakterbogen"
+              "title": "Outline of Undeadman"
             }
           },
           {
@@ -201,17 +205,22 @@
   },
   "active": "5f28be539c28b4db",
   "lastOpenFiles": [
+    "Undeadman.jpg",
+    "Regeln/Spieler/Charakterbögen/Needleomancer.canvas",
+    "Regeln/Spieler/Charakterbögen/Undeadman.canvas",
+    "Regeln/Spieler/Charaktere/Olivers Unsterblicher Soldat.md",
+    "Regeln/Spieler/Charakterbögen/Zauberbogen.canvas",
+    "Regeln/Spieler/Charakterbögen/Mage und Tome Charakterbogen.canvas",
     "Regeln/Spieler/Charakterbögen/Basiszauber.md",
+    "README.md",
+    "Untitled.md",
     "Regeln/Statuseffekte/Einfrieren.md",
     "Regeln/Statuseffekte/Gefrierbrand.md",
-    "Regeln/Spieler/Charakterbögen/Mage und Tome Charakterbogen.canvas",
     "Regeln/Statuseffekte/Verbrennung.md",
-    "Regeln/Spieler/Charakterbögen/Zauberbogen.canvas",
     "Regeln/Spieler/Charakterbögen",
     "Zauberer_und_Buch.jpeg",
     "Regeln/Spieler/Charaktere/Juns Zauberer und Buch.md",
     "Sessions/Session 1.md",
-    "Untitled.md",
     "Regeln/Erschöpfung.md",
     "Lore/Gegner/Lich.md",
     "Lore/Charaktere/Götter/Aurelius.md",
@@ -228,9 +237,6 @@
     "Lore/Charaktere/Der Außenseiter.md",
     "Lore/Charaktere/Der Einsiedler.md",
     "Lore/Charaktere/Der Rebell.md",
-    "Lore/Charaktere/Der Fanatiker.md",
-    "Lore/Charaktere/König von Regalia.md",
-    "Lore/Rassen/Menschen.md",
     "Excalidraw",
     "Untitled 1.base",
     "Untitled.base",

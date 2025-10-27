@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"253adf0dac5ed7b4","type":"text","text":"# Zauberbogen","x":-80,"y":-100,"width":520,"height":60},
-		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
-		{"id":"7be95558cfaebeb1","type":"text","text":"#### Passive: Lebendes Buch\nDas Buch lebt und hat einen eigenen Willen. Es kann eigene Wahrnehmungchecks durchführen. Ob es seine Erkenntnisse teilen will ist ihm selbst überlassen...","x":-80,"y":60,"width":520,"height":160}
-	],
-	"edges":[]
-}
