@@ -2,13 +2,15 @@
 	"nodes":[
 		{"id":"253adf0dac5ed7b4","type":"text","text":"# Undeadman","x":-80,"y":-100,"width":520,"height":60},
 		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
-		{"id":"7be95558cfaebeb1","type":"text","text":"#### Klinge beschwören\nDie Klinge dieses Soldaten ist für immer an seine Seele gebunden. Das Schwert kann jederzeit aus der Tiefe gerufen werden.\n\n#### Schattenschlag\nEine Welle aus Schatten strömt aus deinem Schwert als du es schwingst. Du kannst an bis zu 2 nahen Gegnern 2 + 1D8 Schaden verursachen.\n\n#### Untoter (Passiv)\nUndeadman ist ein sogenannter Reborn kann nicht durch konventionelle Methoden geheilt werden.\nStattdessen regeneriert sich der untote Körper von selbst über Zeit. Er besitzt außerdem Fähigkeiten die es ihm erlauben anderen Lebewesen ihre Lebenskraft zu rauben.","x":-80,"y":60,"width":520,"height":520},
+		{"id":"7be95558cfaebeb1","type":"text","text":"#### Klinge beschwören\nDie Klinge dieses Soldaten ist für immer an seine Seele gebunden. Das Schwert kann jederzeit aus der Tiefe gerufen werden.","x":-80,"y":60,"width":520,"height":120},
 		{"id":"5f6b7631ab59246f","type":"file","file":"Regeln/Spieler/Charaktere/Olivers Unsterblicher Soldat.md","x":-460,"y":300,"width":340,"height":570},
-		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":640,"width":520,"height":60},
-		{"id":"91c629ac585f5415","type":"text","text":"#### Lebensraub\nDeine Hand beginnt blutrot zu leuchten und du kannst damit die Energie anderer Lebewesen aussaugen. Du verursachst 1 D8 nekrotischen Schaden und wirst um die selbe Menge geheilt.","x":-80,"y":700,"width":520,"height":150},
-		{"id":"d7b373203e10a33c","type":"text","text":"#### Todesaura\nDu rammst dein Schwert in den Boden und hüllst dich in eine Aura aus Schatten. Deine Angriffe werden für die Dauer der Aktivierung um 1 D4 verstärkt, jedoch zerren die Schatten an deiner Seele. Du erhältst 1 D8 nekrotischen Schaden am Ende jedes Zuges in dem Todesaura aktiv war.","x":-80,"y":990,"width":520,"height":220},
-		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":930,"width":520,"height":60},
-		{"id":"ace9bf673129cb61","x":-460,"y":-100,"width":340,"height":340,"type":"file","file":"Undeadman.jpg"}
+		{"id":"ace9bf673129cb61","x":-460,"y":-100,"width":340,"height":340,"type":"file","file":"Undeadman.jpg"},
+		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":525,"width":520,"height":60},
+		{"id":"91c629ac585f5415","type":"text","text":"#### Lebensraub\nDeine Hand beginnt blutrot zu leuchten und du kannst damit die Energie anderer Lebewesen aussaugen. Du verursachst 1 D8 nekrotischen Schaden und wirst um die selbe Menge geheilt.","x":-80,"y":180,"width":520,"height":150},
+		{"id":"3456036601919fa6","type":"text","text":"#### Untoter (Passiv)\nUndeadman ist ein sogenannter Reborn kann nicht durch konventionelle Methoden geheilt werden.\nStattdessen regeneriert sich der untote Körper von selbst über Zeit. Er besitzt außerdem Fähigkeiten die es ihm erlauben anderen Lebewesen ihre Lebenskraft zu rauben.","x":-80,"y":330,"width":520,"height":150},
+		{"id":"1a9316f3badd5c42","type":"text","text":"#### Schattenschlag\nEine Welle aus Schatten strömt aus deinem Schwert als du es schwingst. Du kannst an bis zu 2 nahen Gegnern 2 + 1D8 Schaden verursachen.","x":-80,"y":585,"width":520,"height":150},
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":780,"width":520,"height":60},
+		{"id":"d7b373203e10a33c","type":"text","text":"#### Todesaura\nDu rammst dein Schwert in den Boden und hüllst dich in eine Aura aus Schatten. Deine Angriffe werden für die Dauer der Aktivierung um 1 D4 verstärkt, jedoch zerren die Schatten an deiner Seele. Du erhältst 1 D8 nekrotischen Schaden am Ende jedes Zuges in dem Todesaura aktiv war.","x":-80,"y":840,"width":520,"height":200}
 	],
 	"edges":[]
 }

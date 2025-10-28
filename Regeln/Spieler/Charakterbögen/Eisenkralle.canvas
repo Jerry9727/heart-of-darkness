@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"253adf0dac5ed7b4","type":"text","text":"# Eisenkralle","x":-80,"y":-100,"width":520,"height":60},
+		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
+		{"id":"7be95558cfaebeb1","type":"text","text":"#### Axtwurf\nDu wirfst deine Axt auf einen Gegner und verursachst 1 D8 Schaden. Beim einholen der Axt an der Liane kannst du an einem anderen Gegner in der Nähe 1 D4 zusätzlich verursachen.","x":-80,"y":60,"width":520,"height":140},
+		{"id":"181a2aed29ba0cb7","x":-460,"y":-100,"width":340,"height":510,"type":"file","file":"Eisenkralle.jpeg"},
+		{"id":"16d6560cfc0bb188","x":-460,"y":460,"width":340,"height":520,"type":"file","file":"Regeln/Spieler/Charaktere/Eisenkralle.md"},
+		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":540,"width":520,"height":60},
+		{"id":"1a9316f3badd5c42","type":"text","text":"#### Gift spucken\nDu spuckst Gift auf einen Gegner vor dir und verursacht 1D10 Schaden. Chance von xDx den Gegner für 3 Runden zu [[Vergiftung|vergiften]].\nDein ätzendes Echsengift verursacht 1+1D4 Schaden pro Runde.","x":-80,"y":600,"width":520,"height":150},
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":795,"width":520,"height":60},
+		{"id":"d7b373203e10a33c","type":"text","text":"#### Urwaldschlag\nDein kaltes Echsenblut kocht vor Kampfeslust und du holst mit deiner Großaxt weit aus und triffst bis zu 3 nahe Gegner vor dir für 3+1D12 Schaden.","x":-80,"y":855,"width":520,"height":200},
+		{"id":"3456036601919fa6","type":"text","text":"#### Echsenmensch (Passiv)\nAls Echsenmensch besitzt du die Fähigkeit Unterwasser zu atmen. Du kannst außerdem deinen Krallen und Kiefer als Waffe benutzen.\nDeine dicken Schuppen schützen dich und geben dir +1 Rüstung.","x":-80,"y":200,"width":520,"height":150},
+		{"id":"de1bd7557a1ff952","type":"text","text":"#### Fehlende Finger (Passiv)\nDir fehlen 2 Finger an einer Hand. Benutzt du diese Hand um deine Axt zu werfen wird der Wurf um 2 erschwert.\nDa du die Finger um den Hals trägst, wirkst du bedrohlicher und erhältst einen Bonus von 1 auf Bedrohlichkeit.","x":-80,"y":350,"width":520,"height":170}
+	],
+	"edges":[]
+}
