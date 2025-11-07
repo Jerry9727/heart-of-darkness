@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"253adf0dac5ed7b4","type":"text","text":"# Pilgrim","x":-80,"y":-100,"width":520,"height":60},
+		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
+		{"id":"7be95558cfaebeb1","type":"text","text":"#### Axtwurf\nDu wirfst deine Einhandaxt auf einen Gegner und verursachst 1 D8 Schaden. Du musst deine Axt wieder aufheben. (Bonusaktion)\nBis dahin wechselt dein Kampfstil entweder zu Schildkampf oder unbewaffnetem Kampf.","x":-80,"y":60,"width":520,"height":180},
+		{"id":"7abeabc73afbe6e5","type":"file","file":"Regeln/Spieler/Charaktere/Pilgrim.md","x":-460,"y":455,"width":340,"height":465},
+		{"id":"3456036601919fa6","type":"text","text":"#### Waffenwechsel\nDu bist ein erfahrener Krieger aus den nördlichen Reichen und kannst im Kampf zwischen verschiedenen Kampfstilen wechseln.\nDu kannst wählen zwischen der Einhandaxt, Axt und Schild, nur Schild, einer Zweihand-Großaxt oder unbewaffneten Kampf. \nDies kostet dich eine Aktion.","x":-80,"y":240,"width":520,"height":200},
+		{"id":"138da663bc896d58","type":"text","text":"#### Kampfstile:\n- Axt\n- Zwei Äxte (Noch mit Dominik klären)\n- Axt und Schild\n- Schild\n- Großaxt (Zweihändig)\n- Knüppel (Betäubung)\n- Unbewaffnet","x":480,"y":0,"width":340,"height":280},
+		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":480,"width":520,"height":60},
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":830,"width":520,"height":60},
+		{"id":"d7b373203e10a33c","type":"text","text":"#### Rundumschlag\nNur mit: Axt, Axt und Schild, Zwei Äxten oder Großaxt\nNur einmal pro Kampf (oder Rage?)\n\nDu gehst in Kampfstellung und drehst dich mit deiner Waffe im Kreis. Alle Gegner in Reichweite bekommen den Schaden der ausgerüsteten Waffe + 1D4.\nBis zu deinem nächsten Zug bist du erschöpft und hast einen Nachteil beim blocken/parieren.","x":-80,"y":890,"width":520,"height":270},
+		{"id":"1a9316f3badd5c42","type":"text","text":"#### Zorn des Nordens\nNur nach dem Töten eines Feindes einsetzbar.\n\nDu stößt einen furchterregenden Kampfschrei aus der Gegner in Reichweite in Furcht und Schrecken versetzt (Gegner können widerstehen).\nBetroffene Gegner sind bei Angriffen gegen dich im Nachteil und du verursachst 1D4 zusätzlichen Schaden gegen sie.\nBei einem Krit. verfällt der Gegner für eine Runde in [[Panik]].","x":-80,"y":540,"width":520,"height":260},
+		{"id":"0ae9c9e0bee7bd9f","type":"text","text":"### Stufe 4","x":-80,"y":1200,"width":520,"height":60},
+		{"id":"dbc20cd972565751","type":"text","text":"### Stufe 5","x":-80,"y":1300,"width":520,"height":60},
+		{"id":"651e63b80d61f35d","type":"text","text":"#### Mächtiger Axtwurf\nDu kannst nun deine Großaxt oder deinen Schild werfen.\nDer Wurf einer Waffe verursacht nun den Schaden der Waffe + 1D4.\nDu musst die geworfene Waffe weiterhin aufheben (Bonusaktion) und dein Kampfstil wechselt bis dahin.","x":-80,"y":1360,"width":520,"height":240}
+	],
+	"edges":[]
+}

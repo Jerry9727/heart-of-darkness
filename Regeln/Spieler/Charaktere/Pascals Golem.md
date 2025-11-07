@@ -6,7 +6,7 @@ Arcana:
 Strength
 
 Größe:
-3,5m
+3m
 
 Aussehen:
 Stein und Metall

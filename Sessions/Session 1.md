@@ -91,6 +91,9 @@ Und damit herzlich Willkommen zur ersten Session von Heart of Darkness!
 ## Die Gefangenen
 Es war ein eisiger erster Wintertag in der Hauptstadt. Der Himmel über der Stadt [[Regalia]] war bewölkt und ungewöhnlich dunkel. Die Fenster und Dächer waren von Frost bedeckt und vereinzelte Schneeflocken tanzten durch die Luft. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Doch scheinbar hatte er sich getäuscht.
 
+### IDEE:
+Anstatt die Geschichte durch Tellan zu erzählen, werden die Spieler selbst Zeugen. Das Gefängnis ist auf der anderen Seite der Stadt und Tellan führt sie auf dem Weg zur Burg durch das Bettlerviertel.
+
 "Herr, ein paar Münzen bitte!", erklang es von der Seite.
 3 Kinder in Lumpen kamen durch den Regen auf ihn zugerannt und krallten sich in seinen Mantel. Tellan verzog das Gesicht.
 "Bitte Herr, ich habe seit Tagen nichts gegessen!", sagte eines.
