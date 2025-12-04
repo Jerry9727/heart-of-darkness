@@ -1,0 +1,2 @@
+## Beschreibung
+Auch Gott der Tiefe genannt. Abgrund des Wassers und der Ozeane, steht aber ebenso für das Unbekannte. Sein Gesichte liegt stets im Schatten seiner Kapuze und er spricht nicht. Kommuniziert durch die Gedärme seiner Untertanen, die sich bereitwillig den Bauch aufschlitzen um ihm zu dienen.

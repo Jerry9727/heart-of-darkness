@@ -1,0 +1,2 @@
+## Beschreibung
+Große, schlanke Frau in einer Robe. Sie ist lediglich ein Skelett mit einigen verlorenen schwarzen Haarsträhnen auf dem Kopf. Sie holt die Lebenden mit dem Kuss des Todes zu sich. Auf der Suche nach Liebe tragisch in [[Aurelius]] verliebt.

@@ -1,7 +1,8 @@
-(Eigennamen wie für die Elfen finden (Mer))
 ## Namensgebung
+Der Eigenname der Zwerge lautet "Fjellen", was eine Vereinfachung für "Vom Berg Gefallener" darstellt. Dieser Name entspringt direkt ihrem Glauben, dass sie aus vom [[Gott des Steins]] gefallenen Felsen entstanden sind.
 Namen sind Nordisch und enthalten oft Wörter die Gold und Reichtum symbolisieren.
 
 ## Beschreibung
-Entstammen dem Abgrund der Gier und des Stolzes, aber auch der Handwerker. 
+Entstammen dem Abgrund der Gier und des Stolzes, aber auch der Handwerker.
+Sie symblisieren das Handerwerk und den Stolz.
 Andere Kulturen sind die [[Gelbkappen-Zwerge]] sowie die [[Tenka-Zwerge]].

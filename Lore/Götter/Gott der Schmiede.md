@@ -1,0 +1,3 @@
+## Beschreibung
+Gott der Schmiede und Handwerker. Schutzpatron aller Arbeiter. Hat den Platz des Gottes des Wissens im [[Pantheon]] eingenommen seit dessen verschwinden.
+Er ist in Wahrheit eine Reinkarnation des [[Gott des Wissens|Gottes des Wissens]]. Dieses Wissen wäre kritisch für Aurelius Kernproblem (Dass ein Gott keinen freien Willen hat), aber niemand weiß dass es so geschehen ist, auch der Gott der Schmiede selbst nicht. Er ist einfach aufgetaucht, nachdem der Gott des Wissens durch die Hand des [[Gott der Schönheit|Gottes der Schönheit]] in Gestalt des [[König in Gelb|Königs in Gelb]] und [[Aurelius]] beseitigt wurde.

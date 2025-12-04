@@ -1,0 +1,4 @@
+## Beschreibung
+Die Drachengeborenen leben an verschiedenen Orten auf dem westlichen Kontinent, aber immer in extremen Wetterlagen. Im Landesinnern sind sie nur selten zu sehen, meist wenn sie auf der Durchreise sind. Sie treiben regen Handel mit den andern Drachengeborenen Völkern, bleiben ansonsten aber lieber unter sich. Ihr Volk steht für Besonnenheit und Robustheit.
+Sie fühlen an allen möglichen ungewöhnlichen Orten wohl und leben sowohl im hohen Norden wo sie heimliche Städte aus Stein in die eisigen Berggipfel hauen, als auch in ihren Dörfern aus Sandstein tief in der Wüste in der Nähe von Oasen.
+Ein Reisender, der einmal gefragt hat, warum sie sich die unwirtlichsten Orte auf dem ganzen Kontinent als Heimat aussuchen, soll die Antwort "Fühlt sich gut auf den Schuppen an." bekommen haben.

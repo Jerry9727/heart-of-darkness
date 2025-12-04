@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"db955731a3e7389e","type":"file","file":"Zauberer_und_Buch.jpeg","x":-460,"y":-100,"width":340,"height":510},
+		{"id":"db955731a3e7389e","type":"file","file":"Regeln/Spieler/Charakterbögen/Zauberer_und_Buch.jpeg","x":-460,"y":-100,"width":340,"height":510},
 		{"id":"253adf0dac5ed7b4","type":"text","text":"# Mage und Tome","x":-80,"y":-100,"width":520,"height":60},
 		{"id":"68cb84f1797cbef9","type":"file","file":"Regeln/Spieler/Charaktere/Juns Zauberer und Buch.md","x":-460,"y":440,"width":340,"height":400},
 		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},

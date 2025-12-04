@@ -1,1 +1,2 @@
-Subspezies der [[Zwerge]]. Beten den [[König in Gelb|gelben König]] an. Sind völlig von Gier zerfressen und betreiben Sklaverei. Opfer von durch den [[Abgrund]] verursachtem Wahnsinn.
+Subspezies der [[Zwerge]]. Beten den [[König in Gelb|gelben König]] an. Sind völlig vom Neid zerfressen und betreiben Sklaverei. Opfer von durch den [[Abgrund]] verursachtem Wahnsinn.
+Sind für den Untergang der [[Tenka-Zwerge]] verantwortlich.

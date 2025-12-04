@@ -1,1 +1,0 @@
-Anführer der [[Gelbkappen-Zwerge]]. Symbol und [[Gott|Abgründiger]] der Gier. Hat sich auf irgendeine Weise vor Hunderten von Jahren manifestiert. Es gibt Gerüchte dass er mit dem Untergang der [[Tenka-Zwerge]] zu tun hatte.
