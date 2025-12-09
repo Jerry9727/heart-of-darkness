@@ -4,4 +4,4 @@ Ein Story-driven Dark Fantasy Pen and Paper in dem die Spieler böse Mächte und
 
 Die Geschichte soll die Helden, oder besser gesagt Antihelden, immer wieder an den Rand der Menschlichkeit führen, wo die Grenze zwischen richtig und falsch verschwimmt. Jede Handlung hat Konsequenzen, versagen wird mit dem Tod oder schlimmerem bestraft.
 
-Hauptantagonisten sind [[Die Mutter]] und [[Aurelius]].
+Hauptantagonisten sind [[Die Mutter]] und [[Aurelius der Goldene]].

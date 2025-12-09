@@ -19,7 +19,7 @@ Sie werden vor den König geführt, wo sie sich vorstellen müssen. Tellan ruft 
 Der König überträgt ihnen die Aufgabe eine Reihe an Sklaven, allesamt jung und schön [[Die Mutter|der Mutter]] zu opfern. Unter diesen ist seine eigene Tochter, [[Die Prinzessin]].
 [[Der Fanatiker]] als Anführer der korrupten [[Kirche des Goldenen]] zwingt den König dies zu tun.
 
-[[Tellan]] begleitet die Spieler. Rika als Nonne/Priesterin von [[Aurelius|Aurelius]] übernimmt ebenfalls die Aufsicht. Sie führen sie in die Waffenkammer.
+[[Tellan]] begleitet die Spieler. Rika als Nonne/Priesterin von [[Aurelius der Goldene|Aurelius der Goldene]] übernimmt ebenfalls die Aufsicht. Sie führen sie in die Waffenkammer.
 
 In der Waffenkammer gibts die [[Startausrüstung]] und dort steht auch [[Pascals Golem]].
 
@@ -50,7 +50,7 @@ Entweder die Waldelfen werden dabei getötet, oder sie lassen die Spieler am Leb
 
 Die spieler bringen die Prinzessin zurück zum König, oder die Prinzessin begleitet die spieler. Das Opfer für die mutter kommt zu spät, jedoch wird Tellan gefressen und das triggert [[Das Erwachen]]?? Die Spieler werden hier von der Mutter verflucht Noch überarbeiten. Oder Tellan wird von den Aposteln getötet.
 
-Treffen mit [[Aurelius|Aurelius]]? Vision von [[Aurelius|Aurelius]]? Das wäre vermutlich zu offensichtlich
+Treffen mit [[Aurelius der Goldene|Aurelius der Goldene]]? Vision von [[Aurelius der Goldene|Aurelius der Goldene]]? Das wäre vermutlich zu offensichtlich
 
 
 
@@ -67,7 +67,7 @@ Ein dunkle Silhouette erhebt sich. So alt wie die Zeit selbst, fremd und doch sc
 
 
 ## Nach Session 1
-Den Kult der Mutter aufhalten. Priester von [[Aurelius|Aurelius]] sind jedoch auch nicht mehr unbedingt freundlich, da die Helden bereits beginnen Korrumpiert zu werden.
+Den Kult der Mutter aufhalten. Priester von [[Aurelius der Goldene|Aurelius der Goldene]] sind jedoch auch nicht mehr unbedingt freundlich, da die Helden bereits beginnen Korrumpiert zu werden.
 
 
 

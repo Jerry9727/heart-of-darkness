@@ -3,7 +3,7 @@ Die 12 Götter des [[Pantheon|Pantheons]] der Menschen. Sie sind die in den Auge
 
 ## Mitglieder
 Der Pantheon besteht aus folgenden 12 Göttern:
-[[Aurelius]]: Liebe und Kontrolle, Greed
+[[Aurelius der Goldene]]: Liebe und Kontrolle, Greed
 [[Die Mutter]]: Mutterschaft und Geburt, Pestilence
 [[Göttin des Todes]]: Tod und Seele, Death
 [[Göttin der Natur]]: Leben und Fortpflanzung, Lust

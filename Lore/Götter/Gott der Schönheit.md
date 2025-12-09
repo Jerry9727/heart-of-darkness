@@ -1,3 +1,3 @@
 [[Gott]] von Allem was schön ist. Herr der [[Waldelfen]] und der [[Tenka-Zwerge]].
 Androgyn, hat sowohl Elemente von Männern als auch von Frauen. Wird von jedem anders wahrgenommen. Von den Menschen eher als männlich wahrgenommen.
-Hat in Gestalt des [[König in Gelb|Königs in Gelb]], angestiftet von [[Aurelius]] die [[Tenka-Zwerge]] in den Untergang getrieben, weil er ihnen ihre perfekten [[Konstrukte]] neidete.
+Hat in Gestalt des [[König in Gelb|Königs in Gelb]], angestiftet von [[Aurelius der Goldene]] die [[Tenka-Zwerge]] in den Untergang getrieben, weil er ihnen ihre perfekten [[Konstrukte]] neidete.

@@ -6,7 +6,8 @@
 		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":440,"width":520,"height":60},
 		{"id":"91c629ac585f5415","type":"text","text":"","x":-80,"y":500,"width":520,"height":150},
 		{"id":"d7b373203e10a33c","type":"text","text":"","x":-80,"y":760,"width":520,"height":220},
-		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":700,"width":520,"height":60}
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":700,"width":520,"height":60},
+		{"id":"ad9d805508d8a4e8","type":"text","text":"#### Formwandler (passiv)\nDu hältst deinen menschlichen Körper mit Konzentration aufrecht. Unter großen Stress, Schock oder Bewusstlosigkeit kann es passieren, dass dir deine Form entgleitet. In Menschenform erhältst du einen Bonus auf Charisma, in formloser Gestalt jedoch gibt es keine Garantie, dass deine Präsenz toleriert wird.","x":460,"y":180,"width":520,"height":180}
 	],
 	"edges":[]
 }

@@ -1,1 +1,1 @@
-Der dritte Sohn von [[Aurelius]] ist ein halb Wahnsinniger Eigenbrötler dem seine Kräfte geraubt wurde und der Party als Berater dient (siehe Yoda). Taucht in der ersten Session als NPC auf als Foreshadowing. Wird dann später immens wichtig und der Schlüssel zum Sieg gegen Aurelius.
+Der dritte Sohn von [[Aurelius der Goldene]] ist ein halb Wahnsinniger Eigenbrötler dem seine Kräfte geraubt wurde und der Party als Berater dient (siehe Yoda). Taucht in der ersten Session als NPC auf als Foreshadowing. Wird dann später immens wichtig und der Schlüssel zum Sieg gegen Aurelius.

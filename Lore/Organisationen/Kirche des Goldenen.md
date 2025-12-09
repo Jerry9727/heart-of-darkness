@@ -1,2 +1,2 @@
 (Name WIP)
-Kirche die [[Aurelius|Aurelius]] den goldenen anbetet. Es gibt sowohl normale Pastoren und Pfarrer, aber auch bewaffnete Fantaiker die gegen [[Die Mutter]] in den Kampf ziehen.
+Kirche die [[Aurelius der Goldene|Aurelius der Goldene]] den goldenen anbetet. Es gibt sowohl normale Pastoren und Pfarrer, aber auch bewaffnete Fantaiker die gegen [[Die Mutter]] in den Kampf ziehen.
