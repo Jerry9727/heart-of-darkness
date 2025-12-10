@@ -1,5 +1,5 @@
 ## Namensgebung
-Der Eigenname der Zwerge lautet "Fjellen", was eine Vereinfachung für "Vom Berg Gefallener" darstellt. Dieser Name entspringt direkt ihrem Glauben, dass sie aus vom [[Gott des Steins]] gefallenen Felsen entstanden sind.
+Der Eigenname der Zwerge lautet "Fjellen", was eine Vereinfachung für "Vom Berg Gefallener" darstellt. Dieser Name entspringt direkt ihrem Glauben, dass sie aus vom [[Ymir, Gott des Steins]] gefallenen Felsen entstanden sind.
 Namen sind Nordisch und enthalten oft Wörter die Gold und Reichtum symbolisieren.
 
 ## Beschreibung

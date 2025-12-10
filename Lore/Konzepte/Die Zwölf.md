@@ -1,5 +1,5 @@
 ## Beschreibung
-Die 12 Götter des [[Pantheon|Pantheons]] der Menschen. Sie sind die in den Augen der Menschen wichtigsten Götter. Laut Mythos der Menschen von [[Vater]] erschaffen.
+Die 12 Götter des [[Pantheon|Pantheons]] der Menschen. Sie sind die in den Augen der Menschen wichtigsten Götter. Laut Göttersage der Menschen von [[Vater]] erschaffen.
 
 ## Mitglieder
 Der Pantheon besteht aus folgenden 12 Göttern:

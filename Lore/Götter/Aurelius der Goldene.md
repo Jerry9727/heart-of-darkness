@@ -9,6 +9,21 @@ Er wird von den Menschen als einer der wenigen Götter noch angebetet.
 Sieht sich selbst als Held, der alles in Kauf nimm, um die Welt nach seinem gütigen(?) Willen zu formen. Ein manipulativer Perfektionist.
 Aufgrund seiner Natur als Abgrund der Kontrolle hat er immer nach Bewusstsein gestrebt. Er ist das Herz des Abgrunds, die logische Konsequenz.
 
+
+## Aurelius Ziel
+Aurelius leidet. Er macht enormes Leid durch. Er hat einmal wahrhaftig geliebt, doch die immer härter werdende Realität hat seine Liebe verdorren lassen. Nun möchte er um jeden Preis aus dem [[Himmel|System]] ausbrechen. Alle anderen sind nur Schachfiguren, Opferlämmer, bereit für ihren Zweck geschlachtet zu werden.
+
+Er redet sich ein, dass er das alles nur macht, um eine bessere Welt erschaffen zu können, sobald er frei ist. Wie diese aussieht weiß er nicht. Dies ist ein direkter Einfluss der schlimmer werdenden Emotionen die aus dem Abgrund auf ihn einströmen.
+
+## Symbolik
+Die Farben von Aurelius Priestern sind weiß und gold. Sein Wappentier ist ein weißer Falke, der sich mit seinem Schnabel das eigene Herz aus der Brust reißt und einen goldenen Dornenkranz trägt.
+Der weiße Falke symbolisiert die Reinheit, das Herz und die Dornenkrone die Liebe und Selbstaufopferung.
+In alten Aufzeichnungen wurde er auch mit einem goldenen Schwan dargestellt. Dies ist im dunklen Zeitalter seltener der Fall, da die [[Kirche des Goldenen]] den Falken als Symbol der Stärke nutzt.
+
+## Artefakte
+Es gibt einige Artefakte die mit Aurelius in Verbindung gebracht werden. Das prominenteste ist wohl seine [[goldene Krone]], die den Träger mit quasi endloser Hingabe erfüllt. Die Krone erlaubt dem Träger diese Hingabe auf jeden zu übertragen den er berührt. Die so Berührten verehren den Träger und tun alles um ihm zu gefallen.
+(Der Träger der Krone erfüllt wiederum Aurelius' Willen.)
+
 ## Aurelius und Lilith
 Sie waren einst verheiratet, jedoch hat Aurelius sie nur ausgenutzt. Er hat sie schrecklich behandelt und bis ans äußerste getrieben und sie gezwungen ihm Erben zu gebären. Weil sie das nicht konnte hat er sie dazu verdammt für alle Ewigkeit seine Soldaten zu zeugen, die im eine reine Welt erschaffen sollen.
 

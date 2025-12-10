@@ -28,12 +28,13 @@
 - Aurelius manifestiert und gibt sich als Gott-König und Retter der Menschheit als Oberhaupt der Kirche. Erklärt die Spieler als Feinde der Schöpfung und schiebt ihnen das [[Das Erwachen|Erwachen]] in die Schuhe.
 - Söhne Aurelius zeigen sich und retten Spieler
 - Rückkehr nach Regalia zeigt die Stadt völlig zerstört
-- Spieler müssen mehr über den Seelenstein lernen und reisen ins Zwergenkönigreich.
+- Spieler müssen mehr über den Seelenstein lernen, da dieser angeblich genutzt werden kann, um einen Gott zu töten und reisen ins Zwergenkönigreich.
 - Konfrontation mit den [[Gelbkappen-Zwerge|Gelbkappen-Zwergen]] und den Konstrukten. Hinweis darauf droppen, dass Aurelius mit dem [[König in Gelb]] zu tun hat.
 - Spieler erschaffen einen neuen Seelenstein und befreien den Geist der Konstrukte.
 - Seelenstein kann nun genutzt werden, um in den Geist/die Ebenen der erwachten Götter einzudringen ohne sofort wahnsinnig oder zum Erwachten zu werden.
 - Spieler treffen [[Vater Zeit]] und die Söhne Aurelius, die ihnen verraten, wie man das was von [[Die Mutter|der Mutter]] übrig ist retten und dadurch Aurelius besiegen kann.
-- Spieler nutzen den Seelenstein um Aurelius Verbindung zum Abgrund zu trennen. Er ist nun sterblich und kann getötet werden. (Promised Consort Radahn Musik spielen)
+- Spieler nutzen den Seelenstein für ein Ritual um eine höhere Ebene zu beeinflussen und das [[Engelsschwert]] zu erhalten
+- Spieler nutzen das [[Engelsschwert]] um Aurelius Verbindung zum Abgrund zu trennen. Er ist nun sterblich und kann getötet werden. (Promised Consort Radahn Musik spielen)
 - Der Gott der Liebe reinkarniert (Vielleicht als 2? Liebe und Kontrolle?) und spricht zu den Spielern und dem sterbenden Aurelius. Macht erst den Eindruck, als wäre Aurelius zurück, ist aber seine eigene Person. Tritt neutral auf. Dies zeigt Aurelius dass Götter durchaus eine Wahl haben, da der neue Gott der Liebe ansonsten genau wie er hätte werden müssen. Aurelius bleibt gebrochen zurück.
 - Signifikant geschwächt und sterbend erhalten die Spieler die Wahl, ob sie Aurelius verschonen wollen. (Deutlich machen dass er seine Fehler nie ganz verstehen wird, aber ihn zu einem Leben als Sterblicher zu verurteilen mag für ihn qualvoller als der Tod sein. Dies zwingt ihn sich mit seinen Fehlern auseinander zu setzen. Dieses Ende funktioniert nur wenn klar ist, dass es keine Möglichkeit für ihn gibt, jemals zu seiner Göttlichen Form zurückzukehren)
 

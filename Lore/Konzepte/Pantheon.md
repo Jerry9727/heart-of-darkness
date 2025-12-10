@@ -1,2 +1,2 @@
 ## Beschreibung
-Sitz der Götter in der Mythik der Menschen. Im vorstehen die [[Die Zwölf]], die wichtigsten Götter der Menschen. Andere Völker haben andere Geschichten.
+Sitz der Götter in der Theologie der Menschen. Ihm vorstehen [[Die Zwölf||die Zwölf]], die wichtigsten Götter der Menschen. Andere Völker haben eine eigene Göttersagen.

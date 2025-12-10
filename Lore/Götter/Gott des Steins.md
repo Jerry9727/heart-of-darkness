@@ -1,1 +1,0 @@
-Schöpfungsgott der [[Zwerge]]. Die Zwerge glauben, dass sie aus Felsen entstanden sind, die von seinem Körper rollten als die Welt erschaffen wurde.
