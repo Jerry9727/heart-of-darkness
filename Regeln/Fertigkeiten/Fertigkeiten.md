@@ -1,3 +1,13 @@
+## Beschreibung
+Fertigkeiten die gelevelt werden können. Jeder Spieler startet mit einer fixen Zahl Fertigkeitspunkten.
+
+## To-Do
+- Wie viel ist ein Fertigkeitspunkt wert?
+- Wie bekommen Spieler neue Fertigkeitspunkte?
+- Wie leveln Fertigkeiten?
+  -> Wie Skills: Waffenschmiedekunst I, II und III
+  -> mit Punkten: 1-10 Punkte
+- Vielleicht müssen Spieler, wenn sie einen Fähigkeitspunkt haben noch einen Lehrer finden um dies zu lernen? Bücher gehen auch. In dem Fall 1 Punkt pro Level?
 
 ## DnD Fertigkeiten
 

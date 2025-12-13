@@ -37,7 +37,8 @@ Optionen:
 - Erhöht Leben: lame, nicht realistisch
 - Schadensreduzierung: Fühlt sich bei Gegnern nicht gut an, könnte bei Spielern cool sein.
 
-Lösung: Gegner haben keine Rüstung sondern mehr Leben, Spieler bekommen Schadensreduzierung.
+### Lösung
+Gegner haben (in der Regel) keine Rüstung sondern mehr Leben, Spieler bekommen flat Schadensreduzierung.
 
 
 ## Sonstiges

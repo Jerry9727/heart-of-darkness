@@ -20,7 +20,7 @@ Nonne
 Heimliche Attentäterin der Kirche
 
 ### Fähigkeiten
-
+Heilmagie ist pseude-heilig. Durch die Korruption der Magie muss der Zauberwirkende immer einen kleinen Teil seiner Lebenskraft beifügen.
 
 ### Waffen
 

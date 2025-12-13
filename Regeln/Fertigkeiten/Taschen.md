@@ -1,0 +1,1 @@
+Bestimmte Skills haben bestimmte Taschen, damit sie nicht das normale Inventar zumüllen, z.B. Alchemisten haben einen kleinen Alchemiebeutel und ein Trankholster.
