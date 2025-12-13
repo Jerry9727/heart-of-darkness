@@ -1,2 +1,2 @@
 ## Beschreibung
-Wenn die Spieler schlafen und sich erholen. Verbraucht pro Spieler eine Ration. Stellt die Hälfte des fehlenden Lebens (nicht max Leben!) wieder her. Wenn der Spieler keine Ration hat, nur ein Viertel. Dies sollte das Spiel schwerer machen und schwere Verletzungen haben langzeitfolgen.
+Wenn die Spieler schlafen und sich erholen. Verbraucht pro Spieler eine Ration. Stellt die Hälfte des fehlenden Lebens (nicht max Leben!) wieder her. Wenn der Spieler keine Ration hat, nur ein Viertel. Dies sollte das Spiel schwerer machen und schwere Verletzungen haben Langzeitfolgen.
