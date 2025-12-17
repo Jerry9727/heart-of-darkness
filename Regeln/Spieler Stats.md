@@ -1,18 +1,42 @@
 ## Charakterwerte
+Konstitution (Robusheit, Widerstandskraft, Zähigkeit, Lebenskraft, Vitalität)
+Stärke (Kraft, Macht)
+Geschick (Gewandheit)
+Intelligenz (Intellekt)
+Weisheit (Intuition, Verstand, Instinkt)
+Charisma (Präsenz, Aura, Redekunst)
+
+Test:
+Konstitution
 Stärke
 Geschick
-Konstitution
 Intelligenz
 Weisheit
 Charisma
 
+Konstitution
+Stärke
+Geschick
+Verstand
+Instinkt
+Charisma
+
+Zähigkeit
+Kraft
+Gewandtheit
+Verstand
+Instinkt
+Präsenz
+
 ## Lebenskraft
-Alternative Namen: Durchhaltevermögen, irgendwas finsteres. Könnte für besondere Charaktere Wie Pascals Golem oder Olivers Reborn Unterschiedlich heißen. z.B. Robustheit, Härte oder Für Olli Lebenskraft, Blut oder irgendwas vonwegen "Verbindung zur wachen Welt".
+Alternative Namen: Durchhaltevermögen, Lebenspunkte, Vitalität, Robustheit, Blut, Ausdauer, Fitness
+Könnte für besondere Charaktere Wie Pascals Golem oder Olivers Reborn Unterschiedlich heißen. z.B. Robustheit, Härte oder Für Olli Lebenskraft, Blut oder irgendwas vonwegen "Verbindung zur wachen Welt".
 
 Setzt sich aus dem Wert für Konstitution und der Charakterspezifische Lebensanstieg pro Level zusammen. Sind sie leer [[Tod|Stirbt]] man.
 
 ## Mana
-Alternative Namen: Magiekraft, Konzentration etc. Irgendwas mit Abgrund. Könnte für verschiedene Klassen auch anders heißen z.B. Zorn für den Barbar.
+Alternative Namen: Magiekraft, Konzentration, Fokus, Einsicht, Arkan, Abgrundresistenz, Klarheit, Resonanz
+Könnte für verschiedene Klassen auch anders heißen z.B. Zorn für den Barbar.
 
 Setzt sich aus dem Wert für xy und der Charakterspezifische Manaanstieg pro Level zusammen. Zauber kosten Mana
 

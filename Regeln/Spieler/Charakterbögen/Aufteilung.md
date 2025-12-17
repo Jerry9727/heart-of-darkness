@@ -1,10 +1,10 @@
-Gruppe 1:
+Gruppe A:
 Rika
 Jun
 Dominik
 Riesi
 
-Gruppe 2:
+Gruppe B:
 Pascal
 Alina
 Oliver

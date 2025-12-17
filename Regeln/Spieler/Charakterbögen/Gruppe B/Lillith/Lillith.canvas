@@ -8,8 +8,8 @@
 		{"id":"1a9316f3badd5c42","type":"text","text":"#### asd\nasd","x":-80,"y":585,"width":520,"height":150},
 		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":780,"width":520,"height":60},
 		{"id":"d7b373203e10a33c","type":"text","text":"#### Todesfee\nDu nimmst deine wahre Form als Todesfee und kannst deine Kräfte voll entfalten. Deine Umgebung wird kalt wie der Tod.","x":-80,"y":840,"width":520,"height":200},
-		{"id":"f21bd16428dc0cfa","type":"file","file":"Regeln/Spieler/Charakterbögen/Lillith.jpeg","x":-460,"y":-100,"width":340,"height":510},
-		{"id":"e5b3dd43746698a9","type":"file","file":"Regeln/Spieler/Charaktere/Lillith.md","x":-460,"y":460,"width":340,"height":480},
+		{"id":"f21bd16428dc0cfa","type":"file","file":"Regeln/Spieler/Charakterbögen/Gruppe B/Lillith/Lillith.jpeg","x":-460,"y":-100,"width":340,"height":510},
+		{"id":"e5b3dd43746698a9","type":"file","file":"Regeln/Spieler/Charakterbögen/Gruppe B/Lillith/Lillith.md","x":-460,"y":460,"width":340,"height":480},
 		{"id":"26aacd8e8ba3a4ce","type":"text","text":"### Gimmick\n\nStealthy Magier. Lillith ist eine Fae und daher von Natur aus übernatürlich und schwer auszumachen. Dazu kommt die Verfluchung  die sie zwischen Leben und Tod gefangen hält. Sie verströmt eine natürliche Kälte, subtil, aber allgegenwärtig\nSie befindet sich stets in Gesellschaft der Kälte der anderen Seite. Menschen in ihrer Umgebung, klagen tagelang noch über kalte Füße, klippernde Zähne\n\n\n\nIdee:\nGefangen zwischen Leben und Tod: Sie kann sowohl heilen als auch töten, je nachdem welcher Seite sie sich mehr hingibt.","x":480,"y":-95,"width":340,"height":695}
 	],
 	"edges":[]

@@ -1,3 +1,8 @@
+# Was für eine Geschichte will ich erzählen?
+In der Welt von Heart of Darkness geht es darum, nachdem man etwas Schreckliches getan hat, im Angesicht der Hoffnungslosigkeit einen Weg zu finden weiter zu machen.
+
+Auf dem Weg die Welt zu retten müssen die Spieler unmögliche Entscheidungen treffen und zu etwas monströsem werden. Die Spieler realisieren, dass sie nur ein Übel durch ein anderes ersetzen.
+
 ## Session 0
 - Session 1 durch eine Jagd ersetzen? bzw geplanten Encounter mit Erwachten ausbauen? (Erwachter mit Sozialangst)
 - Spieler starten im Gefängnis und werden durch einen Monsterangriff von einem Furchtdämon zufällig befreit. Am Ende besiegen sie die Bestie (a la Bloodborne) und werden wieder in den Knast gesteckt.
@@ -34,6 +39,8 @@
 - Seelenstein kann nun genutzt werden, um in den Geist/die Ebenen der erwachten Götter einzudringen ohne sofort wahnsinnig oder zum Erwachten zu werden.
 - Spieler treffen [[Vater Zeit]] und die Söhne Aurelius, die ihnen verraten, wie man das was von [[Die Mutter|der Mutter]] übrig ist retten und dadurch Aurelius besiegen kann.
 - Spieler nutzen den Seelenstein für ein Ritual um eine höhere Ebene zu beeinflussen und das [[Engelsschwert]] zu erhalten
+- Was wenn das Ritual ist, eines seiner Augen durch den Seelenstein zu ersetzen? Oder einen Splitter davon?
+- Um tief genug in den Abgrund zu reisen um das [[Engelsschwert]] zu holen, müssen die Spieler zu Erwachten werden. Dafür müssen sie ihre Menschlichkeit auf 0 bringen. Ich könnte das Opfer eines Spielers verlangen.
 - Spieler nutzen das [[Engelsschwert]] um Aurelius Verbindung zum Abgrund zu trennen. Er ist nun sterblich und kann getötet werden. (Promised Consort Radahn Musik spielen)
 - Der Gott der Liebe reinkarniert (Vielleicht als 2? Liebe und Kontrolle?) und spricht zu den Spielern und dem sterbenden Aurelius. Macht erst den Eindruck, als wäre Aurelius zurück, ist aber seine eigene Person. Tritt neutral auf. Dies zeigt Aurelius dass Götter durchaus eine Wahl haben, da der neue Gott der Liebe ansonsten genau wie er hätte werden müssen. Aurelius bleibt gebrochen zurück.
 - Signifikant geschwächt und sterbend erhalten die Spieler die Wahl, ob sie Aurelius verschonen wollen. (Deutlich machen dass er seine Fehler nie ganz verstehen wird, aber ihn zu einem Leben als Sterblicher zu verurteilen mag für ihn qualvoller als der Tod sein. Dies zwingt ihn sich mit seinen Fehlern auseinander zu setzen. Dieses Ende funktioniert nur wenn klar ist, dass es keine Möglichkeit für ihn gibt, jemals zu seiner Göttlichen Form zurückzukehren)

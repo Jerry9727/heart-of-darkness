@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"253adf0dac5ed7b4","type":"text","text":"# Esther","x":-80,"y":-100,"width":520,"height":60},
+		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
+		{"id":"830ae681f6cf309e","type":"file","file":"Regeln/Spieler/Charakterbögen/Basiszauber.md","x":480,"y":-100,"width":340,"height":940},
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":670,"width":520,"height":60},
+		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":520,"width":520,"height":60},
+		{"id":"91c629ac585f5415","type":"text","text":"","x":-80,"y":580,"width":520,"height":60},
+		{"id":"ee7e41ab53e35197","type":"file","file":"Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.md","x":-460,"y":440,"width":340,"height":510},
+		{"id":"4820f3619c290306","type":"text","text":"# Ideen Angriffe\n\nHeilig ist stark gegen: Untote und Dämonen\n\n### Licht der Verbannung\nDu fesselst ein Ziel an Ort für 3 Runden und Stelle, und [[Lähmung|lähmst]] es für einen Zug. Untote oder Dämonen haben eine Chance sofort getötet zu werden.\n\n### Läuterung\nDu berührst ein Ziel und setzt es von innen in Brand. Verursacht enormen Feuerschaden. Besonders effektiv gegen Untote und Dämonen.\n\n### Dunkle Heilung\nDu nutzt die Umgebung und einen Teil deiner eigenen Lebenskraft, um einen Verbündeten zu heilen.\n\n### Schwarze Flamme\nDu überziehst deine Sense mit schwarzen Feuer.\n\n### Heiliger Schnitt\nEin greller Lichtblitz schießt aus der Klinge deiner Sense als du sie schwingst. Du verursacht x Schaden an bis zu 2 nahen Gegnern.\n\n### Ernte\nDu schwingst deine Sense und verursachst x Schaden. Du erhältst die Hälfte des zugefügten Schadens als temporäre Lebenskraft.\n\n### Stoßgebet\nDu setzt ein kleines Stoßgebet für einen Verbündeten ab. Dieser erhält für die nächsten 5 Züge  +2 Rüstung, +2 magische Rüstung und +1 Schaden\n\n### Hingabe\nDu gibst dich deinem Gott hin und erhältst folgende Boni:\nMalus: \n\n### Dunkellicht\nDu erschaffst ein Feld der Dunkelheit, in dem nur du und von dir Gesegnete sehen können. Alle anderen Angreifer haben einen Nachteil.\n\n### Sakrileg\n???","x":880,"y":-100,"width":760,"height":1300},
+		{"id":"b33d8a5bbcb64031","x":880,"y":-340,"width":467,"height":220,"type":"text","text":"# Gimmick\n\nAngriffe haben eine heilige und eine dunkle Version. Die dunkle Version ist stärker kostet aber Leben (und potentiell Menschlichkeit)\nHeilige Fähigkeiten gehen eher auf AOE und Buffs, dunkle eher auf hohen single-target damaga"}
+	],
+	"edges":[]
+}
