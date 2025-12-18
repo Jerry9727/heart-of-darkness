@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d6f1b738aff5c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Kampagnenideen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kampagnenideen"
-            }
-          },
-          {
-            "id": "dd3094c75af4665f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Götter/Der Herr der Eulen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der Herr der Eulen"
-            }
-          },
-          {
             "id": "7cc37d1ade6ee6de",
             "type": "leaf",
             "state": {
@@ -47,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Session 0 Gruppe A"
+            }
+          },
+          {
+            "id": "0e0dac079b27c5f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Needlomancer"
             }
           },
           {
@@ -76,38 +62,23 @@
             }
           },
           {
-            "id": "db0413a4a937b270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regeln/Waffen/Waffen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Waffen"
-            }
-          },
-          {
             "id": "6c5da6a9cc2c01c5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Regeln/Spieler/Charakterbögen/Gruppe A/Veyra/Veyra.canvas",
+                "file": "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.canvas",
                 "viewState": {
-                  "x": 231.96130384248937,
-                  "y": 240.33747999116352,
-                  "zoom": -0.25478023504175856
+                  "x": 463.75513847467477,
+                  "y": 380.9221386781282,
+                  "zoom": -0.4756361578065242
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Veyra"
+              "title": "Esther"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,13 +217,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2abf36362f9e57ea",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,26 +248,41 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
   "active": "7cc37d1ade6ee6de",
   "lastOpenFiles": [
-    "Regeln/Gegner/Demon of Hatred.md",
-    "Sessions/Gruppe A/Session 0 Gruppe A.md",
-    "Lore/Götter/Der Herr der Eulen.md",
-    "Sessions/Sci-Fi Pen and Paper.md",
-    "Sessions/Kampagnenideen.md",
-    "Excalidraw/Charakterbogen.md",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Veyra/Veyra.canvas",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim/Pilgrim.canvas",
+    "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.md",
+    "Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim/Pilgrim.md",
+    "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needleomancer.canvas",
+    "Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim/Pilgrim.canvas",
+    "Sessions/Gruppe A/Session 0 Gruppe A.md",
+    "Ritual zum Traumwandeln.md",
+    "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.canvas",
+    "Regeln/Waffen/Waffen.md",
+    "Regeln/Fertigkeiten/Fertigkeiten.md",
+    "Excalidraw/Charakterbogen.md",
+    "Regeln/Gegner/Demon of Hatred.md",
+    "Psychopath.md",
+    "Lore/Historie/Zeitstrahl.md",
+    "Lore/Historie/Zweites Zeitalter.md",
+    "Lore/Historie/Zeitalter der Mythen.md",
+    "Lore/Konzepte/Himmel.md",
+    "Sessions/Gruppe A/Session 1 Gruppe A.md",
+    "Sessions/Intro.md",
+    "Sessions/Kampagnenideen.md",
+    "Lore/Götter/Der Herr der Eulen.md",
+    "Regeln/Spieler/Charakterbögen/Gruppe A/Veyra/Veyra.canvas",
+    "Sessions/Sci-Fi Pen and Paper.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Mage and Tome/Mage und Tome Charakterbogen.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Mage and Tome/Juns Zauberer und Buch.md",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.canvas",
     "Excalidraw/Mermaid.js Example.md",
     "Regeln/Spieler Stats.md",
-    "Regeln/Waffen/Waffen.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.md",
     "Regeln/Waffen",
     "Regeln/Spieler/Charakterbögen/Aufteilung.md",
@@ -302,17 +298,6 @@
     "Regeln/Gegner/Ratte.md",
     "Sessions/Zeitstrahl.md",
     "Sessions/Die Kampagne.md",
-    "Regeln/Gegner/Gegnerarten.md",
-    "Regeln/Kampfverlauf.md",
-    "Lore/Götter/Aurelius der Goldene.md",
-    "Lore/Konzepte/Abgrund.md",
-    "Regeln/Rast.md",
-    "Lore/Organisationen/Jägerorden.md",
-    "Regeln/Fertigkeiten/Schmiedekunst.md",
-    "Regeln/Haltbarkeit.md",
-    "Regeln/Charakterlevel.md",
-    "Regeln/Erfahrungspunkte.md",
-    "Regeln/Fertigkeiten/Fertigkeiten.md",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Lillith/Lillith.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Golem/Golem.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Undeadman/Undeadman.canvas",
@@ -321,7 +306,6 @@
     "Regeln/Spieler/Charakterbögen/Gruppe B/Eisenkralle/Eisenkralle.jpeg",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Undeadman/Undeadman.jpg",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Lillith/Lillith.jpeg",
-    "Regeln/Spieler/Charakterbögen/Gruppe B/Eisenkralle/Eisenkralle.canvas",
-    "Regeln/Spieler/Charakterbögen/Zauberbogen.canvas"
+    "Regeln/Spieler/Charakterbögen/Gruppe B/Eisenkralle/Eisenkralle.canvas"
   ]
 }

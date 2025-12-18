@@ -16,7 +16,7 @@ Die Stimmen im Abgrund allerdings sind real. Dies sind jedoch keine Toten, die V
 "What if an angel had a dream, and you were it's nightmare?"
 "Was, wenn ein Engel träumen würde, und du wärst sein Albtraum?
 Diese Frage stelle ich mir seit jener Nacht. Der Abgrund ist unendlich, sich immer und immer tiefer hinabwindend ins Chaos und die Dunkelheit.
-Welche Hybris wäre es, davon auszugehen, wir seien die höchste Ebene des Seins? Der Ursprung, der Mittelpunkt? Was, wenn es irgendwo da draußen eine andere Welt gibt, eine friedlichere Welt, in der wir nichts sind als das Monster unter dem Bett? Ich halte das für einen tröstlichen Gedanken."
+Doch welche Hybris wäre es, davon auszugehen, wir seien die höchste Ebene des Seins? Der Ursprung, der Mittelpunkt? Was, wenn es irgendwo da draußen eine andere Welt gibt, eine friedlichere Welt, in der wir nichts sind als das Monster unter dem Bett? Ich halte das für einen tröstlichen Gedanken."
  - Auszug aus "Genie und Wahnsinn"
 
 "[Was wenn der Abgrund die ...] Zeit selbst ist? Was wenn unsere Welt nicht still steht, sonders sich nach unten in den Abgrund bewegt, immer tiefer in die Dunkelheit? Was wenn der Schrecken des Abgrunds lediglich unser Schicksal ist? Das Zeitalter der Mythen ist unsere Vergangenheit. Was wenn diese verloren geglaubte Welt noch irgendwo da draußen ist, unnerreichbar weit weg? Doch auch sie steuert unaufhörlich auf den Abgrund zu. Und wenn wir dass sind, was sie erwartet, graut es mich davor auch nur einen weiteren Blick in den Abgrund zu tun."
