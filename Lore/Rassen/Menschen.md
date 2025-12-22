@@ -15,7 +15,7 @@ Beten die nordischen Götter an. Klassische Wikinger, kriegerisch und Plündern,
 (Askeladd Moment einbauen wo Wikinger ein ganzes Dorf abschlachten?)
 
 ### Nördliche Königreiche
-Bund kleinerer Königreiche und Stadtstaaten. Die nordischen gehören zwar offiziell zu ihnen, beteiligen sich jedoch nicht an politischen Angelegenheiten und das Verhältnis ist eher angespannt.
+Bund kleinerer Königreiche und Stadtstaaten. Die nordischen gehören zwar offiziell zu ihnen, allerdings nur auf dem Papier. Die nördlichen Reiche erkennen diese zugehörigkeit nicht an und beteiligen sich nicht an politischen Angelegenheiten. Das Verhältnis ist eher angespannt.
 
 ### Gothisch
 Teil des mittelländischen Königreichs, aber praktisch quasi selbstregiert. Der Bürgermeister der seltsamen Stadt ist vergleichbar mit einem König.

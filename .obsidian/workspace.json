@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cc37d1ade6ee6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Gruppe A/Session 0 Gruppe A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0 Gruppe A"
-            }
-          },
-          {
-            "id": "0e0dac079b27c5f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Needlomancer"
-            }
-          },
-          {
-            "id": "30a19b70b6346010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regeln/Gegner/Demon of Hatred.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Demon of Hatred"
-            }
-          },
-          {
             "id": "0044ba6bf63c6e4c",
             "type": "leaf",
             "state": {
@@ -62,23 +20,91 @@
             }
           },
           {
-            "id": "6c5da6a9cc2c01c5",
+            "id": "21eb8b58fc075532",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.canvas",
-                "viewState": {
-                  "x": 463.75513847467477,
-                  "y": 380.9221386781282,
-                  "zoom": -0.4756361578065242
-                }
+                "file": "Lore/Namenlose Hauptstadt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Esther"
+              "icon": "lucide-file",
+              "title": "Namenlose Hauptstadt"
+            }
+          },
+          {
+            "id": "b474c585d541b0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Kaiser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaiser"
+            }
+          },
+          {
+            "id": "6f4c57ac4cd151b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Organisationen/Jägerorden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jägerorden"
+            }
+          },
+          {
+            "id": "c91c152e0d765cab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Währung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Währung"
+            }
+          },
+          {
+            "id": "5fa48049775411e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Rassen/Zwerge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zwerge"
+            }
+          },
+          {
+            "id": "d13a5bd89292ce72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,17 +177,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regeln/Spieler/Charaktere/Pilgrim.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pilgrim"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -170,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regeln/Spieler/Charaktere/Pilgrim.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pilgrim"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -199,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Organisationen/Jägerorden.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jägerorden"
+              "title": "Outline of README"
             }
           },
           {
@@ -227,13 +253,23 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "ccc5f7c7f814050f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,38 +290,41 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "7cc37d1ade6ee6de",
+  "active": "5f28be539c28b4db",
   "lastOpenFiles": [
+    "Lore/Rassen/Zwerge.md",
+    "Währung.md",
+    "README.md",
+    "Lore/Namenlose Hauptstadt.md",
+    "Lore/Organisationen/Jägerorden.md",
+    "Kanban.md",
+    "Regeln/Loot.md",
+    "Lore/Ideen/Geld.md",
+    "Lore/Kaiser.md",
+    "König.md",
+    "Sessions/Gruppe A/Session 0 Gruppe A.md",
+    "Lore/Charaktere/König von Regalia.md",
+    "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.canvas",
+    "Regeln/Spieler Stats.md",
+    "Regeln/Gegner/Demon of Hatred.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.md",
+    "Lore/Rassen/Menschen.md",
+    "Lore/Historie/Dunkles Zeitalter.md",
+    "Excalidraw/Charakterbogen.md",
+    "Lore/Historie/Zweites Zeitalter.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim/Pilgrim.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needleomancer.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim/Pilgrim.canvas",
-    "Sessions/Gruppe A/Session 0 Gruppe A.md",
-    "Ritual zum Traumwandeln.md",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.canvas",
+    "Lore/Ritual zum Traumwandeln.md",
     "Regeln/Waffen/Waffen.md",
     "Regeln/Fertigkeiten/Fertigkeiten.md",
-    "Excalidraw/Charakterbogen.md",
-    "Regeln/Gegner/Demon of Hatred.md",
-    "Psychopath.md",
+    "Lore/Psychopath.md",
     "Lore/Historie/Zeitstrahl.md",
-    "Lore/Historie/Zweites Zeitalter.md",
     "Lore/Historie/Zeitalter der Mythen.md",
-    "Lore/Konzepte/Himmel.md",
-    "Sessions/Gruppe A/Session 1 Gruppe A.md",
-    "Sessions/Intro.md",
-    "Sessions/Kampagnenideen.md",
-    "Lore/Götter/Der Herr der Eulen.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Veyra/Veyra.canvas",
-    "Sessions/Sci-Fi Pen and Paper.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Mage and Tome/Mage und Tome Charakterbogen.canvas",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Mage and Tome/Juns Zauberer und Buch.md",
-    "Excalidraw/Mermaid.js Example.md",
-    "Regeln/Spieler Stats.md",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.md",
     "Regeln/Waffen",
-    "Regeln/Spieler/Charakterbögen/Aufteilung.md",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Psaro",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Golem",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Pilz",
@@ -295,9 +334,6 @@
     "Regeln/Spieler/Charakterbögen/Gruppe B",
     "Regeln/Spieler/Charakterbögen/Gruppe A",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim",
-    "Regeln/Gegner/Ratte.md",
-    "Sessions/Zeitstrahl.md",
-    "Sessions/Die Kampagne.md",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Lillith/Lillith.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Golem/Golem.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe B/Undeadman/Undeadman.canvas",

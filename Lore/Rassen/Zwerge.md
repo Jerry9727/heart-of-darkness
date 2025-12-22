@@ -6,3 +6,7 @@ Namen sind Nordisch und enthalten oft Wörter die Gold und Reichtum symbolisiere
 Entstammen dem Abgrund der Gier und des Stolzes, aber auch der Handwerker.
 Sie symblisieren das Handerwerk und den Stolz.
 Andere Kulturen sind die [[Gelbkappen-Zwerge]] sowie die [[Tenka-Zwerge]].
+
+
+## Schmiedekunst
+Die Zwerge waren die ersten, die Schwerte aus [[Mondstahl]] geschmiedet haben

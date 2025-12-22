@@ -1,3 +1,4 @@
 ## Beschreibung
 Moralisch vergleichbar mit unserem echten Zeitalter. Es gibt sowohl gut als auch böse, das Verhältnis ist ausgewogen. Es gibt zunehmend schwierigere Zeiten, jedoch nicht völlig ohne Hoffnung.
 Konflikte um Königreiche und Gebiete sind der häufigste Konflikt im zweiten Zeitalter.
+Im Zweiten Zeitalter gab es ein großes Königreich das den Großteil des Kontinents umfasste. Nach vielen Jahren des Krieges zerfiel es und ließ viele aufgespaltete Regionen, Warlords und selbsternannte Herrscher zurück. Sein Untergang markiert das Ende des zweiten Zeitalter und den Beginn des [[Dunkles Zeitalter|dunklen Zeitalters]].

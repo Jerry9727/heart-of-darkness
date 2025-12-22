@@ -36,7 +36,7 @@
 - Die Spieler MÜSSEN hier ein traumatisches Erlebnis machen. In der Welt von Heart of Darkness geht es darum, nachdem man etwas Schreckliches getan hat, im Angesicht der Hoffnungslosigkeit einen Weg zu finden weiter zu machen.
 - Spätestens hier geht Humanity verloren.
 - Option überlegen, falls Spieler die Kleine retten wollen.
-- Rika + Tellan bringen die Spieler zum [[König]]
+- Rika + Tellan bringen die Spieler zum [[König von Regalia|König]]
 
 - -> Session 1
 - Spieler aus Gruppe A kommen nicht zurück, König schickt noch eine Gruppe ([[Session 1 Gruppe B]])
@@ -125,6 +125,10 @@ Die Wache nickt zufrieden und geht zur nächsten Zelle.
 
 ### Die Kanalisation
 
+Verrottete Knochen erheben sich. Die augenhöhlen leer und voller Hass. "Bleibt hinter mir! Zielt auf den Kopf und die Wirbeläule!". Dann beginnen die Skelette mit den Kniefern zu klappern. Knochen schlägt an Knochen, fast als würden sie über einen ungehörten Witz lachen. Stilles Gelächter, doch statt eines lachens hört man nur das klappern der Knochen. Dann, wie durch einen unsichtbaren Befehl halten sie inne. Die leeren Augenhöhlen richten wieder sich auf euch. Einer der Wiedergänger richtet sein verrostetes Schwert auf euch.
+
+// Kampf gegen Skelette
+// Würfelt auf Initiative
 
 ### Die Bestie
 
