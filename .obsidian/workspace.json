@@ -23,14 +23,54 @@
             "id": "21eb8b58fc075532",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Weltkarte_mit_Ymir.excalidraw"
+            }
+          },
+          {
+            "id": "e24e8a8329d1cb6a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Namenlose Hauptstadt.md",
+                "file": "Lore/Orte/Maagfurt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Namenlose Hauptstadt"
+              "title": "Maagfurt"
+            }
+          },
+          {
+            "id": "f9648fd6d0ff9697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Impera.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Impera"
+            }
+          },
+          {
+            "id": "fb39ba9b9e5466b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kontinent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kontinent"
             }
           },
           {
@@ -48,20 +88,6 @@
             }
           },
           {
-            "id": "6f4c57ac4cd151b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Organisationen/Jägerorden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jägerorden"
-            }
-          },
-          {
             "id": "c91c152e0d765cab",
             "type": "leaf",
             "state": {
@@ -76,35 +102,21 @@
             }
           },
           {
-            "id": "5fa48049775411e4",
+            "id": "b5c7bffe59da3e32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Rassen/Zwerge.md",
+                "file": "Regeln/Waffen/Waffen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zwerge"
-            }
-          },
-          {
-            "id": "d13a5bd89292ce72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Waffen"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -290,38 +302,38 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "5f28be539c28b4db",
+  "active": "21eb8b58fc075532",
   "lastOpenFiles": [
-    "Lore/Rassen/Zwerge.md",
-    "Währung.md",
-    "README.md",
-    "Lore/Namenlose Hauptstadt.md",
-    "Lore/Organisationen/Jägerorden.md",
-    "Kanban.md",
-    "Regeln/Loot.md",
-    "Lore/Ideen/Geld.md",
-    "Lore/Kaiser.md",
-    "König.md",
-    "Sessions/Gruppe A/Session 0 Gruppe A.md",
-    "Lore/Charaktere/König von Regalia.md",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.canvas",
-    "Regeln/Spieler Stats.md",
-    "Regeln/Gegner/Demon of Hatred.md",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.md",
-    "Lore/Rassen/Menschen.md",
-    "Lore/Historie/Dunkles Zeitalter.md",
+    "Lore/Orte/Maagfurt.md",
+    "Impera.md",
+    "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md",
+    "Kontinent.md",
     "Excalidraw/Charakterbogen.md",
-    "Lore/Historie/Zweites Zeitalter.md",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim/Pilgrim.md",
+    "Lore/Kaiser.md",
+    "Währung.md",
+    "Lore/Orte/Nokria.md",
+    "Lore/Charaktere/König von Lucernis.md",
+    "Lumia.md",
+    "Lore/Orte/Lucernis.md",
+    "Lore/Organisationen/Jägerorden.md",
+    "Regeln/Waffen/Waffen.md",
+    "Verdigris.md",
+    "Abyssium.md",
+    "Lore/Rassen/Tieflinge.md",
+    "Mondstahl.md",
+    "Lore/Orte/Schwert des Ymir.md",
+    "Lore/Rassen/Zwerge.md",
+    "Lore/Götter/Ymir, Gott des Steins.md",
+    "Lore/Orte/Wilder Osten.md",
+    "Excalidraw/Weltkarte.excalidraw.md",
+    "Excalidraw/Mermaid.js Example.md",
+    "Excalidraw/Ideen zur Welt.md",
+    "Lore/Namenlose Hauptstadt.md",
+    "README.md",
+    "Regeln/Spieler/Charakterbögen/Gruppe A/Esther/Esther.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needleomancer.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim/Pilgrim.canvas",
-    "Lore/Ritual zum Traumwandeln.md",
-    "Regeln/Waffen/Waffen.md",
-    "Regeln/Fertigkeiten/Fertigkeiten.md",
-    "Lore/Psychopath.md",
-    "Lore/Historie/Zeitstrahl.md",
-    "Lore/Historie/Zeitalter der Mythen.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Veyra/Veyra.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Mage and Tome/Mage und Tome Charakterbogen.canvas",
     "Regeln/Waffen",

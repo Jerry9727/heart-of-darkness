@@ -1,0 +1,2 @@
+Toten Titanen als Basis zur Weltkarte nehmen. Laut den Zwergen hat [[Ymir, Gott des Steins]] sich geopfert, um aus seinem Körper die Welt zu erschaffen. Orte können heißen wie "Der Nacken", "der lange Arm", "der Schlund." An einem Gebirge könnten gigantische Rippen aus dem Boden ragen. (Oder tief im Meer. Was wäre das gruseligste Unterwasser? Eine Hand? Der Schädel?)
+Das Herz könnte dann die Verbindung zum Abgrund sein, wo [[Die Mutter]] sich aufhält

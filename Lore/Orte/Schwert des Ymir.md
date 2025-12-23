@@ -1,0 +1,3 @@
+## Beschreibung
+Hier lies der Titan [[Ymir, Gott des Steins]] angeblich sein Schwert fallen, nachdem er sich das Leben nahm um die Welt zu erschaffen.
+Hier befindet sich eine uralte Mine in der Zwerge die Überreste des Schwerts abgebaut haben um daraus ihre [[Konstrukte]] sowie Waffen und Rüstungen zu schmieden. Das Metall heißt "[[Verdigris]]".

@@ -1,0 +1,2 @@
+## Beschreibung
+Östlicher Kontinent, der allerlei Tierwesen beherbergt. Nicht erforscht und generell als Ort der Mysterien angesehen. In letzter Zeit fliehen immer mehr Wesen vom Kontinent, aber der Grund dafür bleibt ein Rätsel.

@@ -1,4 +1,4 @@
-Sir Tellan ist der Hauptmann der Wache im Gefängnis von [[Regalia]].
+Sir Tellan ist der Hauptmann der Wache im Gefängnis von [[Nokria]].
 
 Tellan begegnet Straßenkindern die ihn als Hauptmann der Wache erkennen
 Er weigert sich ihnen Geld zu geben

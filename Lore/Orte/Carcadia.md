@@ -1,2 +1,0 @@
-## Beschreibung
-Name des Menschenkönigreichs

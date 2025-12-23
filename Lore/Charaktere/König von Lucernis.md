@@ -1,0 +1,1 @@
+Herrscher des Königreichs [[Lucernis]]. Hauptstadt und Sitz des Throns in [[Nokria]].

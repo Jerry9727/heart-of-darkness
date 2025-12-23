@@ -5,7 +5,7 @@ Die Währung unterscheidet sich je nach Königreich und Herrschender Rasse
 - Kronen
 - xxx
 
-## [[Feindliches Königreich]]
+## [[Impera]]
 - Mark
 - Pfennig
 
@@ -17,13 +17,15 @@ Mark sind deutlich mehr wert als Kronen.
 - Silber
 
 ## [[Elfen]]
-- ???
+- Lunari
+- Tauschhandel
 
 ## [[Drachengeborene]]
 - Tauschhandel
 
 ## [[Tieflinge]]
 - Alle, meist die des Landes in dem sie leben.
+- Früher Onyx
 
 ## [[Echsenmenschen]]
 - ???

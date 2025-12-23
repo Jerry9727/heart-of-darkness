@@ -1,0 +1,3 @@
+## Beschreibung
+Stadt der Menschen weiter im Norden. Die Universität gilt als beste des [[Kontinent]], reiche Familien schicken ihre Kinder hier hin zum Studieren. Der einzige Ort in [[Impera]] an dem es erlaubt ist magische Theorie zu unterrichten. Praxis erlernen nur die Auserwählten vom [[Orden der Magier]] oder die, die es sich selbst beibringen [[Schwarzer Magier|schwarze Magier]].
+Hier gibt es auch die größte [[Bibliothek von Maagfurt]] des Menschenkönigreichs.

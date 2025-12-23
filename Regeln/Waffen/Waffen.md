@@ -9,3 +9,11 @@ Waffen und ihre Stats.
 | Axt (Einhand) | Stärke: 14         | 1D6+4   |               |             |                  |        |      |
 | Zweihandaxt   |                    |         |               |             |                  |        |      |
 | Schild        |                    |         |               |             |                  |        |      |
+
+## Besondere Materialien
+
+| Material      | Herkunft               |
+| ------------- | ---------------------- |
+| [[Verdigris]] | [[Zwerge]]             |
+| [[Mondstahl]] | [[Elfen]]              |
+| [[Abyssium]]  | [[Tieflinge]] (selten) |

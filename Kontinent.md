@@ -1,0 +1,1 @@
+Der Name des Kontinents auf dem die Kampagne beginnt

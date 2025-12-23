@@ -1,2 +1,2 @@
 ## Beschreibung
-Kaiser des [[Feindliches Königreich|verfeindeten Königreichs]] "".
+Kaiser des [[Impera|verfeindeten Königreichs]] "".

@@ -9,4 +9,4 @@ Andere Kulturen sind die [[Gelbkappen-Zwerge]] sowie die [[Tenka-Zwerge]].
 
 
 ## Schmiedekunst
-Die Zwerge waren die ersten, die Schwerte aus [[Mondstahl]] geschmiedet haben
+Die Zwerge waren die ersten, die [[Konstrukte]], Waffen und Rüstungen aus [[Verdigris]] geschmiedet haben. Ein Metall, dass früher am [[Schwert des Ymir]] abgebaut wurde.
