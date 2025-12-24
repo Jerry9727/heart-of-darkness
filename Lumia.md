@@ -1,1 +1,1 @@
-Name der Menschenstadt [[Nokria]], bevor die Elfen sie bei ihrem Fall umbennant haben.
+Name der Menschenstadt [[Hohenburg]], bevor die [[Menschen]] sie bei ihrer Eroberung umbenannt haben.

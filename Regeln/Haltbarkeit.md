@@ -4,22 +4,23 @@ Der Zustand eines Gegenstands von 0 bis 100. Bei 0 gilt der Gegenstand als zerst
 ## Haltbarkeitsboni
 Eine Rüstung verliert je nach Güte an Rüstwert.
 
-| Haltbarkeit | Bonus                          |
-| ----------- | ------------------------------ |
-| >= 100      | +2 Rüstung, + 1 Magieresistenz |
-| >= 50       | +1 Rüstung                     |
-| < 50        | kein Bonus                     |
+| Haltbarkeit | Bonus                             |
+| ----------- | --------------------------------- |
+| >= 75       | Keine Abzüge                      |
+| < 75        | -15% Rüstung                      |
+| < 50        | -30% Rüstung, -15% Magieresistenz |
+| < 25        | -50% Rüstung, -30% Magieresistenz |
 
 
 ## Schärfe/Güteboni
 Eine Waffe verliert mit abnehmender Schärfe/Güte an Schaden.
 
-| Schärfe/Güte | Bonus      |
-| ------------ | ---------- |
-| >= 100       | +3 Schaden |
-| >= 75        | +2 Schaden |
-| >= 50        | +1 Schaden |
-| < 50         | kein Bonus |
+| Schärfe/Güte | Bonus        |
+| ------------ | ------------ |
+| >= 75        | Keine Abzüge |
+| < 75         | -20% Schaden |
+| < 50         | -30% Schaden |
+| < 25         | -40% Schaden |
 
 
 ## [[Schmiedekunst]]

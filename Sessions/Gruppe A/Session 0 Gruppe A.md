@@ -2,7 +2,7 @@
 - Intro: Dreaming Angel (Rest Info vermittelt Tellan.)
 - Spieler: Rika, Jun, Dominik, Riesi, Marc
 - Tellan geht durch Bettlerviertel zum Gefängnis. Schichtwechsel
-- Pilgrim, Fleischo und Book and Tome starten in Zelle in [[Nokria]] (außer Rikas Nonne und Veyra)
+- Pilgrim, Fleischo und Book and Tome starten in Zelle in [[Hohenburg]] (außer Rikas Nonne und Veyra)
 - Beschreibung der Zellen
 - Die Bestie stürmt herein und zerreißt alle smit ihren messerscharfen Klauen.
 - Gefängnis wird verwüstet, Türen/Gitter werden zerstört.
@@ -36,7 +36,7 @@
 - Die Spieler MÜSSEN hier ein traumatisches Erlebnis machen. In der Welt von Heart of Darkness geht es darum, nachdem man etwas Schreckliches getan hat, im Angesicht der Hoffnungslosigkeit einen Weg zu finden weiter zu machen.
 - Spätestens hier geht Humanity verloren.
 - Option überlegen, falls Spieler die Kleine retten wollen.
-- Rika + Tellan bringen die Spieler zum [[König von Lucernis|König]]
+- Rika + Tellan bringen die Spieler zum [[König von Hohenburg|König]]
 
 - -> Session 1
 - Spieler aus Gruppe A kommen nicht zurück, König schickt noch eine Gruppe ([[Session 1 Gruppe B]])

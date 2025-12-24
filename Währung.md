@@ -5,7 +5,7 @@ Die Währung unterscheidet sich je nach Königreich und Herrschender Rasse
 - Kronen
 - xxx
 
-## [[Impera]]
+## [[Lucernis]]
 - Mark
 - Pfennig
 

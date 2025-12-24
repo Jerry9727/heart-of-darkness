@@ -1,0 +1,1 @@
+Ein abgelegener Teil des [[Weideland|Weidelands]], in dem ausschließlich [[Schwarzes Gras|schwarzes Gras]] wächst. Das Gras breitet sich immer weiter aus. Angeblich soll es aus dem [[Wilder Osten|wilden Osten]] stammen, wo es ganze Länder gibt die davon eingenommen wurden.

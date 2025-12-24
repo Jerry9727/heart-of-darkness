@@ -1,0 +1,2 @@
+## Beschreibung
+Hobbits oder Halblinge waren eine äußerst friedfertige Spezies. Sie gelten im dunklen Zeitalter als ausgestorben. So mancher Reisender der doch einen Hobbit gesehen haben will wurde schon aus der Schanke geworfen, er solle "doch bitte den Unterschied zwischen einem Goblin und einem Hobbit aus der Nähe betrachten."

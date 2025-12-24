@@ -89,7 +89,7 @@ Und damit herzlich Willkommen zur ersten Session von Heart of Darkness!
 \*music plays
 
 ## Die Gefangenen
-Es war ein eisiger erster Wintertag in der Hauptstadt. Der Himmel über der Stadt [[Nokria]] war bewölkt und ungewöhnlich dunkel. Die Fenster und Dächer waren von Frost bedeckt und vereinzelte Schneeflocken tanzten durch die Luft. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Doch scheinbar hatte er sich getäuscht.
+Es war ein eisiger erster Wintertag in der Hauptstadt. Der Himmel über der Stadt [[Hohenburg]] war bewölkt und ungewöhnlich dunkel. Die Fenster und Dächer waren von Frost bedeckt und vereinzelte Schneeflocken tanzten durch die Luft. Das war [[Tellan]] nur recht, denn so würden wenigstens die Bettler drinnen bleiben. Doch scheinbar hatte er sich getäuscht.
 
 ### IDEE:
 Anstatt die Geschichte durch Tellan zu erzählen, werden die Spieler selbst Zeugen. Das Gefängnis ist auf der anderen Seite der Stadt und Tellan führt sie auf dem Weg zur Burg durch das Bettlerviertel.
