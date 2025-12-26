@@ -1,4 +1,3 @@
-Früherer Name: [[Lumia]]
 Wappentier: Greif
 Farben: Silber auf Blau
 
@@ -7,4 +6,4 @@ Die Hauptstadt des Königreichs [[Athanor]]. Hier startet die Kampagne.
 Wird vom [[König von Hohenburg]] regiert.
 Starke politische Macht ist außerdem die [[Kirche des Goldenen]].
 
-Bevor die Menschen kamen und den [[großen Krieg]] starteten noch Elfengebiet. Beim Fall von den Menschen in Hohenburg umbenannt. Der Name hat sich gehalten.
+Hauptstadt der Menschen. Hat Aufgrund jahrelanger Umkämpfheit und Kriege immer wieder neue Namen erhalten. Aktuell heißt sie offiziell "", aber "namenlose Hauptstadt" hat sich im Volksmund gehalten. Fokus liegt sehr auf Rechtschaffenheit. Hier wird der Einfluss der [[Kirche des Goldenen]] spürbar. Sind stolz und wollen sich nicht vom [[Lucernis]] schlucken lassen, sondern sich ihre alten Grenzen zurückholen.

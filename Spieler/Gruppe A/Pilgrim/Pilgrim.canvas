@@ -3,7 +3,7 @@
 		{"id":"253adf0dac5ed7b4","type":"text","text":"# Pilgrim","x":-80,"y":-100,"width":520,"height":60},
 		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
 		{"id":"7be95558cfaebeb1","type":"text","text":"#### Axtwurf\nDu wirfst deine Einhandaxt auf einen Gegner und verursachst 1 D8 Schaden. Du musst deine Axt wieder aufheben. (Bonusaktion)\nBis dahin wechselt dein Kampfstil entweder zu Schildkampf oder unbewaffnetem Kampf.","x":-80,"y":60,"width":520,"height":180},
-		{"id":"7abeabc73afbe6e5","type":"file","file":"Regeln/Spieler/Charakterbögen/Gruppe A/Pilgrim/Pilgrim.md","x":-460,"y":455,"width":340,"height":465},
+		{"id":"7abeabc73afbe6e5","type":"file","file":"Spieler/Gruppe A/Pilgrim/Pilgrim.md","x":-460,"y":455,"width":340,"height":465},
 		{"id":"3456036601919fa6","type":"text","text":"#### Waffenwechsel\nDu bist ein erfahrener Krieger aus den nördlichen Reichen und kannst im Kampf zwischen verschiedenen Kampfstilen wechseln.\nDu kannst wählen zwischen der Einhandaxt, Axt und Schild, nur Schild, einer Zweihand-Großaxt oder unbewaffneten Kampf. \nDies kostet dich eine Aktion.","x":-80,"y":240,"width":520,"height":200},
 		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":480,"width":520,"height":60},
 		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":830,"width":520,"height":60},

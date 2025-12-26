@@ -1,9 +1,9 @@
 ## Beschreibung
 Die Währung unterscheidet sich je nach Königreich und Herrschender Rasse
 
-## [[Namenlose Hauptstadt]]
-- Kronen
-- xxx
+## [[Athanor]]
+- Goldene Kronen
+- Silberkronen
 
 ## [[Lucernis]]
 - Mark

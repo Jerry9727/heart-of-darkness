@@ -7,7 +7,7 @@
 		{"id":"0ae9c9e0bee7bd9f","type":"text","text":"### Stufe 4","x":-80,"y":1200,"width":520,"height":60},
 		{"id":"dbc20cd972565751","type":"text","text":"### Stufe 5","x":-80,"y":1300,"width":520,"height":60},
 		{"id":"6ced60ae59181784","type":"text","text":"# Gimmick\nPerformer. Du beschwörst übernatürliche Anhänger, die deine Angriffe verstärken und den Wirkungsradius erhöhen.","x":480,"y":-90,"width":429,"height":241},
-		{"id":"b3822888c6c645ff","x":-520,"y":480,"width":400,"height":520,"type":"file","file":"Regeln/Spieler/Charakterbögen/Gruppe A/Veyra/Veyra.md"}
+		{"id":"b3822888c6c645ff","x":-520,"y":480,"width":400,"height":520,"type":"file","file":"Spieler/Gruppe A/Veyra/Veyra.md"}
 	],
 	"edges":[]
 }
