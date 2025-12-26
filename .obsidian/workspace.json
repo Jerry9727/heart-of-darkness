@@ -22,31 +22,64 @@
             }
           },
           {
-            "id": "98b0cec6e16c616f",
+            "id": "92247533427f9a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erwachen (Spieler).md",
+                "file": "Sessions/Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erwachen (Spieler)"
+              "title": "Setup"
             }
           },
           {
-            "id": "61925cf640ddf264",
+            "id": "98b0cec6e16c616f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Spieler/Gruppe A/Esther/Esther.canvas",
+                "viewState": {
+                  "x": 61.17019775653063,
+                  "y": 253.6895334507357,
+                  "zoom": 0.061508864472636565
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Esther"
+            }
+          },
+          {
+            "id": "66a1aacc5aafee25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regeln/Fertigkeiten/Fertigkeiten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fertigkeiten"
+            }
+          },
+          {
+            "id": "cf2e15bf21b414e9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Charakterbogen PDF/Charakterbogen.png"
+              },
+              "icon": "lucide-image",
+              "title": "Charakterbogen"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,12 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Regeln/Fertigkeiten/Fertigkeiten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Fertigkeiten"
             }
           },
           {
@@ -231,16 +265,18 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "5f28be539c28b4db",
+  "active": "66a1aacc5aafee25",
   "lastOpenFiles": [
-    "Erwachen (Spieler).md",
+    "Charakterbogen PDF/Charakterbogen.png",
+    "Regeln/Fertigkeiten/Fertigkeiten.md",
+    "Sessions/Setup.md",
     "Sessions/Gruppe A/Session 0 Gruppe A.md",
+    "Spieler/Gruppe A/Esther/Esther.canvas",
+    "Erwachen (Spieler).md",
     "Spieler/Basiszauber.md",
     "Spieler/Basisaktionen.md",
     "Spieler/Aufteilung.md",
-    "Sessions/Setup.md",
     "Vraendal.md",
-    "Charakterbogen PDF/Charakterbogen.png",
     "Lore/Charaktere/Der Rebell.md",
     "Spieler/Arkana.md",
     "Spieler/Gruppe B/Eisenkralle/Eisenkralle.md",
@@ -261,9 +297,6 @@
     "Excalidraw/Charakterbogen.md",
     "Währung.md",
     "Lore/Orte/Hohenburg.md",
-    "Lucernis.md",
-    "Nokria.md",
-    "Spieler/Gruppe A/Esther/Esther.canvas",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.canvas",
     "Spieler/Gruppe A/Needlomancer/Needleomancer.canvas",
     "Spieler/Gruppe A/Pilgrim/Pilgrim.canvas",

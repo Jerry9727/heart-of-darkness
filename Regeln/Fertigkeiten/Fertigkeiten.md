@@ -116,3 +116,35 @@ Fertigkeiten die gelevelt werden können. Jeder Spieler startet mit einer fixen 
 |              | Taschendiebstahl            | WIS/WIS/DEX               |           |
 |              | Schleichen                  | WIS/DEX/CON               |           |
 |              | Schlösserknacken            | WIS/DEX/DEX               |           |
+
+## Finale Tabelle
+
+| **Kategorie** | **Talent**            | **Attribute**   |
+| ------------- | --------------------- | --------------- |
+| KÖRPER        | Athletik              | GES / KON / STÄ |
+|               | Zechen                | KON/KON/INS     |
+| GESELLSCHAFT  | Betören               | INS / CHA / CHA |
+|               | Einschüchtern         | INS / STÄ / CHA |
+|               | Überreden             | VER / INS / CHA |
+|               | Menschenkenntnis      | CHA/CHA/INS     |
+| NATUR         | Fährtensuchen         | INS / GES / KON |
+|               | Pflanzenkunde         | VER / GES / KON |
+|               | Tierkunde             | INS / INS / CHA |
+| WISSEN        | Geschichte & Sagen    | VER / VER / CHA |
+|               | Götter & Kulte        | VER / INS / CHA |
+|               | Magiekunde            | VER / VER / INS |
+| HANDWERK      | Alchemie & Tränke     | VER / VER / GES |
+|               | Handel                | VER / INS / CHA |
+|               | Heilkunde             | VER / GES / KON |
+|               | Rüstungsschmiedekunst | GES / KON / STÄ |
+|               | Waffenschmiedekunst   | GES / KON / STÄ |
+| HEIMLICHKEIT  | Wahrnehmung           | VER / INS / INS |
+|               | Taschendiebstahl      | INS / GES / GES |
+|               | Schleichen            | INS / GES / KON |
+|               | Schlösserknacken      | VER / GES / GES |
+
+Ideen:
+Willenskraft/Selbstbeherrschung (Menschlichkeit)
+Traumkunde
+Gassenwissen
+Okkultismus & Rituale( irgendwie das gleiche wie götter und kulte)

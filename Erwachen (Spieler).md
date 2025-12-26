@@ -1,0 +1,6 @@
+Sinkt die Menschlichkeit eines Spielers auf 0, erwacht er. Dies kann passieren durch ründlichen Verlust bei 0 Leben, oder durch normalen Menschlichkeitsverlust. In diesem Zustand greift der erwachte Spieler sofort alle anderen Spieler und potentiell NPC's an. Er muss innerhalb des Kampfes besiegt werden. Anschließend müssen die Spieler durch ein kurzes Traumwandelritual zu ihm sprechen und versuchen zu ihm durchzudringen. Charisma Würfe für jeden Spieler. Wenn der Spieler gut actet und Gründe gibt, sind Bonusse erlaubt. Schlagen alle Versuche fehl, schafft der Verstand des erwachten Spielers es nicht in die wache Welt zurückzukehren und verbleibt im Abgrund.
+[[Der Herr der Eulen]] taucht auf und frisst die Seele des Spielers er gilt damit als tot.
+Sollte es dazu kommen: Der betreffende Spieler darf eine letzte Aktion vollbringen, ein Todesröcheln ehe er stirbt.
+
+Idee:
+-Anstatt jedem Spieler einen Charisma-Wurf zu geben, muss eine bestimmte Augenzahl von allen Spieler insgesamt geworfen werden. Bonusse durch Charisma und gutes acting sind erlaubt.
