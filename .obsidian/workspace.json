@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regeln/Fertigkeiten/Fertigkeiten.md",
+                "file": "Charakterbogen PDF/Charakterbogen.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fertigkeiten"
+              "title": "Outline of Charakterbogen"
             }
           },
           {
@@ -265,9 +265,14 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "66a1aacc5aafee25",
+  "active": "4999bf2a40c98465",
   "lastOpenFiles": [
     "Charakterbogen PDF/Charakterbogen.png",
+    "Charakterbogen PDF/Charakterbogen.png",
+    "Charakterbogen PDF/Waffenbogen.png",
+    "Charakterbogen PDF/Ausrüstungsbogen.png",
+    "Charakterbogen PDF/Rucksack.png",
+    "Excalidraw/Charakterbogen.md",
     "Regeln/Fertigkeiten/Fertigkeiten.md",
     "Sessions/Setup.md",
     "Sessions/Gruppe A/Session 0 Gruppe A.md",
@@ -290,11 +295,8 @@
     "Spieler/Gruppe A/Needlomancer/Needlomancer.md",
     "Spieler/Gruppe A/Mage and Tome/Juns Zauberer und Buch.md",
     "Lore/Charaktere/Tellan.md",
-    "Charakterbogen PDF/Rucksack.png",
-    "Charakterbogen PDF/Ausrüstungsbogen.png",
     "Charakterbogen PDF",
     "Excalidraw/Ideen zur Weltkarte.md",
-    "Excalidraw/Charakterbogen.md",
     "Währung.md",
     "Lore/Orte/Hohenburg.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.canvas",

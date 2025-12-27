@@ -148,3 +148,6 @@ Willenskraft/Selbstbeherrschung (Menschlichkeit)
 Traumkunde
 Gassenwissen
 Okkultismus & Rituale( irgendwie das gleiche wie götter und kulte)
+
+
+Wie viele Talentpunkte und max. Ausweichpunkte in DSA?
