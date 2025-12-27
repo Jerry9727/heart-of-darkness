@@ -72,10 +72,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Charakterbogen PDF/Charakterbogen.png"
+                "file": "Charakterbogen PDF/Fertigkeitsbogen.png"
               },
               "icon": "lucide-image",
-              "title": "Charakterbogen"
+              "title": "Fertigkeitsbogen"
             }
           }
         ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charakterbogen PDF/Charakterbogen.png",
+                "file": "Charakterbogen PDF/Fertigkeitsbogen.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Charakterbogen"
+              "title": "Outline of Fertigkeitsbogen"
             }
           },
           {
@@ -267,13 +267,14 @@
   },
   "active": "4999bf2a40c98465",
   "lastOpenFiles": [
+    "Charakterbogen PDF/Fertigkeitsbogen.png",
+    "Charakterbogen PDF/Fertigkeitsbogen.png",
     "Charakterbogen PDF/Charakterbogen.png",
-    "Charakterbogen PDF/Charakterbogen.png",
+    "Regeln/Fertigkeiten/Fertigkeiten.md",
     "Charakterbogen PDF/Waffenbogen.png",
     "Charakterbogen PDF/Ausrüstungsbogen.png",
     "Charakterbogen PDF/Rucksack.png",
     "Excalidraw/Charakterbogen.md",
-    "Regeln/Fertigkeiten/Fertigkeiten.md",
     "Sessions/Setup.md",
     "Sessions/Gruppe A/Session 0 Gruppe A.md",
     "Spieler/Gruppe A/Esther/Esther.canvas",
@@ -319,8 +320,6 @@
     "Spieler/Gruppe A/Mage and Tome/Zauberer_und_Buch.jpeg",
     "Spieler/Gruppe B/Golem/Golem.jpg",
     "Spieler/Gruppe B/Eisenkralle/Eisenkralle.jpeg",
-    "Spieler/Gruppe B/Undeadman/Undeadman.jpg",
-    "Spieler/Gruppe B/Lillith/Lillith.jpeg",
     "Spieler/Gruppe B/Eisenkralle/Eisenkralle.canvas"
   ]
 }
