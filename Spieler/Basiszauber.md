@@ -2,9 +2,9 @@
 In diesem Kompendium sind sämtliche Basiszauber zu finden die im Repertoire jedes halbwegs begabten Magiers zu finden sein sollten.
 
 ### Feuerball
-Manakosten: 6 Mana
-Wirft einen Feuerball auf einen Gegner der 1 D8 Schaden verursacht.
-Chance von 30% den Gegner für 3 Runden zu [[Verbrennung|verbrennen]].
+Manakosten: 4 Mana
+Wirft einen Feuerball auf einen Gegner der 1D6+2 Schaden verursacht.
+Chance von 20% den Gegner für 3 Runden zu [[Verbrennung|verbrennen]].
 Die Verbrennung richtet 1 D4 Schaden pro Runde an.
 
 ### Eisiger Atem

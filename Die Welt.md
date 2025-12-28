@@ -9,6 +9,6 @@ Nennenswerte Orte:
 Hauptstadt: [[Maagfurt]]
 
 ### Königreich [[Athanor]]
-Hauptstadt: [[Hohenburg]]
+Hauptstadt: [[Hohenfels]]
 
 # Der wilde Osten

@@ -36,38 +36,7 @@
             }
           },
           {
-            "id": "98b0cec6e16c616f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Spieler/Gruppe A/Esther/Esther.canvas",
-                "viewState": {
-                  "x": 61.17019775653063,
-                  "y": 253.6895334507357,
-                  "zoom": 0.061508864472636565
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Esther"
-            }
-          },
-          {
-            "id": "66a1aacc5aafee25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regeln/Fertigkeiten/Fertigkeiten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fertigkeiten"
-            }
-          },
-          {
-            "id": "cf2e15bf21b414e9",
+            "id": "71949a01b8a8e8cf",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -77,9 +46,40 @@
               "icon": "lucide-image",
               "title": "Fertigkeitsbogen"
             }
+          },
+          {
+            "id": "d5580481a92ec7da",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
+                "viewState": {
+                  "x": 233.70376874757608,
+                  "y": 546.4092709324551,
+                  "zoom": -0.7110594786748495
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Xilus Edramarek"
+            }
+          },
+          {
+            "id": "855c15e1eee0ce71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Xilus Edramarek"
             }
           },
           {
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charakterbogen PDF/Fertigkeitsbogen.png",
+                "file": "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fertigkeitsbogen"
+              "title": "Outline of Xilus Edramarek"
             }
           },
           {
@@ -265,19 +265,33 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "4999bf2a40c98465",
+  "active": "5f28be539c28b4db",
   "lastOpenFiles": [
-    "Charakterbogen PDF/Fertigkeitsbogen.png",
-    "Charakterbogen PDF/Fertigkeitsbogen.png",
-    "Charakterbogen PDF/Charakterbogen.png",
-    "Regeln/Fertigkeiten/Fertigkeiten.md",
-    "Charakterbogen PDF/Waffenbogen.png",
-    "Charakterbogen PDF/Ausrüstungsbogen.png",
-    "Charakterbogen PDF/Rucksack.png",
-    "Excalidraw/Charakterbogen.md",
-    "Sessions/Setup.md",
-    "Sessions/Gruppe A/Session 0 Gruppe A.md",
+    "Spieler/Gruppe A/Veyra/Veyra.canvas",
+    "Todo.md",
+    "Spieler/Gruppe A/Pilgrim/Pilgrim.canvas",
     "Spieler/Gruppe A/Esther/Esther.canvas",
+    "Sessions/Gruppe A/Session 0 Gruppe A.md",
+    "Charakterbogen PDF/Fertigkeitsbogen.png",
+    "Sessions/Setup.md",
+    "Charakterbogen PDF/Charakterbogen.png",
+    "Spieler/Gruppe A/Esther/Esther.md",
+    "Lore/Orte/Hohenfels.md",
+    "Hohenburg.md",
+    "Lore/Charaktere/König von Hohenfels.md",
+    "Untitled.md",
+    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
+    "Level.md",
+    "Spieler/Gruppe A/Pilgrim/Pilgrim.jpg",
+    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.jpg",
+    "Regeln/Waffen/Waffen.md",
+    "Crow.md",
+    "Regeln/Runden.md",
+    "Regeln/Fertigkeiten/Fertigkeiten.md",
+    "Excalidraw/Charakterbogen.md",
+    "Charakterbogen PDF/Ausrüstungsbogen.png",
+    "Charakterbogen PDF/Waffenbogen.png",
+    "Charakterbogen PDF/Rucksack.png",
     "Erwachen (Spieler).md",
     "Spieler/Basiszauber.md",
     "Spieler/Basisaktionen.md",
@@ -289,22 +303,9 @@
     "Spieler/Gruppe B/Undeadman/Olivers Unsterblicher Soldat.md",
     "Spieler/Gruppe B/Psaro/Psaro.md",
     "Spieler/Gruppe B/Pilz/Charlottes Pilz.md",
-    "Spieler/Gruppe B/Lillith/Lillith.md",
-    "Spieler/Gruppe B/Golem/Pascals Golem.md",
-    "Spieler/Gruppe A/Veyra/Veyra.md",
-    "Spieler/Gruppe A/Pilgrim/Pilgrim.md",
-    "Spieler/Gruppe A/Needlomancer/Needlomancer.md",
-    "Spieler/Gruppe A/Mage and Tome/Juns Zauberer und Buch.md",
-    "Lore/Charaktere/Tellan.md",
     "Charakterbogen PDF",
-    "Excalidraw/Ideen zur Weltkarte.md",
-    "Währung.md",
-    "Lore/Orte/Hohenburg.md",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.canvas",
-    "Spieler/Gruppe A/Needlomancer/Needleomancer.canvas",
-    "Spieler/Gruppe A/Pilgrim/Pilgrim.canvas",
-    "Spieler/Gruppe A/Veyra/Veyra.canvas",
-    "Spieler/Gruppe A/Mage and Tome/Mage und Tome Charakterbogen.canvas",
+    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
     "Regeln/Waffen",
     "Spieler/Gruppe B/Psaro",
     "Spieler/Gruppe B/Golem",
@@ -317,9 +318,8 @@
     "Spieler/Gruppe B/Lillith/Lillith.canvas",
     "Spieler/Gruppe B/Golem/Golem.canvas",
     "Spieler/Gruppe B/Undeadman/Undeadman.canvas",
-    "Spieler/Gruppe A/Mage and Tome/Zauberer_und_Buch.jpeg",
+    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.jpeg",
     "Spieler/Gruppe B/Golem/Golem.jpg",
-    "Spieler/Gruppe B/Eisenkralle/Eisenkralle.jpeg",
     "Spieler/Gruppe B/Eisenkralle/Eisenkralle.canvas"
   ]
 }

@@ -1,1 +1,1 @@
-Name der Menschenstadt [[Hohenburg]], bevor die [[Menschen]] sie bei ihrer Eroberung umbenannt haben.
+Name der Menschenstadt [[Hohenfels]], bevor die [[Menschen]] sie bei ihrer Eroberung umbenannt haben.

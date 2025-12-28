@@ -2,7 +2,7 @@
 - Intro: Dreaming Angel (Rest Info vermittelt Tellan.)
 - Spieler: Rika, Jun, Dominik, Riesi, Marc
 - Tellan geht durch Bettlerviertel zum Gefängnis. Schichtwechsel
-- Pilgrim, Fleischo und Book and Tome starten in Zelle in [[Hohenburg]] (außer Rikas Nonne und Veyra)
+- Pilgrim, Fleischo und Book and Tome starten in Zelle in [[Hohenfels]] (außer Rikas Nonne und Veyra)
 - Beschreibung der Zellen
 - Die Bestie stürmt herein und zerreißt alle smit ihren messerscharfen Klauen.
 - Gefängnis wird verwüstet, Türen/Gitter werden zerstört.
@@ -36,7 +36,7 @@
 - Die Spieler MÜSSEN hier ein traumatisches Erlebnis machen. In der Welt von Heart of Darkness geht es darum, nachdem man etwas Schreckliches getan hat, im Angesicht der Hoffnungslosigkeit einen Weg zu finden weiter zu machen.
 - Spätestens hier geht Humanity verloren.
 - Option überlegen, falls Spieler die Kleine retten wollen.
-- Rika + Tellan bringen die Spieler zum [[König von Hohenburg|König]]
+- Rika + Tellan bringen die Spieler zum [[König von Hohenfels|König]]
 
 - -> Session 1
 - Spieler aus Gruppe A kommen nicht zurück, König schickt noch eine Gruppe ([[Session 1 Gruppe B]])
@@ -93,9 +93,9 @@ Er schaut dich aus ernsten, müden Augen an. Um die Augen bilden sich bereits er
 
 "Gefangener Nr. 97-1?" Er deutet auf DICH.
 
-// Auf [[Juns Zauberer und Buch|Jun]] zeigen
+// Auf [[Xilus Edramarek|Jun]] zeigen
 
-"Festgenommen wegen Einbruchs in die [[Hohenburg]] und versuchten Diebstahl von... Büchern? Aufstehen und Namen nennen."
+"Festgenommen wegen Einbruchs in die [[Hohenfels]] und versuchten Diebstahl von... Büchern? Aufstehen und Namen nennen."
 
 // An Jun: Du darfst dich vorstellen! Nenn deinen Namen und beschreibe dich kurz.
 
@@ -105,7 +105,7 @@ Die Wache nickt, scheinbar zufrieden mit der Antwort. "Gut nächster". Der Wachm
 
 // Dominik: Stell dich kurz vor. Nenne deinen Namen und beschreibe kurz wie du aussiehst.
 
-"Mhm hm. 97-15. Festgenommen wegen...". Seine Augen wandern über die Schriftrolle. " Kein Grund angegeben? Wie auch immer, aufstehen und Namen nennen."
+"Mhm hm. 97-15. Festgenommen wegen...". Seine Augen wandern über die Schriftrolle. "Wiederholtes ungeklärtes von Patienten? Wie auch immer, aufstehen und Namen nennen."
 
 // Marc: Nenne deinen Namen und gib eine kurze Beschreibung deines Aussehens.
 
@@ -151,14 +151,17 @@ Die Bestie brüllt markerschütternd und stürmt an euch vorbei nach draußen.
 //Schwert von toten Wachen nehmen 
 //Nach draußen gehen
 
-Als ihr durch das Loch steigt in dem einmal die Gefängnistür hing dringen Schreie zu euch. Ihr müsst zunächst blinzeln als euch die Abendsonne ins Gesicht scheint. Ihr steht am Stadtrand und Bürger rennen panisch an euch vorbei.  2 tote Wachen liegen neben euch, die Schwerter noch in den regungslosen Händen.
+Als ihr durch das Loch steigt in dem einmal die Gefängnistür hing dringen Schreie zu euch. Ihr müsst zunächst blinzeln als euch die Abendsonne ins Gesicht scheint. Ihr steht am Stadtrand und Bürger rennen panisch an euch vorbei.  3 Wachen liegen regungslos in einer sich ausbreitenden Blutlache, die Waffen noch in den regungslosen Händen.
 
+// Spieler bekommen Startwaffen: Axt und Schild, Dolch (Jun), 
 //Ort mehr beschreiben
 // Was tut ihr?
 //Npc befragen?
 
 Ihr geht in die Richtung aus der die Schreie kommen. Menschen schreien durcheinander und versuchen panisch durch ein kleines Tor zu kommen, jeder will der nächste sein. Es wird geschubst, gestoßen und geflucht. Ihr quetscht euch durch die Menschenmenge
-Ihr erreicht einen kleinen, offenen Marktplatz mit einer Bühne. Offenbar fand hier eine Vorstellung statt. Gegenüber von euch hockt die Bestie über einer kleinen Trage. Fressend. Fackeln brennen auf allen Seiten, und die Akteurin steht noch auf der Bühne. Als sie euch sieht, winkt sie euch zu sich.
+Ihr erreicht einen kleinen, offenen Marktplatz mit einer Bühne. Offenbar fand hier eine Vorstellung statt. Gegenüber von euch hockt die Bestie über einer kleinen Trage. Fressend. Fackeln brennen auf allen Seiten, und die Akteurin steht noch auf der Bühne. Als sie euch sieht, eilt sie zu euch und nimmt im vorbeigehen einer toten Stadtwache eine Waffe ab:
+
+//Kurzschwert oder Dolch?
 
 // Riesi, stell dich kurz vor!
 // Spieler gehen zu Vorstellung von Riesi.
@@ -222,6 +225,7 @@ Ihr seht in die Truhe und findet allerlei Waffen, jede hat ihren eigenen Platz. 
 Die Jägerin greift nach einem Talisman in einer Ecke der Truhe. Sie hebt ihn am Band hoch und kurz wird eine die eingravierte Eule sichtbar.
 
 //Thalea wirft die Flasche um
+// Hier was essen: Rast
 
 
 ### Kapitel 5: Die Kanalisation

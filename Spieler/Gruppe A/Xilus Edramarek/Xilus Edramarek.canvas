@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"db955731a3e7389e","type":"file","file":"Spieler/Gruppe A/Mage and Tome/Zauberer_und_Buch.jpeg","x":-460,"y":-100,"width":340,"height":510},
-		{"id":"253adf0dac5ed7b4","type":"text","text":"# Mage und Tome","x":-80,"y":-100,"width":520,"height":60},
-		{"id":"68cb84f1797cbef9","type":"file","file":"Spieler/Gruppe A/Mage and Tome/Juns Zauberer und Buch.md","x":-460,"y":440,"width":340,"height":400},
+		{"id":"db955731a3e7389e","type":"file","file":"Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.jpeg","x":-460,"y":-100,"width":340,"height":510},
+		{"id":"253adf0dac5ed7b4","type":"text","text":"# Xilus Edramarek","x":-80,"y":-100,"width":520,"height":60},
 		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
 		{"id":"7be95558cfaebeb1","type":"text","text":"#### Feuerzauber\nManakosten: x\nasd\n\n#### Blitzzauber\nManakosten: x\nasd\n\n#### Lebendes Buch (Passiv)\nDas Buch lebt und hat einen eigenen Willen. Es kann eigene Wahrnehmungchecks durchführen. Ob es seine Erkenntnisse teilen will ist ihm selbst überlassen...","x":-80,"y":60,"width":520,"height":420},
 		{"id":"830ae681f6cf309e","type":"file","file":"Spieler/Basiszauber.md","x":480,"y":-100,"width":340,"height":940},
@@ -10,7 +9,8 @@
 		{"id":"d7b373203e10a33c","type":"text","text":"#### Verbotenes Wissen\nEin mal pro langer Rast kann du das Buch nutzen um einen Zauber jenseits deiner Fähigkeiten zu wirken.\nDas Buch nutzt seine tiefe Einsicht in die Magie um einen Zauber bis zu 3 Stufen über deiner Charakterstufe zu wirken, jedoch zehrt ein solcher Zauber auch an der Lebenskraft des Wirkenden.\nDer Zauber kostet dich 1/3 deiner Leben anstatt Mana.","x":-80,"y":730,"width":520,"height":220},
 		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":520,"width":520,"height":60},
 		{"id":"91c629ac585f5415","type":"text","text":"","x":-80,"y":580,"width":520,"height":60},
-		{"id":"088917dd76680532","x":860,"y":-100,"width":560,"height":320,"type":"text","text":"# Gimmick\nDer Zauberer ist relativ schwach und kann nur einfache Zauber wirken. Das lebende Buch erlaubt es ihm auf Kosten seiner Menschlichkeit Zauber höherer Stufen zu wirken.\n\nDas Buch ermöglicht außerdem dunkle Magie. Manchmal korrumpiert es die gewirkten Zauber.\n\nDas Buch wird generell wie ein zweiter Spieler behandelt was Checks angeht."}
+		{"id":"088917dd76680532","type":"text","text":"# Klasse: Gelehrter\nDer Zauberer ist relativ schwach und kann nur einfache Zauber wirken. Das lebende Buch erlaubt es ihm auf Kosten seiner Menschlichkeit Zauber höherer Stufen zu wirken.\n\nDas Buch ermöglicht außerdem dunkle Magie. Manchmal korrumpiert es die gewirkten Zauber.\n\nDas Buch wird generell wie ein zweiter Spieler behandelt was Checks angeht.","x":-460,"y":450,"width":340,"height":670},
+		{"id":"68cb84f1797cbef9","type":"file","file":"Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.md","x":900,"y":-100,"width":880,"height":1260}
 	],
 	"edges":[]
 }

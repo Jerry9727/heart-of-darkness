@@ -1,13 +1,18 @@
 {
 	"nodes":[
-		{"id":"253adf0dac5ed7b4","type":"text","text":"# Veyra","x":-80,"y":-100,"width":520,"height":60},
+		{"id":"253adf0dac5ed7b4","type":"text","text":"# Veyra","x":-80,"y":-100,"width":1100,"height":60},
 		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
-		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":480,"width":520,"height":60},
-		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":830,"width":520,"height":60},
-		{"id":"0ae9c9e0bee7bd9f","type":"text","text":"### Stufe 4","x":-80,"y":1200,"width":520,"height":60},
-		{"id":"dbc20cd972565751","type":"text","text":"### Stufe 5","x":-80,"y":1300,"width":520,"height":60},
-		{"id":"6ced60ae59181784","type":"text","text":"# Gimmick\nPerformer. Du beschwörst übernatürliche Anhänger, die deine Angriffe verstärken und den Wirkungsradius erhöhen.","x":480,"y":-90,"width":429,"height":241},
-		{"id":"b3822888c6c645ff","x":-520,"y":480,"width":400,"height":520,"type":"file","file":"Spieler/Gruppe A/Veyra/Veyra.md"}
+		{"id":"b3822888c6c645ff","type":"file","file":"Spieler/Gruppe A/Veyra/Veyra.md","x":1120,"y":-80,"width":860,"height":1210},
+		{"id":"0ae9c9e0bee7bd9f","type":"text","text":"### Stufe 4","x":520,"y":1200,"width":520,"height":60},
+		{"id":"dbc20cd972565751","type":"text","text":"### Stufe 5","x":520,"y":1300,"width":520,"height":60},
+		{"id":"f152d46df16f249c","type":"text","text":"### Eldritch Blast\n3 Mana\n\nDu beschwörst lila Blitze aus den tiefen des Abgrunds und verursachst 1D6 Schaden. 1 zusätzlicher Schaden für jeden Fan den du hast\n\n\"Einen donnernden Applaus bitte!\"","x":-80,"y":60,"width":520,"height":220},
+		{"id":"19dd7b8b193aab96","type":"text","text":"### Anhänger aus der Tiefe (passiv)\nFür jeden gelungenen Zauber schließt sich dir ein weiterer Anhänger bis zum Ende des Kampfes an.\nFans!\n\nDu kannst deine Fans opfern, um 1 Mana pro Fan widerherzustellen.","x":-80,"y":280,"width":520,"height":200},
+		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":525,"width":520,"height":60},
+		{"id":"878b9d9c5d7816f8","type":"text","text":"### Die Stimmung anheizen\n6 Mana\n\nDu verziehst das Gesicht und tadelst dein Publikum. Jeder Gegner den du sehen kannst bekommt eine heiße Überraschung in Form eines Feuerballs. 1D4 Feuerschaden. Für jede 3 Fans die du hast wirfst du einen weiteren D4.\n\n\"Hier fehlt mir die brennende Leidenschaft!\"","x":-80,"y":585,"width":520,"height":260},
+		{"id":"b4c264016ffbc7a4","type":"text","text":"### Lobeshymne\n4 Mana\n\nHörst du das? Deine Fans singen eine Lobeshymne auf dich! Voller Selbstbewusstsein erhältst du einen Vorteil auf deinen nächsten Angriff! Außerdem erhältst 1D4+1 pro Anhänger temporäre Lebenspunkte!\n\n\"*WHOOOO*\" - ein wildgewordener Fan","x":-80,"y":845,"width":520,"height":240},
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":500,"y":0,"width":520,"height":60},
+		{"id":"2cb21f8d6ea062e1","type":"text","text":"### Nebelschritt\n5 Mana\n\nDu verschwindest in einer Glitter-Explosion und tauchst ganz woanders wieder auf. Du musst den Ort sehen können. Angriffe  auf dich haben in dieser Runde haben einen Nachteil.\n\n\"*Wie macht sie das nur?!*\"","x":500,"y":60,"width":520,"height":240},
+		{"id":"fb083e502ef41cd2","type":"text","text":"## Klasse: Entertainer\n*Du bist der Star dieser Show! Hörst du nicht den Jubel deiner Fans? Zeit für eine Zugabe!*\n\nDu bist eine Performerin für das Übernatürliche. Dein Schutzpatron schickt dir  übernatürliche Anhänger die nur du sehen kannst. Sie verstärken deine Magie und verleihen ihr zusätzliche Effekte.\n\nHauptattribute:\nVerstand und Charisma\n\nLebenszuwachs pro Stufe:\n6\n\nManazuwachs pro Stufe:\n6\n\nMaximale Anhänger:\nEntspricht deiner Charakterstufe","x":-500,"y":-100,"width":380,"height":525}
 	],
 	"edges":[]
 }

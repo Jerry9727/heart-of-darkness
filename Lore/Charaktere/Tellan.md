@@ -1,4 +1,4 @@
-Sir Tellan ist der Hauptmann der Wache im Gefängnis von [[Hohenburg]].
+Sir Tellan ist der Hauptmann der Wache im Gefängnis von [[Hohenfels]].
 
 Tellan begegnet Straßenkindern die ihn als Hauptmann der Wache erkennen
 Er weigert sich ihnen Geld zu geben

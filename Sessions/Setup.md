@@ -6,6 +6,25 @@ Jeder Spieler der auffällig niedrig würfelt, oder unter einer Statsumme von 72
 
 Idee:
 Nach dem Würfeln darf der Spieler entscheiden stattdessen das Standardarray zu verwenden.
+Standardarray: 15, 14, 13, 12, 10, 8
+
+## Maximale Lebenspunkte und Mana berechnen
+
+Der Grundwert ergibt sich aus dem Grundwert der Klasse x Stufe + Attribut (Konstitution und Verstand)
+
+Beispiel: Reaper bekommt 8 Lebenspunkte pro Stufe. Sie ist Level 1 und hat 12 Konstitution.
+Lebenspunkte = (8x1)+12 = 20
+Level 5 = (8x5)+12 = 52
+Level 20 = (8x20)+12 = 182
+
+Mana
+Mana = (5x1)+12 = 17
+Level 5 = (5x5)+12 = 37
+Level 20 = (5x20)+12 = 112
+
+Manaregeneration
+1 je 4 Verstand.
+Beispiel Verstand 12: 3 je Runde.
 
 ## Spieler berechnen Kampfattribute
 Mit ihren Stats berechnen die Spieler nun ihre Werte: [[Trefferchance]], [[Parieren]], [[Ausweichen]],[[Blocken]] und [[Menschlichkeit]].
@@ -16,3 +35,7 @@ Alle Ängste und Makel starten mit einem Punkt. Jeder Spieler würfelt 5D6. Das 
 Spieler dürfen mehr Ängste nehmen, wenn sie dies Charakterbedingt wollen.
 
 Idee: Punktesystem. Spieler dürfen mehr Ängste nehmen und bekommen dadurch mehr [[Menschlichkeit]].
+
+
+## Fertigkeiten
+Jeder Spieler darf 45 Fertigkeitspunkte verteilen. Pro Level bekommt man 2 dazu. Beim initialen erstellen darf keine Fertigkeit über 5 gelevelt werden. Das normale Limit sind 10 Ausweichpunkte.
