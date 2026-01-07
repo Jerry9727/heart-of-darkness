@@ -1,0 +1,1 @@
+Auch die Gläsernen oder gläserne Lords genannt. Im hohen Norden erzählt man sich an warmen Kaminfeuern Geschichten über die Kalten. Wie sie die Träume der Menschen heimsuchen. Sie im Traum zu sehen wird als Omen gedeutet, dass man eines Tages erfrieren wird. Nur bleiben ihre Opfer selten lange tot. Ihre Körper sollen vollständig aus Eis bestehen. 

@@ -1,0 +1,1 @@
+Ein magischer Golem, mit der Eigenschaft den ersten Zauber der ihn trifft zu absorpieren und ihn dann endlos zu kopieren und auf die Spieler zurückzuwerfen. Kann sehr lustig sein, kann sehr dumm sein oder komplett OP.

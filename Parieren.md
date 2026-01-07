@@ -1,1 +1,0 @@
-Besteht der Spieler, weicht er dem Angriff aus und darf einen [[Konter]] ausführen.

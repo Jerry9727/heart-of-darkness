@@ -49,7 +49,7 @@ Auf dem Weg die Welt zu retten müssen die Spieler unmögliche Entscheidungen tr
 - An irgendeinem Punkt im Zweiten Teil der Kampagne besuchen die Spieler den Pantheon und kommunizieren mit den Göttern.
 
 ## Gegner für Kamapagnen
-- False Hydra
+- False Hydra - Ist am Ende doch kein Erwachter, sondern ein Lebewesen das natürlich vorzukommen scheint.
 - Lich
 - Parasit der ein ganzes Dorf übernimmt (Hexenjagd auf die Infizierten)
 - Traumdämon der die Menschen geißelt

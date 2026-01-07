@@ -1,0 +1,1 @@
+Jägerin des [[Jägerorden|Jägerordens]]. [[Vraendal]] unterstellt.

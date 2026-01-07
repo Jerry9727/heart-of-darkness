@@ -62,7 +62,7 @@ Doch welche Hybris wäre es, davon auszugehen, wir seien die höchste Ebene des 
 
 // Mic Drop
 
-### Kapitel 1: Träume und Schatten
+### Kapitel 1: Wind und Schatten
 
 Dunkelheit. Ein angenehm kühler Wind weht über deine Haut. Du spürst wie etwas deine Beine streift, doch es ist friedlich. Du blinzelst ein paar mal. Langsam gewöhnen sich deine Augen an die Schwärze. Und du erkennst... Gras. Schwarze Grashalme wehen mit einem leisen rascheln im Wind. Ein Feld, scheinbar endlos, bis zum Horizont erstreckt sich vor dir. Ein blasses rotes Leuchten am Himmel lässt die Umrisse von Wolken erkennen.
 
@@ -88,7 +88,7 @@ Du schlägst die Augen auf.
 "Na, endlich aufgewacht?". 
 Du blinzelst. Deine Handgelenke schmerzen von den schweren Eisenketten und es in kalt in deiner Zelle. Kein Wunder, denn du trägst nur ein löchriges Leinenhemd. Gerade hast du noch etwas geträumt, doch die Erinnerung verschwimmt vor deinem inneren Auge.
 
-Eine [[Tellan|Wachmann]] in einer abgetragenen Rüstung steht vor dir und klopft mit dem Griff ihres Schwerts an die rostigen Gitterstäbe zwischen euch. Etwas Staub rieselt von der Decke. Sie schaut dich ernst aus müden Augen an. Die Wache scheint neu zu sein, du kannst dich zumindest nicht an sie erinnern.
+Eine [[Tellan|Wachmann]] in einer abgetragenen Rüstung steht vor dir und klopft mit dem Griff sines Schwerts an die rostigen Gitterstäbe zwischen euch. Etwas Staub rieselt von der Decke. Sie schaut dich ernst aus müden Augen an. Die Wache scheint neu zu sein, du kannst dich zumindest nicht an sie erinnern.
 Er schaut dich aus ernsten, müden Augen an. Um die Augen bilden sich bereits erste Fältchen und das blonde Haar hat schon die ein andere graue Strähne. Der Bart ist ordentlich auf fingerbreite getrimmt. Er trägt einen blauen Mantel und auf seiner Brust prangt ein fein eingravierter Greif. Aus einer seiner Taschen holt er eine Schriftrolle hervor:
 
 "Gefangener Nr. 97-1?" Er deutet auf DICH.
@@ -105,13 +105,14 @@ Die Wache nickt, scheinbar zufrieden mit der Antwort. "Gut nächster". Der Wachm
 
 // Dominik: Stell dich kurz vor. Nenne deinen Namen und beschreibe kurz wie du aussiehst.
 
-"Mhm hm. 97-15. Festgenommen wegen...". Seine Augen wandern über die Schriftrolle. "Wiederholtes ungeklärtes von Patienten? Wie auch immer, aufstehen und Namen nennen."
+"Mhm hm. 97-15. Festgenommen wegen...". Seine Augen wandern über die Schriftrolle. "Ungeklärtes verschwinden von Patienten. Mehrfach? Wie auch immer, aufstehen und Namen nennen."
 
 // Marc: Nenne deinen Namen und gib eine kurze Beschreibung deines Aussehens.
 
 Die Wache nickt und geht zur nächsten Zelle. 
 
-//TODO: Hier einen potentiellen späteren Charakter als Gefangenen einbauen. Möglichst wenig beschreiben.
+"Gefangener 92-21?"
+Ein schwächlicher Gefangener zittert leicht als er aufsteht.
 
 Währen die Wache ihren Rundgang fortsetzt hört ihr plötzlich dumpfes Geschrei von außen durch die Tür dringen. Eine Panik? Ein Mord? Und plötzlich ist die Hölle los.
 
@@ -126,7 +127,7 @@ Mit einem lauten Knall fliegt die Tür aus den Angeln
 
 BAMM
 Eine riesige schwarze Bestie bricht durch die Tür. Der Kopf wirkt wolfartig, doch dafür er ist zu lang. Das Maul ist riesig. Der Rest der Kreatur wirkt ebenso missgebildet und irgendwie.. falsch. Es ist wegen dem dunklen Fell schwer zu erkennen, aber es hat mindestens 6 Beine doch sie sind zu lang und an den falschen Stellen. Seine Klauen sind lächerlich riesig. Die riesige Brust hebt und senkt sich als es schwer atmend innehält. seine Zunge hängt zerfetzt aus dem blutverschmierten Maul und der Geifer tropft auf den Boden.
-Dann ertönt ein markerschütterndes Brüllen tief aus der Brust des Wesens. Sein Maul ist eine einzige Ansammlung endloser krummer, gelber Reißzähne die kreuz und quer aus dem Kiefer ragen. Geifer fliegt in alle Richtungen. Es sieht euch aus blauen Augen für einen Moment an, die fast menschlich wirken.
+Dann ertönt ein markerschütterndes Brüllen tief aus der Brust des Wesens. Sein Maul ist eine einzige Ansammlung krummer, gelber Reißzähne die kreuz und quer aus dem Kiefer ragen. Geifer fliegt in alle Richtungen. Es sieht euch aus blauen Augen für einen Moment an, die fast menschlich wirken.
 Dann stürmt es los und stürzt sich auf einen der Gefangenen als wenn da keine massiven Eisengitter zwischen ihnen währen. Seine Klauen zerfetzen das Metall wie Spielzeug.
 Der unglückliche Gefangene hat noch kurz Zeit das Gesicht vor Schreck zu verziehen, bevor die Bestie ihm mit einem Biss den Kopf abreißt. Blut spritzt aus seinem offenen Hals, als der Körper dumpf zu Boden fällt.
 Die Bestie richtet ihre kalten, blauen Augen auf euch. Für einen Moment wirkt sie fast friedlich. Sie kommt auf ihren vielen Beinen näher, das Maul glänzend vor frischem Blut. Sie schnüffelt in eure Richtung und der warme, faule Atem kommt euch entgegen.
@@ -140,11 +141,11 @@ Plötzlich kommt eine Frau, scheinbar eine Nonne aus einem Gang weiter hinten im
 
 // Rika, stell sich kurz vor!
 //Rika Info geben: sie sollte Gefangene auswählen, aber wofür ist geheim.
-//Rika soll einen Feueball auf die Bestie werfen
+// Sie startet
 // Bis dahin wütet die Bestie und tötet Gefangene und Wachen.
 
-Du beschwörst einen rot glühende Flamme in deiner Hand. Die Hitze ist spürbar. Du schleuderst ihn auf die Bestie. Das schwarze Fell wird an der Seite an der dubsie getroffen hast vom Körper gebrannt und die schwarze, narbige Haut darunter kommt zum Vorschein.
-Die Bestie brüllt markerschütternd und stürmt an euch vorbei nach draußen.
+Die Bestie richtet ihren Kopf schlagartig auf.
+Sie stößt einen markerschütternden Schrei aus und stürmt an euch vorbei nach draußen.
 
 // Was wollt ihr tun?
 //Mit Tellan reden
@@ -153,13 +154,13 @@ Die Bestie brüllt markerschütternd und stürmt an euch vorbei nach draußen.
 
 Als ihr durch das Loch steigt in dem einmal die Gefängnistür hing dringen Schreie zu euch. Ihr müsst zunächst blinzeln als euch die Abendsonne ins Gesicht scheint. Ihr steht am Stadtrand und Bürger rennen panisch an euch vorbei.  3 Wachen liegen regungslos in einer sich ausbreitenden Blutlache, die Waffen noch in den regungslosen Händen.
 
-// Spieler bekommen Startwaffen: Axt und Schild, Dolch (Jun), 
+// Spieler bekommen Startwaffen: Axt und Schild, Langschwert, Dolch (Jun), 
 //Ort mehr beschreiben
 // Was tut ihr?
 //Npc befragen?
 
 Ihr geht in die Richtung aus der die Schreie kommen. Menschen schreien durcheinander und versuchen panisch durch ein kleines Tor zu kommen, jeder will der nächste sein. Es wird geschubst, gestoßen und geflucht. Ihr quetscht euch durch die Menschenmenge
-Ihr erreicht einen kleinen, offenen Marktplatz mit einer Bühne. Offenbar fand hier eine Vorstellung statt. Gegenüber von euch hockt die Bestie über einer kleinen Trage. Fressend. Fackeln brennen auf allen Seiten, und die Akteurin steht noch auf der Bühne. Als sie euch sieht, eilt sie zu euch und nimmt im vorbeigehen einer toten Stadtwache eine Waffe ab:
+Ihr erreicht einen kleinen, offenen Marktplatz mit einer Bühne. Offenbar fand hier eine Vorstellung statt. Gegenüber von euch hockt die Bestie über einer kleinen Trage. Fressend. Fackeln brennen auf allen Seiten, und die Akteurin steht noch auf der Bühne. Als sie euch sieht, eilt sie zu euch und nimmt im vorbeigehen einer toten Stadtwache ein Kurzschwert ab.
 
 //Kurzschwert oder Dolch?
 
@@ -171,8 +172,8 @@ Ihr erreicht einen kleinen, offenen Marktplatz mit einer Bühne. Offenbar fand h
 
 Die Bestie wirft den Kopf in den Nacken und stößt einen tiefen Schrei aus. Etwas ist anders. Wilder, wütender. 
 
-// Würfelt auf Geisteswiderstand
-// Was bei fail? Goad für eine Runde?
+// Würfelt auf Willenskraft
+// Sonst 1 Angriff auf Teammate
 
 Als das animalische Brüllen über den Platz hallt, verstummt die panische Menschenmenge für einen Moment. Dann ein Schrei. "Er hat sie umgebracht! Mörder!" ruft ein Mann mittleren Alters. Er greift an seinen Gürtel und zieht ein Schnitzmesser heraus. "Dafür wird er büßen!" schreit er als er sich mit dem Messer auf den Mann neben ihm stürzt. Andere schließen sich ihm an, mit Waffen oder ohne stürzen sie sich aufeinander mir wutverzerrten Gesichtern. Und plötzlich ist die Hölle los, jeder scheint irgendjemanden umbringen zu wollen.
 Einige von ihnen drehen sich mit zu euch um. "Ihr wart das, nicht wahr? Erst stürmt hier diese Missbildung rein und direkt danach taucht ihr auf? Ihr seid hierfür verantwortlich. Ihr habt all diese Menschen getötet!"
@@ -180,9 +181,10 @@ Einige von ihnen drehen sich mit zu euch um. "Ihr wart das, nicht wahr? Erst st�
 //Würfelt auf Initiative
 // Kampf gegen die Zuschauer
 
-Ihr habt sie wahnsinnig gewordenen Zuschauer besiegt. Der letzte liegt tot am Boden. Plötzlich fällt euch die Bestie wieder ein, doch sie ist nirgends wo zu sehen.
+Ihr habt sie wahnsinnig gewordenen Zuschauer besiegt. Der letzte liegt tot am Boden. 
 
-// Auf Humanity Verlust würfeln
+Plötzlich fällt euch die Bestie wieder ein, doch sie ist nirgends wo zu sehen.
+Ihr schaut euch auf dem nun menschenleeren Platz um, doch das wolfsartige Monster ist nirgends mehr zu sehen.
 
 Ein Ritter mit blauem Umhang kommt keuchend auf euch zugerannt. Als er näherkommt erkennt ihr ihn als die Gefängniswache von vorhin.
 "Was ist hier passiert? Was habt ihr getan?" ruft er mit weit aufgerissenen Augen. Seiner Hand greift nach seinem Schwert.
@@ -193,28 +195,45 @@ Ein Ritter mit blauem Umhang kommt keuchend auf euch zugerannt. Als er näherkom
 "Bei Aurelius goldenen Eiern, und das soll ich euch glauben? Entweder erledigt ihr diese Bestie, oder ich liefere einfach euch aus. Das glaubt mir keiner." 
 "Keine Ahnung was das für ein Ding war, aber ein Wolf war das nicht. Das ist Sache des Ordens, nicht der Ritter. Und zwar auf dem kurzen Dienstweg. Geht in die Taverne [[zum schlafenden Riesen]] und fragt nach [[Vraendal]]. Er wird euch sagen können, was das für ein Ding ist.
 
+// Auf Humanity Verlust würfeln
+// Ihr bekommt 300 XP
 //TODO Spieler gehen Vraendal suchen
 
+// Beim verlassen des platzes:
+"Unsere Tochter! Unsere Tochter! Es hat unsere Tochter!" Ein panisches Ehepaar kommt auf euch zu. "Habt ihr unsere Tochter gesehen? Das Biest hat sie verschleppt!"
+
+// Für [[Session 1 Gruppe A]]: Vater war bewusstlos und hat von seiner verschleppten Tochter erzählt.
 ###### Notizen
 Hier könnten die Spieler auf einen NPC treffen, der seine Tochter vermisst. Der Erwachte hat sie mitgenommen, weil sie ihn an seine Schwester erinnert.
 
 ### Kapitel 4: Jäger und Gejagte
 
+Ihr entdeckt das Schild mit der Aufschrift "[[zum schlafenden Riesen]]". Es hängt nur noch an einer Angel. Ihr betretet die alte Taverne. Trotz des heruntergekommenen äußeren, schlägt euch eine angenehme Wärme entgegen. Es riecht nach Rauch, Bier und frischen Eintopf. Der Kamin brennt und einige Gäste sitzen an kleinen Holztischen verteilt. Ein Wirt ist nirgends zu sehen.
+
+// Was tut ihr?
+// Shady Hinterzimmer. Tür ist hinter einem beweglichen Regal
+
+Ihr seht euch um. Da sitzt ein alter Mann der langsam seinen Eintopf löffelt am Feuer. An der Wand sitzen 2 Stadtwachen beim Kartenspielen. In einer Ecke sieht man nur ein paar Füße in Lederstiefeln über einen Tisch ragen, gefährlich nah an einem Bierkrug.
+
+Ihr nähert euch. Die [[Lore/Thalea|Gestalt]] trägt einen langen schwarzen Ledermantel voller Gürtel und Taschen. Die Gestalt sieht auf und ihr erkennt das Gesicht einer Frau mit blonden Haar. Sie wirkt recht jung, doch Sorgenfalten und Augenringe haben deutliche Spuren in ihrem Gesicht hinterlassen.
+
 "Vraendal? Was wollt ihr von dem alten Spitzohr?"
 //Spieler antworten
 "Interessant. Vraendal ist nicht im Ordensanwesen, er ist auf der Jagd. Muss ich wohl herhalten"
-Sie stellt die Flasche erst ab, entscheidet sich dann aber doch dafür sie mitzunehmen.
+Sie nimmt einen tiefen Schluck aus Ihrem Krug erst ab, entscheidet sich dann aber doch dafür sie mitzunehmen.
 "Kommt, wir reden wo es sicher ist."
 Sie steht auf und geht zielstrebig Richtung Treppe. Ihren Stiefel klingen schwer auf den Holzdielen. Sie führt euch zu einem Gästezimmer, jedoch ohne Bett. Sie schnappt sich den einzigen Stuhl im Raum und setzt sich breiteinig.
 "Schließt die Tür" sie legt den Kopf auf die Lehne.
 "Was genau habt ihr gesehen? Beschreibt mir alles haargenau." Sie wirkt auf einmal sehr angespannt.
 
+
+// Thaleah kennt Tellan nicht
 //Spieler erzählen 
 
 "Scheiße".
 "Das war kein dahergelaufenenes Monster von irgendeinem Friedhof. Was ihr gesehen habt nennt man einen 'Erwachten'. Hatte es eine bestimmte Augenfarbe? Braun? Blau? Haben die Augen für euch irgendwie menschlich ausgehen? Das liegt daran, dass sie es sind. In letzter Zeit kommt es vor das Leute einfach durchdrehen. Stress, Angst, Hass, so stark, dass der Betroffene wahnsinnig wird. Er verliert die Kontrolle und wird zum Monster. Das ist ein Problem. Wir müssen ihn erledigen und ich meine 'wir'. Erwachte kann man nicht alleine jagen und ich habe jetzt keine Zeit erst im Orden eine Jagdgesellschaft zusammen zu trommeln, dann verlieren wir die Spur. Nein wir müssen ihn jetzt töten und dafür brauche ich euch. Aber erstmal braucht ihr ein paar ordentliche Waffen."
 
-Sie trinkt einen Schluck aus ihrer Flasche bevor sie sie auf den Boden stellt. Die Jägerin steht auf und geht zu einer schweren Truhe mit Vorhängeschloss. Sie holt einen Schlüssel aus ihrem Mantel und mit einem "klick" öffnet sich das Schloss. In der Truhe befindet sich lediglich Bettzeug und Nachttopf. Sie schiebt das Bettzeug zur Seite und holt einen weiteren Schlüssel aus den tiefen ihres Mantels. "Doppelter Boden".
+Sie trinkt einen Schluck aus ihrem Krug, bevor sie ihn auf den Boden stellt. Die Jägerin steht auf und geht zu einer schweren Truhe mit Vorhängeschloss. Sie holt einen Schlüssel aus ihrem Mantel und mit einem "klick" öffnet sich das Schloss. In der Truhe befindet sich lediglich Bettzeug und Nachttopf. Sie schiebt das Bettzeug zur Seite und holt einen weiteren Schlüssel aus den tiefen ihres Mantels.
 Nach einem weiteren Klick hebt sie den Boden der Truhe samt Inhalt heraus und stellt ihn zu Seite.
 "Freie Auswahl" verkündet sie.
 
@@ -222,18 +241,50 @@ Nach einem weiteren Klick hebt sie den Boden der Truhe samt Inhalt heraus und st
 
 Ihr seht in die Truhe und findet allerlei Waffen, jede hat ihren eigenen Platz. Es gibt Schwerter, Dolche, Äxte und sogar einen Speer. Neben all den Waffen finden sich auch allerlei Kuriositäten in der Truhe. Diverse Kräuter, Fläschchen mit seltsam wabernden Flüssigkeiten und sogar ein paar Augen in einem Glas finden sich darin.
 
+// zweite Axt für Pilgrim?
+
 Die Jägerin greift nach einem Talisman in einer Ecke der Truhe. Sie hebt ihn am Band hoch und kurz wird eine die eingravierte Eule sichtbar.
 
-//Thalea wirft die Flasche um
-// Hier was essen: Rast
+"Alle ausgerüstet? Sehr gut." Thalea geht einen Schritt zurück und wirft dabei ihren Bierkrug um.
+"Ihr seht aus wie halb verhungert. Wenn ihr jagen wollt, brauche ich euch bei voller Stärke. Lasst uns runtergehen und etwas essen. Das Bier ist gestreckt, aber der Eintopf ist gut."
 
+Ihr folgt der Jägerin die Treppe hinunter und in den warmen Schankraum. Ihr setzt euch um einen runden Eichentisch. Ein Mann mittleren Alters mit stolzen Bierbauch und wachen Augen begrüßt euch:
+"Willkomm' in meim' b'scheidenen Gasthaus. Wat kann ich euch bringen?"
 
+// Hier was essen: Rast: Spieler heilen voll.
+
+# ENDE SESSION 0
 ### Kapitel 5: Die Kanalisation
+Wirt: "Das macht dann 7 Goldkronen."
+Thalea: "Schreibs auf meinen Deckel."
+Der Wirt nickt. "Sieh nur zu dass du lebendig zurückkommst."
 
-Verrottete Knochen erheben sich. Die augenhöhlen leer und voller Hass. "Bleibt hinter mir! Zielt auf den Kopf und die Wirbeläule!". Dann beginnen die Skelette mit den Kniefern zu klappern. Knochen schlägt an Knochen, fast als würden sie über einen ungehörten Witz lachen. Stilles Gelächter, doch statt eines lachens hört man nur das klappern der Knochen. Dann, wie durch einen unsichtbaren Befehl halten sie inne. Die leeren Augenhöhlen richten wieder sich auf euch. Einer der Wiedergänger richtet sein verrostetes Schwert auf euch.
+Ihr verlasst die Taverne mit angenehm vollem Magen. Das erste mal seit langem.
+"Wo habt ihr das Biest das letzte mal gesehen?"
+
+// Was wollt ihr tun?
+// Spieler suchen Bestie
+// Optionen: Fährtenlesen, Magiegespür, rumfragen
+
+Ihr steht vor einem eisernen Tor mit verschnörkelten Verzierungen. Der obere Teil des Tors ist verbogen. Schwarze Fellfetzen und einige Bluttropfen kleben an den Zacken. Ein fauliger Geruch weht euch entgegen.
+
+// Ihr habt die Spur der Bestie gefunden. Ihr bekommt 200 EXP.
+
+Ein schrilles quietschen ertönt als ihr das schwere Tor aufschiebt. Die Gitterstäbe fühlen sich kalt an den Händen an. Ihr betretet die Kanalisation.  Glitschige schwarze Ziegel zieren die Wände. Fauliges Wasser steht knöcheltief am Boden.
+
+// Was tut ihr?
+
+Ihr watet durch das modrige Wasser. An den Wänden sind tiefe Klauenspuren. An einer Stelle ist eine lange Blutspur an der Wand. Der faulige Geruch wird mit jedem Schritt stärker. Als ihr es kaum noch aushalten könnt, hört ihr hinter euch ein leises platschen.
+Etwas regt sich hinter euch im Wasser.
+
+// Würfelt auf Initiative
+
+Verrottete Knochen erheben sich aus dem Brackwasser. Leere Augenhöhlen starren euch an und strahlen einen Hass aus.
+"Bleibt hinter mir! Zielt auf die Wirbeläule!" ruft Thalea. Dann beginnen die Wiedergänger mit den Kiefern zu klappern. Knochen schlägt an Knochen, fast als würden sie über einen ungehörten Witz lachen. Stilles Gelächter, doch statt eines lachens hört man nur das klappern der Knochen. Dann, wie durch einen unsichtbaren Befehl halten sie inne. Die leeren Augenhöhlen richten wieder sich auf euch. Einer der Wiedergänger richtet sein verrostetes Schwert auf euch.
 
 // Kampf gegen Skelette
-// Würfelt auf Initiative
+
+// Ihr bekommt 400 XP
 
 
 ####### Notizen
@@ -265,7 +316,3 @@ Der Herr der Eulen empfängt in sanft mit seinen Federn.
 
 
 ## Kapitel 9: Der Herr der Eulen
-
-
-
-# Zusammenfassung

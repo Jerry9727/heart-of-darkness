@@ -1,0 +1,70 @@
+{
+  "stories": [
+    {
+      "id": "mju4n3q48k2z0z",
+      "name": "Heart of Darkness",
+      "created": "2025-12-31T14:44:16.156Z",
+      "description": ""
+    }
+  ],
+  "activeStoryId": "mju4n3q48k2z0z",
+  "galleryUploadFolder": "StorytellerSuite/GalleryUploads",
+  "galleryData": {
+    "images": []
+  },
+  "groups": [],
+  "showTutorial": true,
+  "language": "en",
+  "enableCustomEntityFolders": false,
+  "storyRootFolderTemplate": "",
+  "characterFolderPath": "",
+  "locationFolderPath": "",
+  "eventFolderPath": "",
+  "itemFolderPath": "",
+  "referenceFolderPath": "",
+  "chapterFolderPath": "",
+  "sceneFolderPath": "",
+  "mapFolderPath": "",
+  "enableOneStoryMode": false,
+  "oneStoryBaseFolder": "StorytellerSuite",
+  "defaultTimelineGroupMode": "none",
+  "defaultTimelineZoomPreset": "none",
+  "defaultTimelineStack": true,
+  "defaultTimelineDensity": 50,
+  "showTimelineLegend": true,
+  "ganttShowProgressBars": true,
+  "ganttDefaultDuration": 1,
+  "ganttArrowStyle": "solid",
+  "allowRemoteImages": true,
+  "sanitizedSeedData": true,
+  "enableFrontmatterMarkers": false,
+  "enableDataViewMarkers": false,
+  "customFieldsMode": "flatten",
+  "relationshipsMigrated": true,
+  "timelineForks": [],
+  "causalityLinks": [],
+  "timelineConflicts": [],
+  "timelineEras": [],
+  "timelineTracks": [
+    {
+      "id": "track-global",
+      "name": "Global Timeline",
+      "type": "global",
+      "description": "All events across the entire story",
+      "color": "#cccccc",
+      "sortOrder": 0,
+      "visible": true
+    }
+  ],
+  "enableAdvancedTimeline": false,
+  "autoDetectConflicts": true,
+  "analyticsEnabled": false,
+  "writingSessions": [],
+  "trackWritingSessions": false,
+  "enableWorldBuilding": true,
+  "enableSensoryProfiles": true,
+  "hiddenDashboardTabs": [],
+  "templateStorageFolder": "StorytellerSuite/Templates",
+  "showBuiltInTemplates": true,
+  "showCommunityTemplates": false
+}

@@ -1,1 +1,0 @@
-Hochrangiger Jäger des [[Jägerorden|Jägerordens]]. Möglicherweise sogar ihr Anführer. Er ist ein Elf.

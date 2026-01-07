@@ -1,0 +1,2 @@
+Versteckte Taverne in [[Hohenfels]]. Sub-Standort des [[Jägerorden|Jägerordens]].
+Der Eingang liegt in einer Nebengasse mit einem Eingangsschild das nur noch an einer Angel hängt. Die Taverne liegt hinter einem Regal in einem kleinen Lagerraum. Der Orden hat hier ein Zimmer mit einer Waffenkiste.

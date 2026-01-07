@@ -1,1 +1,0 @@
-Burg von [[Hohenfels]], Hauptstadt von [[Athanor]].

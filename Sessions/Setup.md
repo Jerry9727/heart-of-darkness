@@ -31,7 +31,8 @@ Mit ihren Stats berechnen die Spieler nun ihre Werte: [[Trefferchance]], [[Parie
 
 ## Ängste und Makel
 Ängste und Makel reichen von 1 bis 5. Das macht insgesamt 25 pro Kategorie, 50 für beide.
-Alle Ängste und Makel starten mit einem Punkt. Jeder Spieler würfelt 5D6. Das niedrigste Ergebnis wird verworfen. Das ergibt zwischen 4 und 24 Punkten, die er zwischen allen Kategorien verteilen muss.
+Jeder Spieler würfelt 5D6. Das niedrigste Ergebnis wird verworfen. Punkte = Augenzahl + 10.
+Jede Angst oder Makel muss mindestens einen Punkt zugewiesen bekommen.
 Spieler dürfen mehr Ängste nehmen, wenn sie dies Charakterbedingt wollen.
 
 Idee: Punktesystem. Spieler dürfen mehr Ängste nehmen und bekommen dadurch mehr [[Menschlichkeit]].

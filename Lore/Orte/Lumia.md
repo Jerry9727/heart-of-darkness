@@ -1,0 +1,1 @@
+Name der Menschenstadt [[Hohenfels]], bevor die [[Menschen]] sie bei ihrer Eroberung umbenannt haben.

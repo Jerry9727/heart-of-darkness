@@ -1,0 +1,1 @@
+Besteht der Spieler, vermeidet er den Schaden.

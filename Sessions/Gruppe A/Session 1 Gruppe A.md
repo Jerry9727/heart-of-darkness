@@ -21,7 +21,7 @@ Der König überträgt ihnen die Aufgabe eine Reihe an Sklaven, allesamt jung un
 
 [[Tellan]] begleitet die Spieler. Rika als Nonne/Priesterin von [[Aurelius der Goldene|Aurelius der Goldene]] übernimmt ebenfalls die Aufsicht. Sie führen sie in die Waffenkammer.
 
-In der Waffenkammer gibts die [[Startausrüstung]] und dort steht auch [[Pascals Golem]].
+In der Waffenkammer gibts die [[Startausrüstung]] und dort steht auch [[Skjalda]].
 
 Auf dem Weg aus dem Königreich gehts durch den Wald, wo die Spieler auf [[Charlottes Pilz]] treffen. Kurz darauf werden wir von Banditen angegriffen, die sich als hungernde Bauern herausstellen.
 

@@ -1,1 +1,0 @@
-Besteht der Spieler trifft er.

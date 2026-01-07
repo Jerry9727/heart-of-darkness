@@ -1,16 +1,24 @@
 {
 	"nodes":[
 		{"id":"db955731a3e7389e","type":"file","file":"Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.jpeg","x":-460,"y":-100,"width":340,"height":510},
-		{"id":"253adf0dac5ed7b4","type":"text","text":"# Xilus Edramarek","x":-80,"y":-100,"width":520,"height":60},
+		{"id":"253adf0dac5ed7b4","type":"text","text":"# Xilus Edramarek","x":-80,"y":-100,"width":1080,"height":60},
 		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
-		{"id":"7be95558cfaebeb1","type":"text","text":"#### Feuerzauber\nManakosten: x\nasd\n\n#### Blitzzauber\nManakosten: x\nasd\n\n#### Lebendes Buch (Passiv)\nDas Buch lebt und hat einen eigenen Willen. Es kann eigene Wahrnehmungchecks durchführen. Ob es seine Erkenntnisse teilen will ist ihm selbst überlassen...","x":-80,"y":60,"width":520,"height":420},
-		{"id":"830ae681f6cf309e","type":"file","file":"Spieler/Basiszauber.md","x":480,"y":-100,"width":340,"height":940},
-		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":-80,"y":670,"width":520,"height":60},
-		{"id":"d7b373203e10a33c","type":"text","text":"#### Verbotenes Wissen\nEin mal pro langer Rast kann du das Buch nutzen um einen Zauber jenseits deiner Fähigkeiten zu wirken.\nDas Buch nutzt seine tiefe Einsicht in die Magie um einen Zauber bis zu 3 Stufen über deiner Charakterstufe zu wirken, jedoch zehrt ein solcher Zauber auch an der Lebenskraft des Wirkenden.\nDer Zauber kostet dich 1/3 deiner Leben anstatt Mana.","x":-80,"y":730,"width":520,"height":220},
-		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":520,"width":520,"height":60},
-		{"id":"91c629ac585f5415","type":"text","text":"","x":-80,"y":580,"width":520,"height":60},
-		{"id":"088917dd76680532","type":"text","text":"# Klasse: Gelehrter\nDer Zauberer ist relativ schwach und kann nur einfache Zauber wirken. Das lebende Buch erlaubt es ihm auf Kosten seiner Menschlichkeit Zauber höherer Stufen zu wirken.\n\nDas Buch ermöglicht außerdem dunkle Magie. Manchmal korrumpiert es die gewirkten Zauber.\n\nDas Buch wird generell wie ein zweiter Spieler behandelt was Checks angeht.","x":-460,"y":450,"width":340,"height":670},
-		{"id":"68cb84f1797cbef9","type":"file","file":"Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.md","x":900,"y":-100,"width":880,"height":1260}
+		{"id":"7be95558cfaebeb1","type":"text","text":"### Feuerball\n4 Mana\nDu wirfst einen Feuerball auf einen Gegner und verursachst 1D4+2 Schaden. 20% Chance den Gegner für 2 Runden zu [[Verbrennung|verbrennen]].\n","x":-80,"y":60,"width":520,"height":160},
+		{"id":"088917dd76680532","type":"text","text":"# Klasse: Gelehrter\n*Du bist ein Gelehrter und Magier. Du bist in der Lage Elementarmagie zu wirken. Eines Tages kamst du in den Besitzt eines mysteriösen Folianten. Er begann schon bald dir Geheimnisse und verbotene Wahrheiten ins Ohr zu flüstern. Du liehst ihm bereitwillig dein Gehör.*\n\nDas Buch verbirgt einen finsteren Eigenwillen. Es erlaubt dir mächtige Zauber zu wirken, die ansonsten unmöglich wären. Doch verbotene Macht erfordert einen schrecklichen Preis.\n\nHauptattribute:\nVerstand und Instinkt\n\nLebenzuwachs pro Stufe:\n6\n\nManazuwachs pro Stufe:\n9\n\nTrefferwurf Magie:\nVER / VER / INS","x":-460,"y":450,"width":340,"height":630},
+		{"id":"c50accb920482c5f","type":"text","text":"### Eisiger Atem\n6 Mana\nDu nutzt die Macht des Abgrunds um die Luft vor dir zu gefrieren zu lassen. Bis zu 2 Gegner vor dir erleiden 1D8+1 Schaden. 10% Chance einen Gegner [[Gefrierbrand]] zuzufügen.","x":-80,"y":220,"width":520,"height":190},
+		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":-80,"y":450,"width":520,"height":60},
+		{"id":"91c629ac585f5415","type":"text","text":"#### Lebender Foliant (Passiv)\n*Ein mächtiger Foliant erscheint in deinen Händen. Fast als hätte er dich gesucht...*\n\nDas Buch lebt und hat einen eigenen Willen. Es kann eigene Wahrnehmungchecks durchführen. Ob es seine Erkenntnisse teilen will ist ihm selbst überlassen...","x":-80,"y":510,"width":520,"height":210},
+		{"id":"0957f495c2b574d3","type":"text","text":"### Manablitz\nManakosten: 8\nDu feuerst einen mächtigen Blitzstrahl der 1D8+2 Schaden an allen Gegnern in einer Linie verursacht. 10% einen Gegner zu [[Schock|schocken]].","x":-80,"y":720,"width":520,"height":160},
+		{"id":"485a61904e2349cd","type":"text","text":"# Gimmick\nDer Zauberer ist relativ schwach und kann nur einfache Zauber wirken. Das lebende Buch erlaubt es ihm auf Kosten seiner Menschlichkeit Zauber höherer Stufen zu wirken.\n\nDas Buch ermöglicht außerdem dunkle Magie. Manchmal korrumpiert es die gewirkten Zauber.\n\nDas Buch wird generell wie ein zweiter Spieler behandelt was Checks angeht.","x":2160,"y":-100,"width":340,"height":400},
+		{"id":"68cb84f1797cbef9","type":"file","file":"Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.md","x":1200,"y":-100,"width":880,"height":1260},
+		{"id":"830ae681f6cf309e","type":"file","file":"Spieler/Basiszauber.md","x":2160,"y":360,"width":340,"height":940},
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":480,"y":0,"width":520,"height":60},
+		{"id":"d7b373203e10a33c","type":"text","text":"#### Verbotenes Wissen\nEin mal pro langer Rast\n\nDu nutzt die Macht des Folianten um einen Zauber jenseits deiner Fähigkeiten zu wirken.\nDu kannst Zauber bis zu 3 Stufen über deiner jetzigen wirken, jedoch nicht ohne Folgen. Die schreckliche Wahrheit zerrt an Körper wie Verstand gleichermaßen. Pro Stufe über deiner eigenen verlierst du 5 Lebenspunkte.\nDu wirfst einen Menschlichkeitswurf.","x":480,"y":60,"width":520,"height":280},
+		{"id":"e7d65dc609256799","type":"text","text":"### Frostrüstung\n7 Mana\nDu gefrierst das Wasser in der Luft um dich herum um dir eine Rüstung aus Eis zu verleihen. Du bekommst 2 Rüstung und Magieresistenz für die nächsten 3 Runden","x":480,"y":340,"width":520,"height":170},
+		{"id":"5d0d1e912b14f6d3","type":"text","text":"### Stufe 4","x":480,"y":555,"width":520,"height":60},
+		{"id":"2354e12da4a69fb2","type":"text","text":"### Inferno\n8 Mana\nDu entfesselst ein höllisches Inferno. Alle Gegner um dich herum erleiden 2D4+2 Schaden. 20% Chance den Gegner für 2 Runden zu [[Verbrennung|verbrennen]].","x":480,"y":615,"width":520,"height":170},
+		{"id":"59c99f075527ecb8","type":"text","text":"### Stufe 5","x":480,"y":820,"width":520,"height":60},
+		{"id":"0df9d4cae9611e5a","type":"text","text":"### Blick in den Abgrund\n10 Mana\nDu beschwörst ein Fragment den Abgrunds um den Verstand deines Feindes direkt anzugreifen. Du musst ihn nicht sehen können. Du verursachst 2D6+4 magischen Schaden.","x":480,"y":880,"width":520,"height":170}
 	],
 	"edges":[]
 }

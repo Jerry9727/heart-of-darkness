@@ -8,35 +8,66 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c04c003683e18a6",
+            "id": "5b742dc877fc6311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Gruppe A/Session 0 Gruppe A.md",
+                "file": "Sessions/Gruppe A/Session 0 Gruppe A Feedback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0 Gruppe A"
+              "title": "Session 0 Gruppe A Feedback"
             }
           },
           {
-            "id": "92247533427f9a03",
+            "id": "41075609f54c76b2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
+                "viewState": {
+                  "x": 363.256986144784,
+                  "y": 506.6492228034308,
+                  "zoom": -0.48908709726945426
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Skjalda"
+            }
+          },
+          {
+            "id": "30a7717b2ed3a711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Setup.md",
+                "file": "Regeln/Limb Targeting and Dismemberment System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup"
+              "title": "Limb Targeting and Dismemberment System"
             }
           },
           {
-            "id": "71949a01b8a8e8cf",
+            "id": "9333ac3af027aa0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regeln/Trefferchance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trefferchance"
+            }
+          },
+          {
+            "id": "6a2e30886aafda46",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -46,40 +77,9 @@
               "icon": "lucide-image",
               "title": "Fertigkeitsbogen"
             }
-          },
-          {
-            "id": "d5580481a92ec7da",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
-                "viewState": {
-                  "x": 233.70376874757608,
-                  "y": 546.4092709324551,
-                  "zoom": -0.7110594786748495
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Xilus Edramarek"
-            }
-          },
-          {
-            "id": "855c15e1eee0ce71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Todo"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
+                "file": "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xilus Edramarek"
+              "title": "Backlinks for Skjalda"
             }
           },
           {
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
+                "file": "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Xilus Edramarek"
+              "title": "Outline of Skjalda"
             }
           },
           {
@@ -220,23 +220,13 @@
             }
           },
           {
-            "id": "2abf36362f9e57ea",
+            "id": "a811c95afc78b28c",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "storyteller-dashboard-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
-            "id": "ccc5f7c7f814050f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
+              "icon": "book-open",
+              "title": "Storyteller suite"
             }
           }
         ],
@@ -262,64 +252,67 @@
       "omnisearch:Omnisearch": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "storyteller-suite:Open storyteller dashboard": false,
+      "storyteller-suite:Apply template to story": false
     }
   },
   "active": "5f28be539c28b4db",
   "lastOpenFiles": [
-    "Spieler/Gruppe A/Veyra/Veyra.canvas",
-    "Todo.md",
-    "Spieler/Gruppe A/Pilgrim/Pilgrim.canvas",
-    "Spieler/Gruppe A/Esther/Esther.canvas",
-    "Sessions/Gruppe A/Session 0 Gruppe A.md",
+    "Regeln/Limb Targeting and Dismemberment System.md",
+    "Regeln/Statuseffekte/Lähmung.md",
+    "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
     "Charakterbogen PDF/Fertigkeitsbogen.png",
-    "Sessions/Setup.md",
+    "Regeln/Trefferchance.md",
+    "Die Kalten.md",
+    "Lore/Historie/Zeitstrahl.md",
+    "Sessions/Zeitstrahl.md",
+    "Lore/Rassen/Tenka-Zwerge.md",
+    "Spieler/Gruppe B/Undeadman/Undeadman.canvas",
+    "Sessions/Sci-Fi Pen and Paper.md",
+    "Spieler/Gruppe A/Esther/Esther Backstory.pdf",
+    "Lore/Götter/Aurelius der Goldene.md",
+    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
+    "Spieler/Gruppe A/Esther/Esther.canvas",
+    "Spieler/Gruppe A/Veyra/Veyra.canvas",
+    "Sessions/Gruppe A/Session 0 Gruppe A Feedback.md",
     "Charakterbogen PDF/Charakterbogen.png",
-    "Spieler/Gruppe A/Esther/Esther.md",
-    "Lore/Orte/Hohenfels.md",
-    "Hohenburg.md",
-    "Lore/Charaktere/König von Hohenfels.md",
-    "Untitled.md",
-    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
-    "Level.md",
-    "Spieler/Gruppe A/Pilgrim/Pilgrim.jpg",
-    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.jpg",
-    "Regeln/Waffen/Waffen.md",
-    "Crow.md",
-    "Regeln/Runden.md",
-    "Regeln/Fertigkeiten/Fertigkeiten.md",
     "Excalidraw/Charakterbogen.md",
+    "README.md",
+    "Sessions/Währung.md",
+    "Todo.md",
+    "Kanban.md",
+    "Lore/Mondstahl.md",
+    "Sessions/Setup.md",
+    "Lore/Thalea.md",
+    "StorytellerSuite/Stories/Heart of Darkness/Characters/Thalea.md",
+    "Lore/Organisationen/Jägerorden.md",
+    "StorytellerSuite/Stories/Heart of Darkness/Scenes",
+    "StorytellerSuite/Stories/Heart of Darkness/Chapters",
+    "StorytellerSuite/Stories/Heart of Darkness/References",
+    "StorytellerSuite/Stories/Heart of Darkness/Items",
+    "StorytellerSuite/Stories/Heart of Darkness/Events",
+    "StorytellerSuite/Stories/Heart of Darkness/Locations",
+    "StorytellerSuite/Stories/Heart of Darkness/Characters",
+    "StorytellerSuite/Stories/Heart of Darkness",
+    "StorytellerSuite/Stories",
+    "Lore/Gegner/Spell Sentinel.md",
+    "Sessions/Gruppe A/Session 0 Gruppe A.md",
+    "Sessions/Gruppe A/Zusammenfassung Session 0 Gruppe A.md",
+    "Sessions/Kampagnenideen.md",
+    "Sessions/Gruppe A/Session 0 Notes.md",
+    "Spieler/Gruppe A/Veyra/Veyra.md",
+    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
     "Charakterbogen PDF/Ausrüstungsbogen.png",
     "Charakterbogen PDF/Waffenbogen.png",
+    "Spieler/Gruppe A/Pilgrim/Pilgrim.canvas",
+    "Spieler/Gruppe A/Pilgrim/Pilgrim.jpg",
+    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.jpg",
     "Charakterbogen PDF/Rucksack.png",
-    "Erwachen (Spieler).md",
-    "Spieler/Basiszauber.md",
-    "Spieler/Basisaktionen.md",
-    "Spieler/Aufteilung.md",
-    "Vraendal.md",
-    "Lore/Charaktere/Der Rebell.md",
-    "Spieler/Arkana.md",
-    "Spieler/Gruppe B/Eisenkralle/Eisenkralle.md",
-    "Spieler/Gruppe B/Undeadman/Olivers Unsterblicher Soldat.md",
-    "Spieler/Gruppe B/Psaro/Psaro.md",
-    "Spieler/Gruppe B/Pilz/Charlottes Pilz.md",
-    "Charakterbogen PDF",
     "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.canvas",
-    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
-    "Regeln/Waffen",
-    "Spieler/Gruppe B/Psaro",
-    "Spieler/Gruppe B/Golem",
-    "Spieler/Gruppe B/Pilz",
-    "Spieler/Gruppe B/Undeadman",
-    "Spieler/Gruppe B/Lillith",
-    "Spieler/Gruppe B/Eisenkralle",
-    "Spieler/Gruppe B",
-    "Spieler/Gruppe A",
     "Spieler/Gruppe B/Lillith/Lillith.canvas",
-    "Spieler/Gruppe B/Golem/Golem.canvas",
-    "Spieler/Gruppe B/Undeadman/Undeadman.canvas",
     "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.jpeg",
-    "Spieler/Gruppe B/Golem/Golem.jpg",
+    "Spieler/Gruppe B/Skjalda/Skjalda.jpg",
     "Spieler/Gruppe B/Eisenkralle/Eisenkralle.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+Besteht der Spieler, vermeidet er den Schaden. Deutlich einfacher als Ausweichen. Durchdringung oder Elementangriffe mit Feuer z.B. können nicht geblockt werden. Beim Blocken wird der Gegenstand um 1D4 beschädigt, siehe [[Haltbarkeit]].

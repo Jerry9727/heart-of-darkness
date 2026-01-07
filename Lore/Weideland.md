@@ -1,0 +1,1 @@
+Die große Weide. Hier leben nur Nomaden. SO mancher behauptet hier einen [[Hobbits|Hobbit]] gesehen zu haben. Beherbergt die [[Schwarzweide]].

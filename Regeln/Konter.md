@@ -1,0 +1,1 @@
+Durch erfolgreiches [[Parieren]]. Der Spieler darf einen Normalen Angriff mit einer seiner ausgerüsteten Waffen auf den Gegner ausführen. Der Treffercheck wird übersprungen.
