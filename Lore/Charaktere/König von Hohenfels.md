@@ -1,1 +1,0 @@
-Herrscher des Königreichs [[Athanor]]. Hauptstadt und Sitz des Throns in [[Hohenfels]].

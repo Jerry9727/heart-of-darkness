@@ -1,0 +1,2 @@
+Ein unheiliges Buch mit einem Band aus Haut. Unbeschriftet. Es verrät seine Geheimnisse nicht leichtsinnig. Kann benutzt werden um Informationen mit der anderen Gruppe auszutauschen.
+Auch Nekronomikon genannt.

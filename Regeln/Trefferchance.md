@@ -13,3 +13,40 @@ GES / GES / STÄ
 
 Magie:
 VER / VER / INS
+
+
+
+Dreifachwurfsystem für alles verwenden
+Waffen haben keine Ausweichpunkte (Außer durch magischen Effekt maybe)
+Fertigkeiten einführen, die Ausweichpunkte für bestimmte Waffentypen und Magie bieten.
+Stärkewaffen/Geschickwaffen
+Schwerter/Äxte/Stangenwaffen/Bögen/Armbrüste/Speere etc.
+Alles mit 3/3 Würfen machen
+
+ODER
+Trefferpunkte so lassen
+Trefferchance aus Waffen entfernen
+Trefferchance zu Skills adden(Waffenart/Zauberkunst)
+
+## Rework Ausweichen/Parieren/Blocken
+Parieren:
+GES/GES/STÄ
+
+Ausweichen:
+GES/KON/INS
+
+Blocken:
+STÄ/STÄ/KON
+
+Dreifachwurfsystem verwenden -> belohnt verschiedene Stats
+Zu einfach
+Ausweichpunkte?
+
+Beispiel DSA:
+Ausweichen:
+GES/2
+
+Stats so lassen. Boni von Waffen komplett entfernen
+Blocken Schwierigkeit erhöhen
+Blocken und Ausweichen sind gleich schwer
+Schilde geben Bonus auf Blocken

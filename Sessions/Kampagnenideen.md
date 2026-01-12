@@ -63,6 +63,7 @@ Auf dem Weg die Welt zu retten müssen die Spieler unmögliche Entscheidungen tr
 ## Ideen für Sessions
 - Belly of the Beast
 - Heart of the Abyss: Die Spieler treffen das Herz des Abgrunds
+- Bone Collector Caterpillar (Google)
 
 ## Charaktere die ich schreiben will
 - Tellan: Eine Art Jaime Lannister. Definitiv nicht gut, aber auf seine Art ehrenhaft und respektabel.

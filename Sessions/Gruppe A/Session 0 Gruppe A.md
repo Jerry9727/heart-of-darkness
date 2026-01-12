@@ -36,11 +36,11 @@
 - Die Spieler MÜSSEN hier ein traumatisches Erlebnis machen. In der Welt von Heart of Darkness geht es darum, nachdem man etwas Schreckliches getan hat, im Angesicht der Hoffnungslosigkeit einen Weg zu finden weiter zu machen.
 - Spätestens hier geht Humanity verloren.
 - Option überlegen, falls Spieler die Kleine retten wollen.
-- Rika + Tellan bringen die Spieler zum [[König von Hohenfels|König]]
+- Rika + Tellan bringen die Spieler zum [[Robert Endurion|König]]
 
 - -> Session 1
-- Spieler aus Gruppe A kommen nicht zurück, König schickt noch eine Gruppe ([[Session 1 Gruppe B]])
-- Zugang zur Kanalisation ist für [[Session 1 Gruppe B]] gesperrt.
+- Spieler aus Gruppe A kommen nicht zurück, König schickt noch eine Gruppe ([[Session 0 Gruppe B]])
+- Zugang zur Kanalisation ist für [[Session 0 Gruppe B]] gesperrt.
 
 ## Ideen
 - Waffen mit extrem niedriger Haltbarkeit für den Anfang, um die Mechanik einzuführen

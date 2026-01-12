@@ -1,0 +1,1 @@
+König von [[Hohenfels]] und Herrscher des Königreichs [[Athanor]]. Herrscht vom [[Der blutige Thron|blutigen Thron]] aus in der [[Hohenburg]].

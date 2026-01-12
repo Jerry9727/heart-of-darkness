@@ -3,4 +3,4 @@ Fanatischer Anhänger oder ein ausnutzbarer naiver Gott der Aurelius dient. Anf�
 
 Anführer der bewaffneten Kirche, Halbgott und Sohn von [[Aurelius der Goldene]] (Paladin)
 Er ist der wahre Machthaber von [[Hohenfels]]
-Zwingt den [[König von Hohenfels]] seine Tochter zu opfern im Namen der Kirche weil die Tochter gesündigt hat (Sex vor der Ehe?)
+Zwingt den [[Robert Endurion]] seine Tochter zu opfern im Namen der Kirche weil die Tochter gesündigt hat (Sex vor der Ehe?)

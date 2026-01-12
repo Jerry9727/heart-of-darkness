@@ -1,0 +1,7 @@
+## Beschreibung
+Kleine nackte Wesen mit rosa Haut und spitzen Fangzähnen. Ihre Gesichter sind zu Fratzen verzerrt und missgebildet. Ihre Bäuche sind offen und sie ziehen Gedärme hinter sich her. Sie verfügen außerdem über scharfe Klauen und sind in der Lage Säure auf ihre Feinde zu spucken. Sie stolpern langsam auf ihre Opfer zu während sie zerfleischen. In Reichweite können sie ungewöhnlich flink zuschlagen. Sie stoßen kleine, erbärmliche Schreie aus.
+
+## Hintergrund
+Fehlgeborene entstehen wenn eine Schwangere Frau in Folge eines großen Traumas, wie zum Beispiel Folter, sterben. Der Fehlgeborene erbt den Hass seiner Mutter und rächt sich mit allem was er kann an der Welt. Normalerweise werden Fehlgeborene noch im Mutterleib mit ihrer Mutter begraben oder verbrannt. Wenn sich jedoch niemand um die Leiche kümmert kriechen sie aus den Bäuchen ihrer Mütter hervor.
+
+Betet die werdende Mutter in ihren letzten Momenten zur [[Die Mutter|Mutter]], kann es vorkommen, dass sie ihnen Gehör schenkt. Als Schutzpatronin aller Mütter gewährt sie den ihnen den verständlichen, aber leider törichten Wunsch, ihren Kindern das Leben zu schenken. Somit gibt sie den Föten die Chance zur Rache. Die Fehlgeborenen scheinen diese bedingungslose Liebe ihrer Mütter nicht zu erwidern, da sie deren Leichen häufig fressen.

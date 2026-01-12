@@ -8,33 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b742dc877fc6311",
+            "id": "4e2a78b9657150c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Gruppe A/Session 0 Gruppe A Feedback.md",
+                "file": "Sessions/Gruppe B/Session 0 Gruppe B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0 Gruppe A Feedback"
+              "title": "Session 0 Gruppe B"
+            }
+          },
+          {
+            "id": "711a1ba0b25b5eed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Kult_der_Mutter.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Kult_der_Mutter.excalidraw"
+            }
+          },
+          {
+            "id": "0ef33c375c934fc0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spieler/Gruppe A/Esther/Esther Backstory.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Esther Backstory"
             }
           },
           {
             "id": "41075609f54c76b2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
-                "viewState": {
-                  "x": 363.256986144784,
-                  "y": 506.6492228034308,
-                  "zoom": -0.48908709726945426
-                }
+                "file": "Spieler/Gruppe B/Skjalda/Skjalda.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Skjalda"
             }
           },
@@ -44,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regeln/Limb Targeting and Dismemberment System.md",
+                "file": "Regeln/Trefferzonen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limb Targeting and Dismemberment System"
+              "title": "Trefferzonen"
             }
           },
           {
@@ -67,15 +88,17 @@
             }
           },
           {
-            "id": "6a2e30886aafda46",
+            "id": "3988491d550401b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Charakterbogen PDF/Fertigkeitsbogen.png"
+                "file": "Namenloses Buch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Fertigkeitsbogen"
+              "icon": "lucide-file",
+              "title": "Namenloses Buch"
             }
           }
         ],
@@ -152,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
+                "file": "Excalidraw/Kult_der_Mutter.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Skjalda"
+              "title": "Backlinks for Kult_der_Mutter.excalidraw"
             }
           },
           {
@@ -200,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
+                "file": "Excalidraw/Kult_der_Mutter.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Skjalda"
+              "title": "Outline of Kult_der_Mutter.excalidraw"
             }
           },
           {
@@ -259,34 +282,41 @@
   },
   "active": "5f28be539c28b4db",
   "lastOpenFiles": [
-    "Regeln/Limb Targeting and Dismemberment System.md",
-    "Regeln/Statuseffekte/Lähmung.md",
-    "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
-    "Charakterbogen PDF/Fertigkeitsbogen.png",
+    "Namenloses Buch.md",
+    "Excalidraw/Kult_der_Mutter.excalidraw.md",
+    "Spieler/Gruppe B/Skjalda/Skjalda.md",
+    "Spieler/Gruppe B/Skjalda/Notizen Pascal.md",
+    "Spieler/Gruppe B/Skjalda/Notizen.jpeg",
+    "Spieler/Gruppe B/Psaro/Psaro.md",
+    "Lore/Gegner/Fehlgeborener.md",
+    "Sessions/Gruppe B/Session 0 Gruppe B.md",
+    "Sessions/Kampagnenideen.md",
+    "id.md",
     "Regeln/Trefferchance.md",
-    "Die Kalten.md",
-    "Lore/Historie/Zeitstrahl.md",
-    "Sessions/Zeitstrahl.md",
-    "Lore/Rassen/Tenka-Zwerge.md",
-    "Spieler/Gruppe B/Undeadman/Undeadman.canvas",
-    "Sessions/Sci-Fi Pen and Paper.md",
+    "Disclaimer.md",
+    "Antimagische Handschellen.md",
+    "Lore/Orte/Schwert des Ymir.md",
+    "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
     "Spieler/Gruppe A/Esther/Esther Backstory.pdf",
-    "Lore/Götter/Aurelius der Goldene.md",
+    "Der blutige Thron.md",
+    "Lore/Charaktere/Robert Endurion.md",
+    "Lore/Charaktere/Tellan.md",
+    "Lore/Orte/Athanor.md",
+    "Lore/Orte/Hohenfels.md",
+    "Familie Endurion.md",
+    "Sessions/Gruppe A/Session 0 Gruppe A Feedback.md",
+    "Regeln/Blocken.md",
+    "Regeln/Haltbarkeit.md",
+    "Sessions/Gruppe A/Session 0 Gruppe A.md",
+    "Regeln/Trefferzonen.md",
+    "Charakterbogen PDF/Fertigkeitsbogen.png",
+    "Kritische Treffer & Fehlschlag.md",
+    "Regeln/Tod.md",
+    "Spieler/Gruppe B/Undeadman/Undeadman.canvas",
     "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
     "Spieler/Gruppe A/Esther/Esther.canvas",
     "Spieler/Gruppe A/Veyra/Veyra.canvas",
-    "Sessions/Gruppe A/Session 0 Gruppe A Feedback.md",
     "Charakterbogen PDF/Charakterbogen.png",
-    "Excalidraw/Charakterbogen.md",
-    "README.md",
-    "Sessions/Währung.md",
-    "Todo.md",
-    "Kanban.md",
-    "Lore/Mondstahl.md",
-    "Sessions/Setup.md",
-    "Lore/Thalea.md",
-    "StorytellerSuite/Stories/Heart of Darkness/Characters/Thalea.md",
-    "Lore/Organisationen/Jägerorden.md",
     "StorytellerSuite/Stories/Heart of Darkness/Scenes",
     "StorytellerSuite/Stories/Heart of Darkness/Chapters",
     "StorytellerSuite/Stories/Heart of Darkness/References",
@@ -296,12 +326,6 @@
     "StorytellerSuite/Stories/Heart of Darkness/Characters",
     "StorytellerSuite/Stories/Heart of Darkness",
     "StorytellerSuite/Stories",
-    "Lore/Gegner/Spell Sentinel.md",
-    "Sessions/Gruppe A/Session 0 Gruppe A.md",
-    "Sessions/Gruppe A/Zusammenfassung Session 0 Gruppe A.md",
-    "Sessions/Kampagnenideen.md",
-    "Sessions/Gruppe A/Session 0 Notes.md",
-    "Spieler/Gruppe A/Veyra/Veyra.md",
     "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
     "Charakterbogen PDF/Ausrüstungsbogen.png",
     "Charakterbogen PDF/Waffenbogen.png",

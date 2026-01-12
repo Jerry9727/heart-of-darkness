@@ -1,0 +1,1 @@
+Ein blutender Gegner nimmt pro Runde 1D4 Schaden. Ein blutender Gegner wird versuchen sich zurückzuziehen und seinen Zug zu nutzen um die Blutung zu stoppen. Geheilt zu werden wird die Blutung ebenfalls stoppen.

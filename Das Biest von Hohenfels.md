@@ -1,0 +1,1 @@
+Ein Serienmörder der durch besondere Ruchlosigkeit und blutrünstigkeit auffällt. Er zerreißt seine Opfer mit angespitzten Zähnen und Fingernägeln wie Klauen. Er scheint sie teilweise zu essen. Viele seiner Morde wurden anfangs für Tier- oder Monstervorfälle gehalten, doch der Orden konnte nichts finden.

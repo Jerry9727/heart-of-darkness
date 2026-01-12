@@ -1,0 +1,2 @@
+Der Thron von [[Athanor]] steht in der [[Hohenburg]] in [[Hohenfels]]. Ein gewöhnlicher Steinthron mit einem ungewöhnlichen Namen, den er von den vielen Eroberungen hat, die Hohenfels in all seinen Jahren durchgemacht hat.
+Es heißt der Thron sei verflucht. Noch kein König saß auf ihm, ohne dem Blutdurst zu verfallen. Jeder König von [[Athanor]] hat einen Krieg begonnen.
