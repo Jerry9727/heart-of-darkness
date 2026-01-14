@@ -1,1 +1,3 @@
 Besteht der Spieler einen Blocken-Wurf, vermeidet er den Schaden. Mit Schilden einfacher als Ausweichen. Durchdringung oder Elementangriffe mit Feuer z.B. können nicht geblockt werden. Beim Blocken wird der Gegenstand um 1D20 beschädigt, siehe [[Haltbarkeit]].
+Schilde können einen kleinen Block-Bonus haben.
+Blockt ein Charakter erfolgreich ohne Waffe (mit seinem Körper), nimmt er noch 50% des Schadens.

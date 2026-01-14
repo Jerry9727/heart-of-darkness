@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3f34e53efea48f65",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Weltkarte_mit_Ymir.excalidraw"
+            }
+          },
+          {
             "id": "4e2a78b9657150c3",
             "type": "leaf",
             "state": {
@@ -34,47 +46,38 @@
             }
           },
           {
-            "id": "0ef33c375c934fc0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Spieler/Gruppe A/Esther/Esther Backstory.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Esther Backstory"
-            }
-          },
-          {
             "id": "41075609f54c76b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Spieler/Gruppe B/Skjalda/Skjalda.md",
-                "mode": "source",
-                "source": false
+                "file": "Spieler/Gruppe B/Lillith/Lillith.canvas",
+                "viewState": {
+                  "x": 470.01567707435527,
+                  "y": 472.42492982913745,
+                  "zoom": -0.5255033676216351
+                }
               },
-              "icon": "lucide-file",
-              "title": "Skjalda"
+              "icon": "lucide-layout-dashboard",
+              "title": "Lillith"
             }
           },
           {
-            "id": "30a7717b2ed3a711",
+            "id": "155e24b48304abe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regeln/Trefferzonen.md",
+                "file": "Spieler/Gruppe B/Undeadman/Backstory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trefferzonen"
+              "title": "Backstory"
             }
           },
           {
-            "id": "9333ac3af027aa0f",
+            "id": "fe7bd8a5a1f5c981",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,23 +89,9 @@
               "icon": "lucide-file",
               "title": "Trefferchance"
             }
-          },
-          {
-            "id": "3988491d550401b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Namenloses Buch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Namenloses Buch"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kult_der_Mutter.excalidraw.md",
+                "file": "Spieler/Gruppe B/Lillith/Lillith.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kult_der_Mutter.excalidraw"
+              "title": "Backlinks for Lillith"
             }
           },
           {
@@ -223,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kult_der_Mutter.excalidraw.md",
+                "file": "Spieler/Gruppe B/Lillith/Lillith.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kult_der_Mutter.excalidraw"
+              "title": "Outline of Lillith"
             }
           },
           {
@@ -280,63 +269,62 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "5f28be539c28b4db",
+  "active": "41075609f54c76b2",
   "lastOpenFiles": [
-    "Namenloses Buch.md",
+    "Spieler/Gruppe B/Undeadman/Undeadman.canvas",
+    "Spieler/Gruppe B/Lillith/Lillith.canvas",
+    "Spieler/Gruppe B/Lillith/Lillith.md",
+    "Spieler/Gruppe B/Psaro/Psaro.canvas",
+    "Regeln/Trefferchance.md",
+    "Sessions/Gruppe B/Session 0 Gruppe B.md",
+    "Spieler/Gruppe B/Undeadman/Backstory.md",
+    "Spieler/Gruppe B/Undeadman/Olivers Unsterblicher Soldat.md",
+    "Spieler/Gruppe B/Undeadman/DnD Character (2) 2.txt",
+    "Spieler/Gruppe B/Undeadman/DnD Character (2) 1.txt",
+    "Spieler/Gruppe B/Undeadman/DnD Character (2).txt",
+    "Spieler/Gruppe B/Nokko/Nokko.canvas",
+    "Das älteste Gesetz.md",
+    "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md",
+    "Regeln/Blocken.md",
+    "Sessions/Setup.md",
+    "Charakterbogen PDF/Charakterbögen V2/Fertigkeiten.pdf",
+    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
+    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
+    "Schadensberechnung.md",
+    "Regeln/Waffen/Waffen.md",
+    "Regeln/Statuseffekte/Lähmung.md",
     "Excalidraw/Kult_der_Mutter.excalidraw.md",
+    "Regeln/Statuseffekte/Vergiftung.md",
+    "Regeln/Fertigkeiten/Fertigkeiten.md",
+    "Spieler/Gruppe B/Nokko/Nokko.md",
+    "Charakterbogen PDF/Charakterbögen V2/Waffen.png",
+    "Charakterbogen PDF/Charakterbögen V2/Waffen.pdf",
+    "Charakterbogen PDF/Charakterbögen V1/Waffenbogen.png",
+    "Charakterbogen PDF/Charakterbögen V2/Ausrüstung.pdf",
+    "Charakterbogen PDF/Charakterbögen V2/Charakterbogen.pdf",
+    "Charakterbogen PDF/Charakterbögen V2/Rucksack.pdf",
+    "Charakterbogen PDF/Charakterbögen V1/Ausrüstungsbogen.png",
+    "Charakterbogen PDF/Charakterbögen V2",
     "Spieler/Gruppe B/Skjalda/Skjalda.md",
+    "Charakterbogen PDF/Charakterbögen V1",
+    "Regeln/Trefferzonen.md",
+    "Namenloses Buch.md",
     "Spieler/Gruppe B/Skjalda/Notizen Pascal.md",
     "Spieler/Gruppe B/Skjalda/Notizen.jpeg",
     "Spieler/Gruppe B/Psaro/Psaro.md",
     "Lore/Gegner/Fehlgeborener.md",
-    "Sessions/Gruppe B/Session 0 Gruppe B.md",
     "Sessions/Kampagnenideen.md",
     "id.md",
-    "Regeln/Trefferchance.md",
     "Disclaimer.md",
-    "Antimagische Handschellen.md",
-    "Lore/Orte/Schwert des Ymir.md",
     "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
-    "Spieler/Gruppe A/Esther/Esther Backstory.pdf",
-    "Der blutige Thron.md",
-    "Lore/Charaktere/Robert Endurion.md",
-    "Lore/Charaktere/Tellan.md",
-    "Lore/Orte/Athanor.md",
-    "Lore/Orte/Hohenfels.md",
-    "Familie Endurion.md",
-    "Sessions/Gruppe A/Session 0 Gruppe A Feedback.md",
-    "Regeln/Blocken.md",
-    "Regeln/Haltbarkeit.md",
-    "Sessions/Gruppe A/Session 0 Gruppe A.md",
-    "Regeln/Trefferzonen.md",
-    "Charakterbogen PDF/Fertigkeitsbogen.png",
-    "Kritische Treffer & Fehlschlag.md",
-    "Regeln/Tod.md",
-    "Spieler/Gruppe B/Undeadman/Undeadman.canvas",
-    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
+    "Charakterbogen PDF/Charakterbögen V1/Fertigkeitsbogen.png",
     "Spieler/Gruppe A/Esther/Esther.canvas",
     "Spieler/Gruppe A/Veyra/Veyra.canvas",
-    "Charakterbogen PDF/Charakterbogen.png",
-    "StorytellerSuite/Stories/Heart of Darkness/Scenes",
-    "StorytellerSuite/Stories/Heart of Darkness/Chapters",
-    "StorytellerSuite/Stories/Heart of Darkness/References",
-    "StorytellerSuite/Stories/Heart of Darkness/Items",
-    "StorytellerSuite/Stories/Heart of Darkness/Events",
-    "StorytellerSuite/Stories/Heart of Darkness/Locations",
-    "StorytellerSuite/Stories/Heart of Darkness/Characters",
-    "StorytellerSuite/Stories/Heart of Darkness",
-    "StorytellerSuite/Stories",
-    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
-    "Charakterbogen PDF/Ausrüstungsbogen.png",
-    "Charakterbogen PDF/Waffenbogen.png",
+    "Charakterbogen PDF/Charakterbögen V1/Charakterbogen.png",
     "Spieler/Gruppe A/Pilgrim/Pilgrim.canvas",
     "Spieler/Gruppe A/Pilgrim/Pilgrim.jpg",
     "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.jpg",
-    "Charakterbogen PDF/Rucksack.png",
-    "Regeln/Spieler/Charakterbögen/Gruppe A/Needlomancer/Needlomancer.canvas",
-    "Spieler/Gruppe B/Lillith/Lillith.canvas",
-    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.jpeg",
-    "Spieler/Gruppe B/Skjalda/Skjalda.jpg",
-    "Spieler/Gruppe B/Eisenkralle/Eisenkralle.canvas"
+    "Charakterbogen PDF/Charakterbögen V1/Rucksack.png",
+    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.jpeg"
   ]
 }

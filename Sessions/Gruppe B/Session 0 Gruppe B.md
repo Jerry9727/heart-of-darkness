@@ -109,3 +109,10 @@ Der Großteil des Raumes wird von einen großen Gitterkäfig eingenommen, in dem
 
 
 // Verärgern die Spieler die betenden Kultisten im Altarraum, wecken sie den Erwachten auf. Dieser fetzt gnadenlos durch die Kultisten nach draußen. Die Spieler haben so die Chance ihm zu folgen.
+
+
+
+## Loot
+Für Oliver:
+Rostiges Großschwert (50H)
+Kaputte Brustplatte (Seine)

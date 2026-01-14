@@ -58,3 +58,7 @@ Pilz lebt, Magier hat an Pilz experimentiert, Pilz wurde schlau, hat sich als Dr
 Hat etwas magisches gestohlen dass ihm Druidenfähigkeiten gibt.
 Magier will Pilz wiederhaben, weil er nicht auffliegen will.
 Kleiner Kerl, mächtiger Druide, möglicherweise durchs Artefakt
+
+Verbechen:
+Diebstahl!
+Mein Pilz klaut. Ob mit Absicht oder nicht, das weiß man nicht 

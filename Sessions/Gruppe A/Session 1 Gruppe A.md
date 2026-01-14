@@ -23,7 +23,7 @@ Der König überträgt ihnen die Aufgabe eine Reihe an Sklaven, allesamt jung un
 
 In der Waffenkammer gibts die [[Startausrüstung]] und dort steht auch [[Skjalda]].
 
-Auf dem Weg aus dem Königreich gehts durch den Wald, wo die Spieler auf [[Charlottes Pilz]] treffen. Kurz darauf werden wir von Banditen angegriffen, die sich als hungernde Bauern herausstellen.
+Auf dem Weg aus dem Königreich gehts durch den Wald, wo die Spieler auf [[Nokko]] treffen. Kurz darauf werden wir von Banditen angegriffen, die sich als hungernde Bauern herausstellen.
 
 Unterwegs treten sie durch einen magischen Schein im Wald und finden sich bei den Waldelfen wieder. Diese wirken freundlich und laden die Spieler in ihr Dorf ein. Dabei wiederholen sie immer wieder wie schön die Prinzessin ist.
 

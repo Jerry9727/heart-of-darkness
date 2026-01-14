@@ -28,6 +28,7 @@ Beispiel Verstand 12: 3 je Runde.
 
 ## Spieler berechnen Kampfattribute
 Mit ihren Stats berechnen die Spieler nun ihre Werte: [[Trefferchance]], [[Parieren]], [[Ausweichen]],[[Blocken]] und [[Menschlichkeit]].
+Die Trefferchance hängt vom Charakter ab.
 
 ## Ängste und Makel
 Ängste und Makel reichen von 1 bis 5. Das macht insgesamt 25 pro Kategorie, 50 für beide.

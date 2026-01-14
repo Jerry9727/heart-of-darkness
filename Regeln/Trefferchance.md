@@ -6,13 +6,13 @@ Durchschnitt ca. 7
 Anstatt einen fixen Trefferwert auf dem Standardbogen zu haben, würfeln Spieler 3 Würfe wie für alle anderen Checks. Werte hängen von Waffe/Zauber ab. Ab 2/3 wird getroffen. Eine 1 dabei ist ein kritischer Erfolg, eine 20 ein kritischer Fehlschlag. Eine 1 und eine 20 heben sich auf. Waffen könnten Ausweichpunkte geben (Testen)
 
 Stärkewaffe:
-STÄ / STÄ / GES
+(STÄ/STÄ/GES)/3
 
 Geschicklichkeitswaffe:
-GES / GES / STÄ
+(GES/GES/STÄ)/3
 
 Magie:
-VER / VER / INS
+(VER/VER/INS)/3
 
 
 
