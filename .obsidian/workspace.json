@@ -51,43 +51,55 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Spieler/Gruppe B/Lillith/Lillith.canvas",
+                "file": "Spieler/Gruppe B/Psaro/Psaro Klassenbogen.canvas",
                 "viewState": {
-                  "x": 470.01567707435527,
-                  "y": 472.42492982913745,
-                  "zoom": -0.5255033676216351
+                  "x": 719.6792390633198,
+                  "y": 636.9503487861243,
+                  "zoom": -0.8027451287468705
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Lillith"
+              "title": "Psaro Klassenbogen"
             }
           },
           {
-            "id": "155e24b48304abe0",
+            "id": "ba9015d892c1005d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spieler/Gruppe B/Undeadman/Backstory.md",
+                "file": "Regeln/Statuseffekte/In Brand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstory"
+              "title": "In Brand"
             }
           },
           {
-            "id": "fe7bd8a5a1f5c981",
+            "id": "da89ca3fe1f22d0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regeln/Trefferchance.md",
+                "file": "Sessions/Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trefferchance"
+              "title": "Setup"
+            }
+          },
+          {
+            "id": "ce6aa6772fd26e79",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Charakterbogen PDF/Charakterbögen V2/Fertigkeiten.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Fertigkeiten"
             }
           }
         ],
@@ -148,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16a3214cca69691c",
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spieler/Gruppe B/Lillith/Lillith.canvas",
+                "file": "Spieler/Gruppe B/Psaro/Psaro Klassenbogen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lillith"
+              "title": "Backlinks for Psaro Klassenbogen"
             }
           },
           {
@@ -212,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spieler/Gruppe B/Lillith/Lillith.canvas",
+                "file": "Spieler/Gruppe B/Psaro/Psaro Klassenbogen.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lillith"
+              "title": "Outline of Psaro Klassenbogen"
             }
           },
           {
@@ -262,46 +275,54 @@
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "storyteller-suite:Open storyteller dashboard": false,
       "storyteller-suite:Apply template to story": false
     }
   },
   "active": "41075609f54c76b2",
   "lastOpenFiles": [
-    "Spieler/Gruppe B/Undeadman/Undeadman.canvas",
+    "Regeln/Statuseffekte/In Brand.md",
+    "Spieler/Gruppe B/Psaro/Psaro Klassenbogen.canvas",
+    "Sessions/Setup.md",
+    "Regeln/Statuseffekte/Panik.md",
+    "Charakterbogen PDF/Charakterbögen V2/Fertigkeiten.pdf",
+    "Spieler/Gruppe B/Psaro/Psaro Bild.jpeg",
+    "WhatsApp Image 2025-09-26 at 22.28.45.jpeg",
+    "Spieler/Gruppe B/Eisenkralle/Eisenkralle Klasenbogen.canvas",
+    "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
+    "Regeln/Statuseffekte/Lähmung.md",
+    "Spieler/Gruppe B/Nokko/Nokko.canvas",
+    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
     "Spieler/Gruppe B/Lillith/Lillith.canvas",
-    "Spieler/Gruppe B/Lillith/Lillith.md",
-    "Spieler/Gruppe B/Psaro/Psaro.canvas",
-    "Regeln/Trefferchance.md",
+    "Kritische Treffer & Fehlschlag.md",
+    "Spieler/Gruppe B/Bernard/Bernard Canvas.canvas",
+    "Spieler/Gruppe A/Esther/Esther.canvas",
+    "Yarrah'gurah.md",
+    "Blutung.md",
+    "Regeln/Statuseffekte/Vergiftung.md",
+    "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md",
+    "Charakterbogen PDF/Charakterbögen V2/Charakterbogen.pdf",
+    "Excalidraw/Kult_der_Mutter.excalidraw.md",
     "Sessions/Gruppe B/Session 0 Gruppe B.md",
-    "Spieler/Gruppe B/Undeadman/Backstory.md",
-    "Spieler/Gruppe B/Undeadman/Olivers Unsterblicher Soldat.md",
+    "Regeln/Fertigkeiten/Fertigkeiten.md",
+    "Spieler/Gruppe B/Bernard/Bernard Backstory.md",
+    "Regeln/Trefferchance.md",
+    "Spieler/Gruppe B/Lillith/AmaraBackstory.md",
+    "Spieler/Gruppe B/Lillith/Lillith.md",
+    "Spieler/Gruppe B/Bernard/Bernard.md",
     "Spieler/Gruppe B/Undeadman/DnD Character (2) 2.txt",
     "Spieler/Gruppe B/Undeadman/DnD Character (2) 1.txt",
     "Spieler/Gruppe B/Undeadman/DnD Character (2).txt",
-    "Spieler/Gruppe B/Nokko/Nokko.canvas",
     "Das älteste Gesetz.md",
-    "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md",
     "Regeln/Blocken.md",
-    "Sessions/Setup.md",
-    "Charakterbogen PDF/Charakterbögen V2/Fertigkeiten.pdf",
-    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
     "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
     "Schadensberechnung.md",
     "Regeln/Waffen/Waffen.md",
-    "Regeln/Statuseffekte/Lähmung.md",
-    "Excalidraw/Kult_der_Mutter.excalidraw.md",
-    "Regeln/Statuseffekte/Vergiftung.md",
-    "Regeln/Fertigkeiten/Fertigkeiten.md",
     "Spieler/Gruppe B/Nokko/Nokko.md",
     "Charakterbogen PDF/Charakterbögen V2/Waffen.png",
     "Charakterbogen PDF/Charakterbögen V2/Waffen.pdf",
     "Charakterbogen PDF/Charakterbögen V1/Waffenbogen.png",
     "Charakterbogen PDF/Charakterbögen V2/Ausrüstung.pdf",
-    "Charakterbogen PDF/Charakterbögen V2/Charakterbogen.pdf",
     "Charakterbogen PDF/Charakterbögen V2/Rucksack.pdf",
     "Charakterbogen PDF/Charakterbögen V1/Ausrüstungsbogen.png",
     "Charakterbogen PDF/Charakterbögen V2",
@@ -309,22 +330,11 @@
     "Charakterbogen PDF/Charakterbögen V1",
     "Regeln/Trefferzonen.md",
     "Namenloses Buch.md",
-    "Spieler/Gruppe B/Skjalda/Notizen Pascal.md",
     "Spieler/Gruppe B/Skjalda/Notizen.jpeg",
-    "Spieler/Gruppe B/Psaro/Psaro.md",
-    "Lore/Gegner/Fehlgeborener.md",
-    "Sessions/Kampagnenideen.md",
-    "id.md",
-    "Disclaimer.md",
-    "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
     "Charakterbogen PDF/Charakterbögen V1/Fertigkeitsbogen.png",
-    "Spieler/Gruppe A/Esther/Esther.canvas",
     "Spieler/Gruppe A/Veyra/Veyra.canvas",
     "Charakterbogen PDF/Charakterbögen V1/Charakterbogen.png",
-    "Spieler/Gruppe A/Pilgrim/Pilgrim.canvas",
     "Spieler/Gruppe A/Pilgrim/Pilgrim.jpg",
-    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.jpg",
-    "Charakterbogen PDF/Charakterbögen V1/Rucksack.png",
-    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.jpeg"
+    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.jpg"
   ]
 }

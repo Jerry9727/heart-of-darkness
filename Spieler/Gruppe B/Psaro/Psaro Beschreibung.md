@@ -12,7 +12,8 @@ Aussehen:
 Rasse:
 Tiefling
 
-Herkunft:
+Backstory:
+Eltern wurden aufgrund von Rassismus ermordet. Dies musste ich mit ansehen, weswegen das Trauma die Sorcerer Fähigkeiten bei mir entfacht hat. Aufgrund des Traumas kann ich diese Fähigkeiten jedoch nicht komplett kontrollieren, weswegen diese manchmal in kompletten Chaos enden.
 
 Funktion:
 

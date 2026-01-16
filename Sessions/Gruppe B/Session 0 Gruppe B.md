@@ -56,7 +56,7 @@ Er schaut dich aus ernsten, müden Augen an. Um die Augen bilden sich bereits er
 
 "Gefangener Nr. 97-9?" Er deutet auf DICH.
 
-// Auf [[Psaro|Niklas]] zeigen
+// Auf [[Psaro Beschreibung|Niklas]] zeigen
 
 "Festgenommen wegen ....? Aufstehen und Namen nennen."
 

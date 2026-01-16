@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"253adf0dac5ed7b4","type":"text","text":"# Eisenkralle","x":-80,"y":-100,"width":1080,"height":60},
+		{"id":"affe401f26cff9ee","type":"text","text":"### Stufe 1","x":-80,"y":0,"width":520,"height":60},
+		{"id":"7be95558cfaebeb1","type":"text","text":"#### Axtwurf\n2x pro Kampf (Ab Stufe 3 unbegrenzt)\nDu wirfst deine Axt auf einen Gegner und verursachst 1D6+1 Schaden. Beim einholen lässt du die Axt geschickt durch die Luft sirren und kannst an einem zusätzlichen Gegner in der Nähe 1D4 Schaden verursachen. Wirf dafür einen zusätzlichen Trefferwurf.","x":-80,"y":60,"width":520,"height":195},
+		{"id":"181a2aed29ba0cb7","type":"file","file":"Spieler/Gruppe B/Eisenkralle/Eisenkralle.jpeg","x":-460,"y":-100,"width":340,"height":510},
+		{"id":"52e05f30fc90fa81","x":1140,"y":-120,"width":800,"height":1220,"type":"file","file":"Spieler/Gruppe B/Eisenkralle/Eisenkralle.md"},
+		{"id":"e04df6e8d97fe9b7","type":"text","text":"# Klasse: Kämpfer\n*Du bist ein stolzer Krieger aus den Sümpfen von [[Yarrah'gurah]]. Dein Klan hat dich verstoßen und du bist weit weg von Zuhause, doch deinen Kampfgeist hast du nicht verloren.\nNun schlägst du dich in fremden Ländern voller seltsamer Ungetüme durch.*\n\nHauptattribute:\nStärke und Instinkt\n\nTrefferwurf:\n(STÄ/STÄ/INS)/3\n\nStartwaffe:\nDschungelaxt\n\nLebenspunkte-Zuwachs pro Stufe:\n10\n\nMana-Zuwachs pro Stufe:\n1\n\n","x":-460,"y":435,"width":340,"height":565},
+		{"id":"3456036601919fa6","type":"text","text":"#### Echsenmensch (Passiv)\nAls Echsenmensch besitzt du die Fähigkeit Unterwasser zu atmen. Du kannst außerdem deine Krallen und Kiefer als Waffe benutzen.\nDeine dicken Schuppen schützen dich wie eine natürliche Rüstung.\n- Unterwasseratmung\n- +1 Rüstung","x":-80,"y":255,"width":520,"height":225},
+		{"id":"8c8aa9b65a14819b","type":"text","text":"#### Echsenbiss\n1x pro Kampf (Ab Stufe 5 unbegrenzt)\nDu öffnet deinen schuppigen Kiefer unnatürlich weit und beißt zu. Du verursachst 1D6+2 Schaden und dein Gegner beginnt zu [[Blutung|bluten]].","x":2000,"y":-100,"width":520,"height":200},
+		{"id":"d83c802b5a52a89e","type":"text","text":"### Stufe 2","x":480,"y":3,"width":520,"height":60},
+		{"id":"1a9316f3badd5c42","type":"text","text":"#### Säure spucken\n1x pro Kampf\nDu spuckst Säure auf einen Gegner vor dir und verursacht 1D8+1 Schaden. Würfelst du beim Trefferwurf eine 5 oder weniger hast du eine Chance, dass dein Gegner seine Waffe fallen lässt. (Gegner wirft auf Willenskraft)","x":480,"y":63,"width":520,"height":192},
+		{"id":"f75a365f5946fd7e","type":"text","text":"### Stufe 3","x":480,"y":300,"width":520,"height":60},
+		{"id":"d7b373203e10a33c","type":"text","text":"#### Urwaldschlag\n1x pro Kampf\nDein kaltes Echsenblut kocht vor Kampfeslust. Du holst mit deiner Großaxt weit aus und triffst bis zu 3 nahe Gegner vor dir für 1D8+2 Schaden.","x":480,"y":360,"width":520,"height":200},
+		{"id":"de1bd7557a1ff952","type":"text","text":"#### Fehlende Finger (Passiv)\nDu trägst deine verlorenen Finger als Trophäe um den Hals, ein Beweis deines Mutes und deiner Kampfeslust. Du erhältst einen Bonus aufs Einschüchtern.\n- +2 Einschüchtern\n\nBenutzt du jedoch diese Hand um deine Axt zu werfen wird der Trefferwurf um 2 erschwert.\n","x":-80,"y":480,"width":520,"height":260}
+	],
+	"edges":[]
+}

@@ -12,7 +12,7 @@ Das Gleiche wie Durchdringung, ignoriert Rüstung.
 
 ## Elementschaden
 ### Feuer
-Feuerschaden durch brennende Waffen, Fackeln oder Feuermagie. Könnte [[Verbrennung|Verbrennungen]] auslösen.
+Feuerschaden durch brennende Waffen, Fackeln oder Feuermagie. Könnte [[In Brand|Verbrennungen]] auslösen.
 
 ### Nekrotisch
 Schaden der hauptsächlich durch Magie von Untoten und Nekromanten verursacht wird. Könnte Bonusschaden gegen lebende Gegner verursachen (Keine Untoten oder Abgründige).

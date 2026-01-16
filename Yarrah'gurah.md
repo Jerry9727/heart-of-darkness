@@ -1,0 +1,1 @@
+Sumpfgebiet im [[Wilder Osten|wilden Osten]] und Heimat der [[Echsenmenschen]]. Von hier stammt auch [[Eisenkralle]].

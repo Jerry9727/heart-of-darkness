@@ -6,9 +6,9 @@
 Unter den Gefangenen sind:
 [[Xilus Edramarek]]
 [[Lillith]]
-[[Olivers Unsterblicher Soldat]]
+[[Bernard]]
 [[Pilgrim]]
-[[Psaro]]
+[[Psaro Beschreibung]]
 [[Veyra]]
 [[Eisenkralle]]
 

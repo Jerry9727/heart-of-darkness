@@ -5,9 +5,11 @@ Tim
 
 ### Hintergrund
 Kommt aus dem Sumpf
+*Du bist ein stolzer Krieger aus den Sümpfen von [[Yarrah'gurah]]. Dein Klan hat dich verstoßen und du bist weit weg von Zuhause, doch deinen Kampfgeist hast du nicht verloren.
+Nun schlägst du dich in fremden Ländern voller seltsamer Ungetüme durch. (Von mir, noch mit Tim absprechen)
 
 ### Rasse
-Lizardmensch
+Echsenmensch
 
 ### Beruf
 
@@ -34,3 +36,5 @@ Axt
 ### Gewünschter Spilstil:
 Frontsau
 
+### Verbrechen
+Beim wildern eines seltenen tieres erwischt worden
