@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md"
+                "file": "Excalidraw/Kult_der_Mutter.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Weltkarte_mit_Ymir.excalidraw"
+              "title": "Kult_der_Mutter.excalidraw"
             }
           },
           {
@@ -31,6 +31,20 @@
               },
               "icon": "lucide-file",
               "title": "Session 0 Gruppe B"
+            }
+          },
+          {
+            "id": "c6a5a305562c2c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Gruppe A/Session 1 Gruppe A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1 Gruppe A"
             }
           },
           {
@@ -51,29 +65,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Spieler/Gruppe B/Psaro/Psaro Klassenbogen.canvas",
+                "file": "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
                 "viewState": {
-                  "x": 719.6792390633198,
-                  "y": 636.9503487861243,
-                  "zoom": -0.8027451287468705
+                  "x": 68.05517450179677,
+                  "y": 164.87357978161222,
+                  "zoom": 0.015748625765905477
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Psaro Klassenbogen"
-            }
-          },
-          {
-            "id": "ba9015d892c1005d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regeln/Statuseffekte/In Brand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "In Brand"
+              "title": "Skjalda"
             }
           },
           {
@@ -101,9 +101,50 @@
               "icon": "lucide-file-text",
               "title": "Fertigkeiten"
             }
+          },
+          {
+            "id": "ccc91d641f265983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regeln/Haltbarkeit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haltbarkeit"
+            }
+          },
+          {
+            "id": "c498a444e24cf007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Gegner/Fehlgeborener.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fehlgeborener"
+            }
+          },
+          {
+            "id": "15020ffee1da8902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Götter/Die Mutter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die Mutter"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16a3214cca69691c",
@@ -279,46 +319,51 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "41075609f54c76b2",
+  "active": "3f34e53efea48f65",
   "lastOpenFiles": [
-    "Regeln/Statuseffekte/In Brand.md",
+    "Sessions/Gruppe B/Session 0 Gruppe B.md",
+    "Lore/Götter/Die Mutter.md",
+    "Excalidraw/Kult_der_Mutter.excalidraw.md",
+    "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
+    "Lore/Gegner/Fehlgeborener.md",
+    "Sessions/Gruppe A/Session 1 Gruppe A.md",
+    "Regeln/Haltbarkeit.md",
+    "Spieler/Gruppe B/Bernard/Bernard Canvas.canvas",
+    "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md",
+    "Tempel der Mutter.md",
+    "Kathedrale von Hohenfels.md",
+    "Mormon.md",
+    "Kult der Mutter.md",
+    "Garde.md",
+    "Spieler/Gruppe A/Esther/Esther.canvas",
+    "Lore/Orte/Hohenfels.md",
+    "Lore/Konzepte/Die Zwölf.md",
+    "Rote Schwestern.md",
+    "Lore/Konzepte/Pantheon.md",
+    "Lore/Konzepte/Gott.md",
+    "Spieler/Gruppe A/Esther/Esther Bild.jpeg",
+    "Spieler/Arkana.md",
+    "Spieler/Gruppe B/Eisenkralle/Eisenkralle Klasenbogen.canvas",
+    "Charakterbogen PDF/Charakterbögen V2/Fertigkeiten.pdf",
+    "Blutung.md",
+    "Regeln/Statuseffekte/Verbrennung.md",
     "Spieler/Gruppe B/Psaro/Psaro Klassenbogen.canvas",
     "Sessions/Setup.md",
-    "Regeln/Statuseffekte/Panik.md",
-    "Charakterbogen PDF/Charakterbögen V2/Fertigkeiten.pdf",
-    "Spieler/Gruppe B/Psaro/Psaro Bild.jpeg",
-    "WhatsApp Image 2025-09-26 at 22.28.45.jpeg",
-    "Spieler/Gruppe B/Eisenkralle/Eisenkralle Klasenbogen.canvas",
-    "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
-    "Regeln/Statuseffekte/Lähmung.md",
     "Spieler/Gruppe B/Nokko/Nokko.canvas",
-    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
     "Spieler/Gruppe B/Lillith/Lillith.canvas",
+    "WhatsApp Image 2025-09-26 at 22.28.45.jpeg",
+    "Regeln/Statuseffekte/Panik.md",
+    "Spieler/Gruppe B/Psaro/Psaro Bild.jpeg",
+    "Regeln/Statuseffekte/Lähmung.md",
+    "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
     "Kritische Treffer & Fehlschlag.md",
-    "Spieler/Gruppe B/Bernard/Bernard Canvas.canvas",
-    "Spieler/Gruppe A/Esther/Esther.canvas",
     "Yarrah'gurah.md",
-    "Blutung.md",
     "Regeln/Statuseffekte/Vergiftung.md",
-    "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md",
     "Charakterbogen PDF/Charakterbögen V2/Charakterbogen.pdf",
-    "Excalidraw/Kult_der_Mutter.excalidraw.md",
-    "Sessions/Gruppe B/Session 0 Gruppe B.md",
-    "Regeln/Fertigkeiten/Fertigkeiten.md",
-    "Spieler/Gruppe B/Bernard/Bernard Backstory.md",
-    "Regeln/Trefferchance.md",
-    "Spieler/Gruppe B/Lillith/AmaraBackstory.md",
-    "Spieler/Gruppe B/Lillith/Lillith.md",
-    "Spieler/Gruppe B/Bernard/Bernard.md",
     "Spieler/Gruppe B/Undeadman/DnD Character (2) 2.txt",
     "Spieler/Gruppe B/Undeadman/DnD Character (2) 1.txt",
     "Spieler/Gruppe B/Undeadman/DnD Character (2).txt",
-    "Das älteste Gesetz.md",
-    "Regeln/Blocken.md",
     "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
-    "Schadensberechnung.md",
-    "Regeln/Waffen/Waffen.md",
-    "Spieler/Gruppe B/Nokko/Nokko.md",
     "Charakterbogen PDF/Charakterbögen V2/Waffen.png",
     "Charakterbogen PDF/Charakterbögen V2/Waffen.pdf",
     "Charakterbogen PDF/Charakterbögen V1/Waffenbogen.png",
@@ -326,15 +371,11 @@
     "Charakterbogen PDF/Charakterbögen V2/Rucksack.pdf",
     "Charakterbogen PDF/Charakterbögen V1/Ausrüstungsbogen.png",
     "Charakterbogen PDF/Charakterbögen V2",
-    "Spieler/Gruppe B/Skjalda/Skjalda.md",
     "Charakterbogen PDF/Charakterbögen V1",
-    "Regeln/Trefferzonen.md",
-    "Namenloses Buch.md",
     "Spieler/Gruppe B/Skjalda/Notizen.jpeg",
     "Charakterbogen PDF/Charakterbögen V1/Fertigkeitsbogen.png",
     "Spieler/Gruppe A/Veyra/Veyra.canvas",
     "Charakterbogen PDF/Charakterbögen V1/Charakterbogen.png",
-    "Spieler/Gruppe A/Pilgrim/Pilgrim.jpg",
-    "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.jpg"
+    "Spieler/Gruppe A/Pilgrim/Pilgrim.jpg"
   ]
 }

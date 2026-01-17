@@ -1,0 +1,2 @@
+Kathedrale die den [[Die Zwölf|Zwölf]] gewidmet ist. Sie ist das Symbol von Hohenfels als Hauptstadt des Glaubens. Sie ist die größte Kathedrale der bekannten Welt.
+Sie hatte einmal einen Turm, der der [[Hohenburg]] ebenbürtig war, obwohl die Kathedrale nicht auf der Klippe steht, sondern in der Stadt. Der Turm ist vor Jahrhunderten bei einer Belagerung von einem Katapult getroffen worden und eingestürzt. Die Reste des Turms sind heute noch zu sehen.

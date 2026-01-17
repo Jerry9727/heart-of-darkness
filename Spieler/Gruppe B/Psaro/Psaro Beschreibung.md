@@ -44,4 +44,5 @@ Wild Sorcerer
 Gewünschter Spilstil:
 Dunkelheitsmagie (Zauber sind schwarz)
 
-Start:
+### Verbrechen
+[...] die Geschichte mit dem Dorf. Dass aufgrund dessen dass mein Charakter seine Kräfte teilweise nicht unter Kontrolle hat er ungewollt mit seinen Kräften nen ganzes Dorf ausgelöscht hatte, viele oder gar alle dabei drauf gegangen sind, egal ob Männer, Frauen und Kinder und ihn das bis heute verfolgt/ er bis heute deswegen in manchen Teilen des Landes nen schlechten Ruf hat. Kann natürlich auch deswegen gesucht werden, das ist dir überlassen

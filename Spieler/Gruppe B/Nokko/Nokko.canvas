@@ -17,7 +17,7 @@
 		{"id":"6e4af04c066dc60e","type":"text","text":"#### Verwandlung: Fledermaus\nDir wachsen Flügel! Du wirst zu einer Fledermaus und schwingst dich in die Lüfte!\n- +2 Ausweichen\n- Nachtsicht\n- Fliegen\n\n#### Blutsaugen\nDu beißt einen Gegner mit deinen spitzen Zähnen und saugst sein Blut. Du verursachst 1D6+2 Schaden. Du heilst dich um die Hälfte des verursachten Schadens.","x":480,"y":808,"width":520,"height":370},
 		{"id":"8f285012b8eb9032","type":"text","text":"### Klasse: Druide\n\nDu bist ein Pilz!\n\nHauptattribute:\nVerstand und Instinkt\n\nTrefferchance:\n(VER / INS / INS)/3\n\nLebenzuwachs pro Stufe:\n7\n\nManazuwachs pro Stufe:\n8","x":-460,"y":0,"width":340,"height":410},
 		{"id":"e42db9ca1ee48570","type":"text","text":"#### Pilz (Passiv)\nAls Pilz bist du Resistent gegen die meisten Gifte. Du hast außerdem einen natürlichen Bonus von +2 auf Tierkunde sowie Pflanzenkunde. Das war's eigentlich auch schon!","x":-80,"y":965,"width":520,"height":155},
-		{"id":"2a5c22d1cd14c376","type":"text","text":"### Feuerball\n5 Mana\nDu wirfst einen Feuerball auf einen Gegner und verursachst 1D10Schaden. 20% Chance den Gegner [[In Brand|in Brand zu stecken]]. (D10 werfen, bei 1 oder 2 brennt der Gegner)\nEin Kritischer Treffer setzt einen Gegner garantiert in Brand.\n","x":-80,"y":780,"width":520,"height":185}
+		{"id":"2a5c22d1cd14c376","type":"text","text":"### Feuerball\n5 Mana\nDu wirfst einen Feuerball auf einen Gegner und verursachst 1D10Schaden. 20% Chance den Gegner [[Verbrennung|in Brand zu stecken]]. (D10 werfen, bei 1 oder 2 brennt der Gegner)\nEin Kritischer Treffer setzt einen Gegner garantiert in Brand.\n","x":-80,"y":780,"width":520,"height":185}
 	],
 	"edges":[]
 }

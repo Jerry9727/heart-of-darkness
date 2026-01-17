@@ -1,0 +1,1 @@
+Eine Gruppe fanatischer Anbeter der [[Die Mutter|Mutter]]. Bestand in ferner Vergangenheit einmal aus ehrwürdigen Priestern, doch als die Mutter korrumpierte, taten das auch ihre Anhänger. Zumindest die die blieben. Nun streben sie danach Leben zu erschaffen wie sie. Böse, verdorben. Diener.

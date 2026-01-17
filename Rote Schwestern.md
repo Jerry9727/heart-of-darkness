@@ -1,0 +1,1 @@
+Nonnen, die nach Schlachten verwundeten helfen. Sie haben ihren Namen bekommen, weil ihre schwarzen Roben nach den vielen Behandlungen rot von Blut sind.

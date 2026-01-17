@@ -1,0 +1,1 @@
+Rittergarde von Hohenfels. [[Tellan]] ist Mitglied. Gewöhnliche Ritter sowie die Stadtwache unterstehen ihren Befehlen.

@@ -2,7 +2,7 @@ Spieler\*in:
 Oliver
 
 Arkana:
-The Hanged Man
+12: The Hanged Man
 
 Hintergrund:
 

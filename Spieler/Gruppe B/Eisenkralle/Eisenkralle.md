@@ -2,6 +2,7 @@
 Tim
 
 ### Arcana
+14: Temperance
 
 ### Hintergrund
 Kommt aus dem Sumpf
@@ -37,4 +38,4 @@ Axt
 Frontsau
 
 ### Verbrechen
-Beim wildern eines seltenen tieres erwischt worden
+Beim wildern eines seltenen tieres erwischt worden.
