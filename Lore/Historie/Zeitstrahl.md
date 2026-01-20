@@ -2,6 +2,7 @@
 
 #### [[Prähistorisches Zeitalter]]
 - Hier enden alle Aufzeichnungen. Klar ist nur, dass die Welt viel älter ist als das Zeitalter der Mythen.
+- Endete mit dem Ende [[Drachenkrieg]] und der darauf folgenden Abspaltung der Drachen vom Rest der Welt.
 
 #### [[Zeitalter der Mythen]]
 Dauer: unbekannt, mindestens 10.000 Jahre
@@ -11,6 +12,8 @@ Dauer: unbekannt, mindestens 10.000 Jahre
 #### [[Zweites Zeitalter]]
 Dauer: ca. 2000. Jahre
 - ???: Gut und böse sind ausgewogen. Der erste Krieg bricht aus.
+- ???: Ankunft der Menschen auf dem Kontinent.
+- Endet mit der Eroberung der Menschen und dem Rückzug der Menschen
 
 #### [[Dunkles Zeitalter]]
 Dauer: aktuell 1097 Jahre

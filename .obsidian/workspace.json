@@ -8,143 +8,80 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f34e53efea48f65",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Kult_der_Mutter.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Kult_der_Mutter.excalidraw"
-            }
-          },
-          {
-            "id": "4e2a78b9657150c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Gruppe B/Session 0 Gruppe B.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0 Gruppe B"
-            }
-          },
-          {
             "id": "c6a5a305562c2c5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Gruppe A/Session 1 Gruppe A.md",
+                "file": "Sessions/Kampagnenideen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 Gruppe A"
+              "title": "Kampagnenideen"
             }
           },
           {
-            "id": "711a1ba0b25b5eed",
+            "id": "b599988ef6700704",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Kult_der_Mutter.excalidraw.md"
+                "file": "Sessions/Gruppe B/Session 1 Gruppe B.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Kult_der_Mutter.excalidraw"
+              "icon": "lucide-file",
+              "title": "Session 1 Gruppe B"
             }
           },
           {
-            "id": "41075609f54c76b2",
+            "id": "e77a1f9faca99554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drachenkrieg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drachenkrieg"
+            }
+          },
+          {
+            "id": "2980a30251744e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Die Welt von Heart of Darkness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die Welt von Heart of Darkness"
+            }
+          },
+          {
+            "id": "686522ab969e943d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
+                "file": "Die Welt Canvas.canvas",
                 "viewState": {
-                  "x": 68.05517450179677,
-                  "y": 164.87357978161222,
-                  "zoom": 0.015748625765905477
+                  "x": -13.644243915582226,
+                  "y": -41.44960050463156,
+                  "zoom": -0.637631442944209
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Skjalda"
-            }
-          },
-          {
-            "id": "da89ca3fe1f22d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup"
-            }
-          },
-          {
-            "id": "ce6aa6772fd26e79",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Charakterbogen PDF/Charakterbögen V2/Fertigkeiten.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fertigkeiten"
-            }
-          },
-          {
-            "id": "ccc91d641f265983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regeln/Haltbarkeit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Haltbarkeit"
-            }
-          },
-          {
-            "id": "c498a444e24cf007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Gegner/Fehlgeborener.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fehlgeborener"
-            }
-          },
-          {
-            "id": "15020ffee1da8902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Götter/Die Mutter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Die Mutter"
+              "title": "Die Welt Canvas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -319,55 +256,55 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "3f34e53efea48f65",
+  "active": "5f28be539c28b4db",
   "lastOpenFiles": [
-    "Sessions/Gruppe B/Session 0 Gruppe B.md",
-    "Lore/Götter/Die Mutter.md",
-    "Excalidraw/Kult_der_Mutter.excalidraw.md",
+    "Die Welt Canvas.canvas",
+    "Lore/Die Welt von Heart of Darkness.md",
+    "Spieler/Gruppe B/Eisenkralle/Eisenkralle.md",
+    "Lore/Somantis.md",
+    "Vigamund.md",
+    "Yarrah'gurah.md",
+    "Lore/Orte/Wilder Osten.md",
+    "Drachenkrieg.md",
+    "Sessions/Gruppe B/Session 1 Gruppe B.md",
+    "Lore/Historie/Zeitstrahl.md",
+    "Lore/Rassen/Drachengeborene.md",
+    "Sessions/Kampagnenideen.md",
+    "Regeln/Fertigkeiten/Fertigkeiten.md",
+    "Regeln/Spieler Stats.md",
+    "Stufenaufstieg.md",
+    "Lore/Orte/Athanor.md",
+    "Lore/Hohenburg.md",
+    "Lore/Charaktere/Robert Endurion.md",
     "Spieler/Gruppe B/Skjalda/Skjalda.canvas",
-    "Lore/Gegner/Fehlgeborener.md",
+    "Sessions/Zeitstrahl.md",
     "Sessions/Gruppe A/Session 1 Gruppe A.md",
-    "Regeln/Haltbarkeit.md",
-    "Spieler/Gruppe B/Bernard/Bernard Canvas.canvas",
-    "Excalidraw/Weltkarte_mit_Ymir.excalidraw.md",
-    "Tempel der Mutter.md",
-    "Kathedrale von Hohenfels.md",
+    "Sessions/Gruppe B/Zusammenfassung Session 0 Gruppe B.md",
+    "Sessions/Gruppe B/Session 0 Gruppe B.md",
+    "Kritische Treffer & Fehlschlag.md",
     "Mormon.md",
-    "Kult der Mutter.md",
-    "Garde.md",
-    "Spieler/Gruppe A/Esther/Esther.canvas",
-    "Lore/Orte/Hohenfels.md",
-    "Lore/Konzepte/Die Zwölf.md",
-    "Rote Schwestern.md",
-    "Lore/Konzepte/Pantheon.md",
-    "Lore/Konzepte/Gott.md",
-    "Spieler/Gruppe A/Esther/Esther Bild.jpeg",
-    "Spieler/Arkana.md",
-    "Spieler/Gruppe B/Eisenkralle/Eisenkralle Klasenbogen.canvas",
+    "Charakterbogen PDF/Charakterbögen V2/Waffen.pdf",
     "Charakterbogen PDF/Charakterbögen V2/Fertigkeiten.pdf",
-    "Blutung.md",
-    "Regeln/Statuseffekte/Verbrennung.md",
-    "Spieler/Gruppe B/Psaro/Psaro Klassenbogen.canvas",
-    "Sessions/Setup.md",
+    "Charakterbogen PDF/Charakterbögen V2/Charakterbogen.pdf",
+    "Charakterbogen PDF/Charakterbögen V2/Ausrüstung.pdf",
+    "Lore/Konzepte/Die Zwölf.md",
+    "Excalidraw/Kult_der_Mutter.excalidraw.md",
     "Spieler/Gruppe B/Nokko/Nokko.canvas",
     "Spieler/Gruppe B/Lillith/Lillith.canvas",
+    "Spieler/Gruppe B/Bernard/Bernard Canvas.canvas",
+    "Spieler/Gruppe A/Esther/Esther.canvas",
+    "Spieler/Gruppe A/Esther/Esther Bild.jpeg",
+    "Spieler/Gruppe B/Eisenkralle/Eisenkralle Klasenbogen.canvas",
+    "Spieler/Gruppe B/Psaro/Psaro Klassenbogen.canvas",
     "WhatsApp Image 2025-09-26 at 22.28.45.jpeg",
-    "Regeln/Statuseffekte/Panik.md",
     "Spieler/Gruppe B/Psaro/Psaro Bild.jpeg",
-    "Regeln/Statuseffekte/Lähmung.md",
     "Spieler/Gruppe A/Xilus Edramarek/Xilus Edramarek.canvas",
-    "Kritische Treffer & Fehlschlag.md",
-    "Yarrah'gurah.md",
-    "Regeln/Statuseffekte/Vergiftung.md",
-    "Charakterbogen PDF/Charakterbögen V2/Charakterbogen.pdf",
     "Spieler/Gruppe B/Undeadman/DnD Character (2) 2.txt",
     "Spieler/Gruppe B/Undeadman/DnD Character (2) 1.txt",
     "Spieler/Gruppe B/Undeadman/DnD Character (2).txt",
     "Spieler/Gruppe A/Osseus Textoris/Osseus Textoris.canvas",
     "Charakterbogen PDF/Charakterbögen V2/Waffen.png",
-    "Charakterbogen PDF/Charakterbögen V2/Waffen.pdf",
     "Charakterbogen PDF/Charakterbögen V1/Waffenbogen.png",
-    "Charakterbogen PDF/Charakterbögen V2/Ausrüstung.pdf",
     "Charakterbogen PDF/Charakterbögen V2/Rucksack.pdf",
     "Charakterbogen PDF/Charakterbögen V1/Ausrüstungsbogen.png",
     "Charakterbogen PDF/Charakterbögen V2",

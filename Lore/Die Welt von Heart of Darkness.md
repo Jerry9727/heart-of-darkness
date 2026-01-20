@@ -1,3 +1,5 @@
+Der Name der Welt lautet [[Vigamund]].
+
 # [[Somantis]]
 
 ## Länder
@@ -11,4 +13,5 @@ Hauptstadt: [[Maagfurt]]
 ### Königreich [[Athanor]]
 Hauptstadt: [[Hohenfels]]
 
-# Der wilde Osten
+# [[Wilder Osten|Der wilde Osten]]
+Ort: [[Großer Sumpf]]

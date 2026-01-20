@@ -1,19 +1,4 @@
 ## Charakterwerte
-Konstitution (Robusheit, Widerstandskraft, Zähigkeit, Lebenskraft, Vitalität)
-Stärke (Kraft, Macht)
-Geschick (Gewandheit)
-Intelligenz (Intellekt)
-Weisheit (Intuition, Verstand, Instinkt)
-Charisma (Präsenz, Aura, Redekunst)
-
-Test:
-Konstitution
-Stärke
-Geschick
-Intelligenz
-Weisheit
-Charisma
-
 Konstitution
 Stärke
 Geschick
@@ -21,12 +6,8 @@ Verstand
 Instinkt
 Charisma
 
-Zähigkeit
-Kraft
-Gewandtheit
-Verstand
-Instinkt
-Präsenz
+## Steigerung
+System aus DnD: Auf den Stufen 4, 8, 12, 16 und 19 darf ein Spieler 2 Statpunkte verteilen.
 
 ## Lebenskraft
 Alternative Namen: Durchhaltevermögen, Lebenspunkte, Vitalität, Robustheit, Blut, Ausdauer, Fitness

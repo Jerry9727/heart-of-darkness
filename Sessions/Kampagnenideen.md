@@ -45,6 +45,15 @@ Auf dem Weg die Welt zu retten müssen die Spieler unmögliche Entscheidungen tr
 - Der Gott der Liebe reinkarniert (Vielleicht als 2? Liebe und Kontrolle?) und spricht zu den Spielern und dem sterbenden Aurelius. Macht erst den Eindruck, als wäre Aurelius zurück, ist aber seine eigene Person. Tritt neutral auf. Dies zeigt Aurelius dass Götter durchaus eine Wahl haben, da der neue Gott der Liebe ansonsten genau wie er hätte werden müssen. Aurelius bleibt gebrochen zurück.
 - Signifikant geschwächt und sterbend erhalten die Spieler die Wahl, ob sie Aurelius verschonen wollen. (Deutlich machen dass er seine Fehler nie ganz verstehen wird, aber ihn zu einem Leben als Sterblicher zu verurteilen mag für ihn qualvoller als der Tod sein. Dies zwingt ihn sich mit seinen Fehlern auseinander zu setzen. Dieses Ende funktioniert nur wenn klar ist, dass es keine Möglichkeit für ihn gibt, jemals zu seiner Göttlichen Form zurückzukehren)
 
+## Motivation der Spieler für die Kampagne
+- Der König hat vom Orden gehört, dass sie fähige Kämpfer sind und will dass die Spieler den Kult und die Monster die sie erschaffen untersuchen.
+- Der Jägerorden weiß von den Steinen in den Erwachten und denen, die kurz davor waren.
+- Was genau ein Seelenstein ist, wissen sie nicht. sie sind im Verlauf der Geschichte immer wieder aufgetaucht, aber niemand hat die Verbindung hergestellt. Es war immer nur von magischen Kristallen die Rede. Man ging davon aus, dass es sich um magisch aufgeladene Edelsteine handle (weil Edelsteine besonders gut Energie speichern), aber das ist nicht der Fall. Sie sind von Natur aus magisch.
+- Der König zwingt die Spieler, da sie ansonsten vom Orden als Monster deklariert und gejagt werden. Er bietet ihnen allerdings auch eine Belohnung an: Einen Wunsch. Der Spieler darf dann um etwas bitten, dass in der Macht eines Königs liegt. 77 Jungfrauen? sicher. Lord sein? Eine Burg befehligen? Den Ritterschlag?
+- Der König ist hinterlistig. Wenn ihm der Wunsch nicht passt, versterben die Teilnehmer auf mysteriöse Weise.
+- Idee: Wenn die Spieler den König aufsuchen, ist ein Bittsteller vor Ihnen. Ein Gesandter aus der Wüste. Vielleicht der Sohn des Anführers? Er bittet den König um Unterstützung in einer kritischen Angelegenheit.
+
+
 ## WIP
 - An irgendeinem Punkt im Zweiten Teil der Kampagne besuchen die Spieler den Pantheon und kommunizieren mit den Göttern.
 
@@ -66,6 +75,7 @@ Auf dem Weg die Welt zu retten müssen die Spieler unmögliche Entscheidungen tr
 - Bone Collector Caterpillar (Google)
 
 ## Charaktere die ich schreiben will
+- Unlikely Companion: Das Mädchen mit Kräften aus meiner Shortstory "Schatten"
 - Tellan: Eine Art Jaime Lannister. Definitiv nicht gut, aber auf seine Art ehrenhaft und respektabel.
 - Kishibe: Eine Art widerwilliger Mentor. Er genießt den Kampf und die Jagd, aber er hat solide Grundwerte
 - Onkel Iroh/Yoda: Ein weiser Ratgeber, der etwas verrückt wirkt, aber unerwartet weise ist. (Vielleicht kann einer von Aurelius Söhnen diese Rolle füllen? Nein, muss ein Mensch sein.)

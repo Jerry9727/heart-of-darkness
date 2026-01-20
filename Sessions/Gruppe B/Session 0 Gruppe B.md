@@ -198,7 +198,7 @@ Ihr hört ein leises tapsen aus einer Ecke. Es scheint von den Kisten zu kommen.
 
 // Was tut ihr?
 
-Ihr seht hinter die Kisten, doch da ist nichts, außer Spinnweben, eine tote Ratte und ein Pilz. Der Pilz dreht sich zu euch um und schaut euch aus großen Augen an.
+Ihr seht hinter die Kisten, doch da ist nichts, außer Spinnweben, eine tote Ratte und ein Pilz. Der Pilz dreht sich zu euch um und schaut an.
 
 // Charlotte! Beschreibe kurz dein Aussehen!
 
@@ -228,6 +228,16 @@ Ihr untersucht die Statue genauer. Sie ist annähernd Menschenförmig und an die
 // Spieler machen Rätsel.
 // Pascal darf sich vorstellen
 
+### Frau am Haken
+Eine Frau im Leinenhemd hängt mit Handschellen an einem Haken an der Decke. Als ihr näherkommt beginnt sie zu zucken. "Bitte holt mich hier raus. fleht sie euch an."
+
+"Sie haben mich gefangen. Und geschnitten. Bitte macht dass es aufhört."
+"Sie haben mich bewusstlos geschlagen. Ich bin aufgewacht als sie mich hierher geschleppt haben. Es roch nach Abwasser. Ich glaube sie haben mich durch die Kanalisation getragen."
+
+// Name: Anna
+// Wenn die Spieler die Frau losmachen hustet sie Blut und stirbt.
+
+Anna schlägt die Hände vor den Mund und beginnt plötzlich schrecklich zu Husten. Der Anfall dauert lang. Als sie die Hände wieder runternimmt, seht ihr dass sie blutverschmiert sind. Die Frau sackt zu Boden.
 #### Statuen der Mutter
 Eine große Steinstatue einer Frau in einer Robe mit einem Heiligenschein. Sie hält liebevoll ein nacktes Neugeborenes in den Armen hält. Bei allen Statuen wurde der Kopf des Neugeborenen abgeschlagen.
 
